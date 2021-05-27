@@ -29,6 +29,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - jellyfin
 - kde
 - lisp
+- lobsters
 - miraheze
 - musl
 - mutt
@@ -41,6 +42,8 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - rsync
 - scheme
 - sourcehut
+- sourcehut
+- sway
 - sysadmin
 - ubuntu
 - vim
@@ -56,3 +59,5 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 ## List of notable projects and channels that have stayed
 
 More difficult to find are projects that have stayed, please let me know.
+
+- fdroid
