@@ -1,6 +1,7 @@
 # List of notable projects and channels that have left Freenode
 
 - alpine (to oftc)
+- archlinux
 - bastillebsd
 - centos
 - clojure
