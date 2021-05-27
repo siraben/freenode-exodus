@@ -8,6 +8,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - archlinux
 - bastillebsd
 - centos
+- chicken
 - clojure
 - coq
 - couchdb
@@ -20,6 +21,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - fennel
 - fosdem
 - gamingonlinux
+- gdb
 - gentoo
 - ghc 
 - gnuradio
@@ -54,7 +56,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - weechat
 - wesnoth
 - wikimedia
-- xapian (to matrix)
+- xapian
 - xen
 - zig
 - zsh
