@@ -23,10 +23,11 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - gamingonlinux
 - gdb
 - gentoo
-- ghc 
+- ghc
 - gnuradio
 - grafana
 - guile
+- guix
 - haskell
 - ircpuzzles
 - irssi
@@ -41,6 +42,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - mysql
 - neomutt
 - nixos (to matrix)
+- nonguix
 - perl
 - postgres
 - prometheus
