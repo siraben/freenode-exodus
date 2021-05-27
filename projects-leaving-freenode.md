@@ -52,3 +52,5 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - xen
 - zig
 - zsh
+
+## List of notable projects and channels that have stayed
