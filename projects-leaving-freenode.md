@@ -17,6 +17,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - elixir
 - emacs
 - fedora
+- fennel
 - fosdem
 - gamingonlinux
 - gentoo
@@ -29,12 +30,14 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - irssi
 - jellyfin
 - kde
+- leiningen
 - lisp
 - lobsters
 - miraheze
 - musl
 - mutt
 - mysql
+- neomutt
 - nixos (to matrix)
 - perl
 - postgres
@@ -51,7 +54,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - weechat
 - wesnoth
 - wikimedia
-- wikipedia
+- xapian (to matrix)
 - xen
 - zig
 - zsh
