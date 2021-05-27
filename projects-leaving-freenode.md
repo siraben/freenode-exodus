@@ -43,7 +43,6 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - rsync
 - scheme
 - sourcehut
-- sourcehut
 - sway
 - sysadmin
 - ubuntu
