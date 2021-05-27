@@ -23,6 +23,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - ghc 
 - gnuradio
 - grafana
+- guile
 - haskell
 - ircpuzzles
 - irssi
