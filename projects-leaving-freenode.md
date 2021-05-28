@@ -17,9 +17,11 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - devuan
 - elixir
 - emacs
+- erc
 - fedora
 - fennel
 - fosdem
+- fosshost
 - gamingonlinux
 - gdb
 - gentoo
@@ -30,12 +32,12 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - guix
 - haskell
 - ircpuzzles
-- irssi
 - jellyfin
 - kde
 - leiningen
 - lisp
 - lobsters
+- minetest
 - miraheze
 - musl
 - mutt
@@ -43,15 +45,19 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - neomutt
 - nixos (to matrix)
 - nonguix
+- org-mode
+- packetframe
 - perl
 - postgres
 - prometheus
 - python
+- regrap
 - rsync
 - scheme
 - sourcehut
 - sway
 - sysadmin
+- systemd
 - ubuntu
 - vim
 - voidlinux
@@ -66,3 +72,5 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 ## Notable projects and channels that have stayed on Freenode
 
 More difficult to find are projects that have stayed, please let me know.
+
+- irssi
