@@ -32,6 +32,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - guix
 - haskell
 - ircpuzzles
+- irssi
 - jellyfin
 - kde
 - leiningen
@@ -72,5 +73,3 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 ## Notable projects and channels that have stayed on Freenode
 
 More difficult to find are projects that have stayed, please let me know.
-
-- irssi
