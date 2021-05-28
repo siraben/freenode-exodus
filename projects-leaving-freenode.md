@@ -31,6 +31,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - guile
 - guix
 - haskell
+- haveno
 - ircpuzzles
 - irssi
 - jellyfin
@@ -52,9 +53,12 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - postgres
 - prometheus
 - python
+- qt
 - regrap
 - rsync
+- rtlsdr
 - scheme
+- slackware
 - sourcehut
 - sway
 - sysadmin
@@ -67,6 +71,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - wikimedia
 - xapian
 - xen
+- xmonad
 - zig
 - zsh
 
