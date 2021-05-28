@@ -5,6 +5,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 Sources are mostly comments I've seen on HN and various IRC channels.
 
 - alpine (to oftc)
+- apertium (to oftc)
 - archlinux
 - bastillebsd
 - centos
@@ -15,6 +16,7 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - curl
 - debian
 - devuan
+- django
 - elixir
 - emacs
 - erc
@@ -54,7 +56,8 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - prometheus
 - python
 - qt
-- regrap
+- reprap
+- rocm (to oftc)
 - rsync
 - rtlsdr
 - scheme
