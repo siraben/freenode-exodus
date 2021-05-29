@@ -4,68 +4,86 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 
 Sources are mostly comments I've seen on HN and various IRC channels.
 
+New list for May 29th 2021
 - [#Radeon and #ROCm (to OFTC)](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/)
+- [ADIIRC](https://www.adiirc.com/posts.php?i=125)
 - Alpine (to oftc)
 - [Ansible](https://github.com/ansible/community/pull/614)
 - [Apertium (to OFTC)](https://www.reddit.com/r/Apertium/comments/nm1p7k/apertium_is_now_on_oftc/)
 - [Arcan Chat](https://arcan-fe.com/)
 - Archlinux
+- [Ardour](https://discourse.ardour.org/t/ardour-org-irc-chat-channel-has-moved/105996)
 - [Arduino](https://forum.arduino.cc/t/arduino-irc-channel-moved-to-libera-chat/866788)
 - [Asterisk](https://www.asterisk.org/irc-channels-moved-to-libera-chat/)
 - Bastillebsd
+- [Bitcoin Core](https://bitcoinops.org/en/newsletters/2021/05/26/)
+- [Calyxos](https://calyxos.org/news/2021/05/27/community-update/)
 - CentOS
 - Chicken
-- Clojure
+- [Clojure](https://clojure.org/community/resources)
+- [Convos](https://convos.chat/blog/2021/5/20/moving-from-freenode-to-libera)
 - Coq
 - Couchdb
 - Curl
+- [D-Lang](https://www.mail-archive.com/digitalmars-d-announce@puremagic.com/msg46050.html)
 - Debian
 - Devuan
 - [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
 - Elixir
 - Emacs
 - Erc
+- [FSFE](https://fsfe.org/news/2021/news-20210525-01.de.html)
 - Fedora
 - Fennel
 - Fosdem
 - Fosshost
 - [FreeBSD](https://wiki.freebsd.org/IRC/Official-FreeBSD-IRC-channels-now-on-Libera-Chat)
 - [FreedroidRPG](https://www.freedroid.org/2021/05/20/moving-to-libera-chat/)
-- Gamingonlinux
 - GDB
-- Gentoo
 - GHC
 - GNUradio
+- Gamingonlinux
+- Gentoo
 - [Gobolinux](https://gobolinux.discourse.group/t/irc-channel-moves-to-libera/61)
 - Grafana
 - Guile
 - Guix
+- [HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2021-05-26/hardenedbsd-switching-irc-servers)
+- [Hardfought](https://www.hardfought.org/libera-irc/)
 - Haskell
 - [Haveno](https://github.com/haveno-dex/haveno-meta/issues/10)
+- [IRCv3 WG](https://twitter.com/IRCv3/status/1395425788447674372)
+- [Indian Linux User's Group - Chennai](https://ilugc.in/moving-from-freenode-to-liberachat/)
 - [Indieweb](https://indieweb.org/discuss#2021_IRC_Migration)
 - Ircpuzzles
 - Irssi
 - Jellyfin
 - Kde
+- [LXC](https://discuss.linuxcontainers.org/t/lxc-now-using-libera-as-its-irc-network-live-chats/11178)
 - Leiningen
 - [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
 - Lisp
 - Lobsters
+- [Metabrainz](https://blog.metabrainz.org/)
+- [Minecraft Overviewer](https://overviewer.org/blog/2021/5/22/the-irc-channel-has-moved/)
 - Minetest
-- Miraheze
+- [Miraheze](https://circleyverse.miraheze.org/wiki/Main_Page)
 - [Monero](https://github.com/monero-project/meta/issues/575) but are waiting for the matrix bridge to be up before completing the move.
+- [MorphOS](https://www.amiga-news.de/en/news/AN-2021-05-00064-EN.html)
 - Musl
 - Mutt
 - Mysql
 - Neomutt
 - Nixos (to matrix)
 - Nonguix
+- [OpenLDAP](https://twitter.com/hyc_symas/status/1395829020009410561)
 - [OpenWRT (to OFTC)](https://openwrt.org/irc)
 - Org mode
 - Packetframe
 - Perl
+- [Picolisp](https://www.mail-archive.com/picolisp@software-lab.de/msg10639.html)
+- [Porteus](https://forum.porteus.org/viewtopic.php?f=48&p=82428&sid=fd768d3cbbacf4fc4b1be36456d31328)
 - Postgres
-- Powder
 - Prometheus
 - Python
 - [QT](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
@@ -79,11 +97,14 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - Scheme
 - [Selenium](https://www.selenium.dev/blog/2021/moving-to-libera-chat/)
 - [Slackware](http://www.slackware.com/~rworkman/slackware-irc/)
+- [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
 - Sourcehut
 - Sway
 - Sysadmin
 - Systemd
+- [Team Fortress Wiki](https://wiki.teamfortress.com/w/index.php?title=Team_Fortress_Wiki:IRC&diff=2980701&oldid=2970773)
 - [The Mana World](https://www.themanaworld.org/news#94-news-2021-05-28)
+- [The Powder Toy](https://powdertoy.co.uk/Wiki/index.php?title=Irc_setup&curid=68&diff=8087&oldid=8083)
 - Ubuntu
 - Vim
 - Voidlinux
@@ -94,8 +115,13 @@ Sources are mostly comments I've seen on HN and various IRC channels.
 - Xen
 - Xmonad
 - [Xubuntu](https://xubuntu-devel.narkive.com/ptEHzj6U/irc-move-to-libera-chat)
+- [ZNC](https://wiki.znc.in/index.php?title=FAQ&curid=116&diff=2806&oldid=2771)
 - Zig
 - Zsh
+- [btrfs](https://btrfs.wiki.kernel.org/index.php?title=Main_Page&curid=1&diff=33413&oldid=33412)
+- [ffmpeg](https://git.ffmpeg.org/gitweb/ffmpeg-web.git/commit/8ccd75e40f7366d17a2bc6787cc4e86c79a242ab)
+- [hplusroadmap](https://diyhpl.us/wiki/hplusroadmap/)
+- [ioquake3](https://ioquake3.org/ioquake3/ioquake3-irc-moved-to-libera/)
 
 ## Projects and channels that have stayed on Freenode
 
