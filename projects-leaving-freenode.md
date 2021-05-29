@@ -2,7 +2,7 @@
 
 This is a (necessarily incomplete) list of projects and channels that have decided to permanently move out of Freenode to https://libera.chat (unless stated otherwise). Please reach out below or on IRC if there's additions or corrections.
 
-Sources are mostly comments I've seen on HN and various IRC channels.
+Sources are mostly comments I've seen on HN, various IRC channels and web searches.
 
 New list for May 29th 2021
 - [#Radeon and #ROCm (to OFTC)](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/)
