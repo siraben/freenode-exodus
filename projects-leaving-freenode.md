@@ -68,7 +68,7 @@ New list for May 29th 2021
 - [Minecraft Overviewer](https://overviewer.org/blog/2021/5/22/the-irc-channel-has-moved/)
 - Minetest
 - [Miraheze](https://circleyverse.miraheze.org/wiki/Main_Page)
-- [Monero](https://github.com/monero-project/meta/issues/575) but are waiting for the matrix bridge to be up before completing the move.
+- [Monero](https://github.com/monero-project/meta/issues/575)
 - [MorphOS](https://www.amiga-news.de/en/news/AN-2021-05-00064-EN.html)
 - Musl
 - Mutt
