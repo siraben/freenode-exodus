@@ -4,7 +4,6 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 
 Sources are mostly comments I've seen on HN, various IRC channels and web searches.
 
-New list for May 29th 2021
 - [#Radeon and #ROCm (to OFTC)](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/)
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
 - Alpine (to oftc)
@@ -41,7 +40,7 @@ New list for May 29th 2021
 - [FreedroidRPG](https://www.freedroid.org/2021/05/20/moving-to-libera-chat/)
 - GDB
 - GHC
-- GNUradio
+- [GNU radio](https://twitter.com/gnuradio/status/1397474348659875840)
 - Gamingonlinux
 - [Gentoo](https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html)
 - [Gobolinux](https://gobolinux.discourse.group/t/irc-channel-moves-to-libera/61)
