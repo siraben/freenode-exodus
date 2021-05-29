@@ -32,7 +32,7 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - Emacs
 - Erc
 - [FSFE](https://fsfe.org/news/2021/news-20210525-01.de.html)
-- Fedora
+- [Fedora](https://twitter.com/fedora/status/1397979075973730304)
 - Fennel
 - Fosdem
 - Fosshost
