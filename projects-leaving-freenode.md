@@ -4,96 +4,98 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 
 Sources are mostly comments I've seen on HN and various IRC channels.
 
-- alpine (to oftc)
-- ansible
-- ansible
-- apertium (to oftc)
-- arcan
-- archlinux
-- arduino
-- asterisk
-- bastillebsd
-- centos
-- chicken
-- clojure
-- coq
-- couchdb
-- curl
-- debian
-- devuan
-- django
-- elixir
-- emacs
-- erc
-- fedora
-- fennel
-- fosdem
-- fosshost
-- freebsd
-- freedroid
-- gamingonlinux
-- gdb
-- gentoo
-- ghc
-- gnuradio
-- gobolinux
-- grafana
-- guile
-- guix
-- haskell
-- haveno
-- indieweb
-- ircpuzzles
-- irssi
-- jellyfin
-- kde
-- leiningen
-- libreelrc
-- lisp
-- lobsters
-- minetest
-- miraheze
-- musl
-- mutt
-- mysql
-- neomutt
-- nixos (to matrix)
-- nonguix
-- openwrt (to oftc)
-- org-mode
-- packetframe
-- perl
-- postgres
-- powder
-- prometheus
-- python
-- qt
-- qutebrowser
-- raku
-- reprap
-- rocm (to oftc)
-- rsync
-- rtlsdr
-- scheme
-- selenium
-- slackware
-- sourcehut
-- sway
-- sysadmin
-- systemd
-- themanaworld
-- ubuntu
-- vim
-- voidlinux
-- weechat
-- wesnoth
-- wikimedia
-- xapian
-- xen
-- xmonad
-- xubuntu
-- zig
-- zsh
+- [#Radeon and #ROCm (to OFTC)](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/)
+- Alpine (to oftc)
+- [Ansible](https://github.com/ansible/community/pull/614)
+- [Apertium (to OFTC)](https://www.reddit.com/r/Apertium/comments/nm1p7k/apertium_is_now_on_oftc/)
+- [Arcan Chat](https://arcan-fe.com/)
+- Archlinux
+- [Arduino](https://forum.arduino.cc/t/arduino-irc-channel-moved-to-libera-chat/866788)
+- [Asterisk](https://www.asterisk.org/irc-channels-moved-to-libera-chat/)
+- Bastillebsd
+- CentOS
+- Chicken
+- Clojure
+- Coq
+- Couchdb
+- Curl
+- Debian
+- Devuan
+- [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
+- Elixir
+- Emacs
+- Erc
+- Fedora
+- Fennel
+- Fosdem
+- Fosshost
+- [FreeBSD](https://wiki.freebsd.org/IRC/Official-FreeBSD-IRC-channels-now-on-Libera-Chat)
+- [FreedroidRPG](https://www.freedroid.org/2021/05/20/moving-to-libera-chat/)
+- Gamingonlinux
+- GDB
+- Gentoo
+- GHC
+- GNUradio
+- [Gobolinux](https://gobolinux.discourse.group/t/irc-channel-moves-to-libera/61)
+- Grafana
+- Guile
+- Guix
+- Haskell
+- [Haveno](https://github.com/haveno-dex/haveno-meta/issues/10)
+- [Indieweb](https://indieweb.org/discuss#2021_IRC_Migration)
+- Ircpuzzles
+- Irssi
+- Jellyfin
+- Kde
+- Leiningen
+- [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
+- Lisp
+- Lobsters
+- Minetest
+- Miraheze
+- [Monero](https://github.com/monero-project/meta/issues/575) but are waiting for the matrix bridge to be up before completing the move.
+- Musl
+- Mutt
+- Mysql
+- Neomutt
+- Nixos (to matrix)
+- Nonguix
+- [OpenWRT (to OFTC)](https://openwrt.org/irc)
+- Org mode
+- Packetframe
+- Perl
+- Postgres
+- Powder
+- Prometheus
+- Python
+- [QT](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
+- [Qutebrowser](https://lists.schokokeks.org/pipermail/qutebrowser-announce/2021-May/000102.html)
+- [RTL-SDR](https://www.rtl-sdr.com/freenode-rtlsdr-irc-channel-moving-to-libera/)
+- [Raku](https://www.tyil.nl/post/2021/05/22/raku-on-libera-chat/)
+- Reprap
+- Rocm (to oftc)
+- Rsync
+- Rtlsdr
+- Scheme
+- [Selenium](https://www.selenium.dev/blog/2021/moving-to-libera-chat/)
+- [Slackware](http://www.slackware.com/~rworkman/slackware-irc/)
+- Sourcehut
+- Sway
+- Sysadmin
+- Systemd
+- [The Mana World](https://www.themanaworld.org/news#94-news-2021-05-28)
+- Ubuntu
+- Vim
+- Voidlinux
+- Weechat
+- Wesnoth
+- Wikimedia
+- Xapian
+- Xen
+- Xmonad
+- [Xubuntu](https://xubuntu-devel.narkive.com/ptEHzj6U/irc-move-to-libera-chat)
+- Zig
+- Zsh
 
 ## Projects and channels that have stayed on Freenode
 
