@@ -4,7 +4,6 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 
 Sources are mostly comments I've seen on HN, various IRC channels and web searches.
 
-- [#Radeon and #ROCm (to OFTC)](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/)
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
 - Alpine (to oftc)
 - [Ansible](https://github.com/ansible/community/pull/614)
@@ -30,9 +29,9 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
 - [Elixir](https://twitter.com/AmNicd/status/1397448111291879424)
 - Emacs
-- Erc
+- #erc
 - [FSFE](https://fsfe.org/news/2021/news-20210525-01.de.html)
-- [Fedora](https://twitter.com/fedora/status/1397979075973730304)
+- Fedora
 - Fennel
 - Fosdem
 - Fosshost
@@ -58,11 +57,13 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - Irssi
 - Jellyfin
 - [KDE](https://mail.kde.org/pipermail/kde-community/2021q2/006909.html)
+- [Kicad](https://www.kicad.org/community/chat/)
 - [LXC](https://discuss.linuxcontainers.org/t/lxc-now-using-libera-as-its-irc-network-live-chats/11178)
 - Leiningen
 - [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
-- Lisp
+- #lisp
 - Lobsters
+- [MacPorts](https://www.macports.org/contact.php#IRC)
 - [Metabrainz](https://blog.metabrainz.org/)
 - [Minecraft Overviewer](https://overviewer.org/blog/2021/5/22/the-irc-channel-has-moved/)
 - Minetest
@@ -88,6 +89,7 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - [QT](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
 - [Qutebrowser](https://lists.schokokeks.org/pipermail/qutebrowser-announce/2021-May/000102.html)
 - [RTL-SDR](https://www.rtl-sdr.com/freenode-rtlsdr-irc-channel-moving-to-libera/)
+- [#Radeon and #ROCm (to OFTC)](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/)
 - [Raku](https://www.tyil.nl/post/2021/05/22/raku-on-libera-chat/)
 - Reprap
 - Rocm (to oftc)
@@ -102,10 +104,12 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - Sysadmin
 - Systemd
 - [Team Fortress Wiki](https://wiki.teamfortress.com/w/index.php?title=Team_Fortress_Wiki:IRC&diff=2980701&oldid=2970773)
+- [Tendra](https://github.com/tendra/tendra/commit/fc85a510fc0bf5fa0ffa7c55289eab943b787b92)
 - [The Mana World](https://www.themanaworld.org/news#94-news-2021-05-28)
 - [The Powder Toy](https://powdertoy.co.uk/Wiki/index.php?title=Irc_setup&curid=68&diff=8087&oldid=8083)
 - [Ubuntu](https://fridge.ubuntu.com/2021/05/26/announcing-ubuntus-move-to-libera-chat/)
-- Vim
+- [Vim](https://old.reddit.com/r/vim/comments/nlwwg4/vim_has_a_new_irc_home/)
+- [Visidata](https://twitter.com/saulfp/status/1397390668440379392)
 - Voidlinux
 - Weechat
 - Wesnoth
