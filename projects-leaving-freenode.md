@@ -29,7 +29,7 @@ New list for May 29th 2021
 - Debian
 - Devuan
 - [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
-- Elixir
+- [Elixir](https://twitter.com/AmNicd/status/1397448111291879424)
 - Emacs
 - Erc
 - [FSFE](https://fsfe.org/news/2021/news-20210525-01.de.html)
@@ -43,14 +43,14 @@ New list for May 29th 2021
 - GHC
 - GNUradio
 - Gamingonlinux
-- Gentoo
+- [Gentoo](https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html)
 - [Gobolinux](https://gobolinux.discourse.group/t/irc-channel-moves-to-libera/61)
 - Grafana
 - Guile
 - Guix
 - [HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2021-05-26/hardenedbsd-switching-irc-servers)
 - [Hardfought](https://www.hardfought.org/libera-irc/)
-- Haskell
+- [Haskell](https://old.reddit.com/r/haskell/comments/nhkrfc/a_robust_haskell_ecosystem_is_now_active_on/)
 - [Haveno](https://github.com/haveno-dex/haveno-meta/issues/10)
 - [IRCv3 WG](https://twitter.com/IRCv3/status/1395425788447674372)
 - [Indian Linux User's Group - Chennai](https://ilugc.in/moving-from-freenode-to-liberachat/)
@@ -58,7 +58,7 @@ New list for May 29th 2021
 - Ircpuzzles
 - Irssi
 - Jellyfin
-- Kde
+- [KDE](https://mail.kde.org/pipermail/kde-community/2021q2/006909.html)
 - [LXC](https://discuss.linuxcontainers.org/t/lxc-now-using-libera-as-its-irc-network-live-chats/11178)
 - Leiningen
 - [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
@@ -74,7 +74,7 @@ New list for May 29th 2021
 - Mutt
 - Mysql
 - Neomutt
-- Nixos (to matrix)
+- [NixOS (to Matrix)](https://github.com/NixOS/rfcs/pull/94/)
 - Nonguix
 - [OpenLDAP](https://twitter.com/hyc_symas/status/1395829020009410561)
 - [OpenWRT (to OFTC)](https://openwrt.org/irc)
@@ -105,7 +105,7 @@ New list for May 29th 2021
 - [Team Fortress Wiki](https://wiki.teamfortress.com/w/index.php?title=Team_Fortress_Wiki:IRC&diff=2980701&oldid=2970773)
 - [The Mana World](https://www.themanaworld.org/news#94-news-2021-05-28)
 - [The Powder Toy](https://powdertoy.co.uk/Wiki/index.php?title=Irc_setup&curid=68&diff=8087&oldid=8083)
-- Ubuntu
+- [Ubuntu](https://fridge.ubuntu.com/2021/05/26/announcing-ubuntus-move-to-libera-chat/)
 - Vim
 - Voidlinux
 - Weechat
