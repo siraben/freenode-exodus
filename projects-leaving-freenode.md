@@ -10,7 +10,7 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - [Ansible](https://github.com/ansible/community/pull/614)
 - [Apertium (to OFTC)](https://www.reddit.com/r/Apertium/comments/nm1p7k/apertium_is_now_on_oftc/)
 - [Arcan Chat](https://arcan-fe.com/)
-- Archlinux
+- [Arch Linux](https://archlinux.org/news/move-of-official-irc-channels-to-liberachat/)
 - [Ardour](https://discourse.ardour.org/t/ardour-org-irc-chat-channel-has-moved/105996)
 - [Arduino](https://forum.arduino.cc/t/arduino-irc-channel-moved-to-libera-chat/866788)
 - [Asahi Linux](https://twitter.com/AsahiLinux/status/1395226914315407362)
