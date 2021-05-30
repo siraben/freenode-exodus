@@ -100,7 +100,6 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - Ircpuzzles
 - [IRCv3 WG](https://twitter.com/IRCv3/status/1395425788447674372)
 - Irssi
-- Jellyfin
 - [Jellyfin](https://github.com/jellyfin/jellyfin-blog/commit/90c2e350d2f47e24e385574aa6f97ef622e4444e)
 - [Jenkins](https://groups.google.com/g/jenkinsci-dev/c/pEcun5ZSfgo/m/ztRg03VNAgAJ)
 - [KDE](https://mail.kde.org/pipermail/kde-community/2021q2/006909.html)
@@ -164,7 +163,7 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - Postgres
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - Prometheus
-- [Pypy is moving](https://github.com/pypy/pypy.org/pull/26/files)
+- [Pypy](https://github.com/pypy/pypy.org/pull/26/files)
 - [Python](https://www.rockbox.org/irc/)
 - [QT](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
 - [quick-lint-js](https://github.com/quick-lint/quick-lint-js/commit/2c92710784e13e27bf82463f0dc225e66d4f1371)
