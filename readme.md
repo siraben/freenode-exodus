@@ -18,6 +18,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Armbian](https://github.com/armbian/documentation/commit/cd2646ce6b2a6145cc652fbf043243da97680dc5)
 - [Asahi Linux](https://twitter.com/AsahiLinux/status/1395226914315407362)
 - [Asterisk](https://www.asterisk.org/irc-channels-moved-to-libera-chat/)
+- [ASUSWRT](https://twitter.com/RMerlinDev/status/1398703845161701377)
 - [Aurutils](https://github.com/AladW/aurutils/commit/659c464aa90862260915f966bc3394678ed84f42)
 - Bastillebsd
 - [Bedrock Linux](https://github.com/bedrocklinux/bedrocklinux-website/commit/1cb8db46d0c9e7784594a13fc11edfb0b15c883a)
