@@ -59,6 +59,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Distrap](https://github.com/distrap/website/commit/3da1568e752aaf296f1eee9a1ddd5e82ae468160)
 - [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
 - [D-Lang](https://www.mail-archive.com/digitalmars-d-announce@puremagic.com/msg46050.html)
+- [Dovecot](https://www.dovecot.org/support) (to OFTC)
 - [EasyRPG](https://github.com/EasyRPG/easyrpg.org/pull/71/files)
 - [eduVPN](https://github.com/eduvpn/documentation/commit/2158742e5d5c73df02a011dd5a62661926a41e5a)
 - [Elixir](https://twitter.com/AmNicd/status/1397448111291879424)
