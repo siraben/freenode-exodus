@@ -171,6 +171,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Minecraft Overviewer](https://overviewer.org/blog/2021/5/22/the-irc-channel-has-moved/)
 - Minetest
 - [Miraheze](https://circleyverse.miraheze.org/wiki/Main_Page)
+- [MoinMoinChat](https://twitter.com/ThomasJWaldmann/status/1398608773594423301)
 - [Mojolicious](https://github.com/mojolicious/mojo/pull/1788)
 - [Monero](https://github.com/monero-project/meta/issues/575)
 - [MorphOS](https://www.amiga-news.de/en/news/AN-2021-05-00064-EN.html)
