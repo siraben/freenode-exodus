@@ -168,6 +168,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Libreswan](https://twitter.com/Libreswan/status/1397717922877935622)
 - [Limnoria](https://github.com/ProgVal/Limnoria/commit/04facade82b778482d4173a86b753945a1b72632)
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
+- [LinuxGameCast](https://twitter.com/VennStone/status/1397280409080238085)
 - #lisp
 - [LiteX](https://github.com/enjoy-digital/litex/commit/5e40709cbcd263926b04b4fa0fd602a0c13872ed)
 - Lobsters
