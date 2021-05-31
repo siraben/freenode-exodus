@@ -268,6 +268,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
 - [Sopel](https://github.com/sopel-irc/sopel.chat/pull/33)
 - [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
+- [SQLAlchemy](https://twitter.com/sqlalchemy/status/1397667050722676738)
 - Sway
 - Sysadmin
 - Systemd
