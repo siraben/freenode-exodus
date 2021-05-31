@@ -161,7 +161,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - Leiningen
 - [libguestfs](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
 - [libopencm3](https://github.com/libopencm3/libopencm3/commit/3b89fc5999874c49f6f5be65bbd5e75f7d77469c)
-- [librecast](https://github.com/librestack/librecast/commit/51f490b3113034f199cf53648e70f5c0221ae42e)
+- [librecast](https://twitter.com/librecast/status/1395021348116783106)
 - [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
 - [LibreOffice](https://blog.documentfoundation.org/blog/2021/05/31/libreoffice-irc-channels-moving-to-libera-chat/)
 - [Libreswan](https://twitter.com/Libreswan/status/1397717922877935622)
