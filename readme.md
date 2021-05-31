@@ -59,6 +59,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Crosstool-NG](https://github.com/crosstool-ng/crosstool-ng.github.io/pull/34)
 - [Curl](https://daniel.haxx.se/blog/2021/05/26/curl-7-77-0-200-ok/)
 - [dav1d](https://github.com/videolan/dav1d/commit/41be890ddd8e58f938aa74a689e4a457da3a87b0)
+- [Demosplash](https://twitter.com/demosplash/status/1396572084021694464)
 - [DC801](https://twitter.com/dc801/status/1397391356553621510)
 - Debian
 - Devuan
