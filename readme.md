@@ -125,7 +125,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Monero](https://github.com/monero-project/meta/issues/575)
 - [MorphOS](https://www.amiga-news.de/en/news/AN-2021-05-00064-EN.html)
 - [MUGS (Multi-User Gaming Services)](https://github.com/Raku-MUGS/MUGS-Core/commit/f018d134fcf79cf0116e5ffa288b7fb8b10ee09c)
-- [MusicPlayerDaemon](https://www.musicpd.org/news/2021/05/bye-freenode-hello-libera-dot-chat/)
+- [Music Player Daemon (MPD)](https://www.musicpd.org/news/2021/05/bye-freenode-hello-libera-dot-chat/)
 - Musl
 - Mutt
 - Mysql
