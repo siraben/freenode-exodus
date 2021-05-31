@@ -62,6 +62,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - Devuan
 - [Distrap](https://github.com/distrap/website/commit/3da1568e752aaf296f1eee9a1ddd5e82ae468160)
 - [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
+- [Dokku](https://twitter.com/dokku/status/1397653350913564676)
 - [D-Lang](https://www.mail-archive.com/digitalmars-d-announce@puremagic.com/msg46050.html)
 - [Dovecot](https://www.dovecot.org/support) (to OFTC)
 - [EasyRPG](https://github.com/EasyRPG/easyrpg.org/pull/71/files)
