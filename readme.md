@@ -221,7 +221,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Music Player Daemon (MPD)](https://www.musicpd.org/news/2021/05/bye-freenode-hello-libera-dot-chat/)
 - [Musl](https://twitter.com/musllibc/status/1395773725409165313)
 - [Mutt](http://lists.mutt.org/pipermail/mutt-announce/Week-of-Mon-20210517/000037.html)
-- Mysql
+- [#mysql](https://hashmysql.net/w/index.php?title=Main_Page&diff=3194&oldid=3168)
 - [naemon](https://github.com/naemon/naemon.github.io/commit/4b22fa94c7a123706c84ee5ec98a04168888c355)
 - [Neomutt](https://github.com/neomutt/docbook/commit/d382fb45b915b20ef7becf39b4bb5106870566fa)
 - [NetBSD](https://github.com/NetBSD/src/commit/61a14d0cddfc7ffa382663790838dbcd7e55f8be#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
