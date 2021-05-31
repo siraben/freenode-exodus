@@ -113,6 +113,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - Guile
 - [Guix China](https://github.com/guixcn/guixcn.github.io/commit/8eced0c3583f74f4ba1f3d9746e00e284ad1780f)
 - [Guix](https://github.com/guix-mirror/guix/commit/c0087d33705f53cc3619a1a43a33602aaecc3a8b)
+- [hackerspace.pl](https://twitter.com/hackerspacepl/status/1397543122415067143)
 - [HackSoc](https://www.hacksoc.org/news/2021-05-25-moving-to-libera.html)
 - [Hammerspoon](https://twitter.com/_hammerspoon/status/1397647962851926023)
 - [HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2021-05-26/hardenedbsd-switching-irc-servers)
