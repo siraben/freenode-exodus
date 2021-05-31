@@ -147,6 +147,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [helloSystem](https://github.com/helloSystem/docs/commit/2bb0f6a26b1e08705c6025fade70e7a775f86882)
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm/commit/5b519afb22b932bb45debd7cb23c745465014c47)
 - [HexChat](https://hexchat.github.io/news/hexchat-channel.html)
+- [Home Manager](https://github.com/nix-community/home-manager/commit/3591cd2b3bbb1b4c7033bc2b5dc3d142bc3f9074) (to OFTC)
 - [Hplusroadmap](https://diyhpl.us/wiki/hplusroadmap/)
 - [HPy](https://hpyproject.org/blog/posts/2021/05/hpy-irc-moves-to-libera-chat/)
 - [Huggle 3](https://github.com/huggle/huggle3-qt-lx/commit/e31876b4f645a39d2b1636a98f3edadee0162746)
