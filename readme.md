@@ -91,6 +91,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [FreedroidRPG](https://www.freedroid.org/2021/05/20/moving-to-libera-chat/)
 - [FreeHL](https://github.com/eukara/freehl/commit/8dd9fad77164554adc2023eab6b8a21d15429f00)
 - [FreeIPA](https://github.com/freeipa/freeipa/commit/338f0bcecf3d5a36068d32ee8877aeba72096d52)
+- [FrOSCon](https://twitter.com/froscon/status/1397622678387843083)
 - [FSFE](https://fsfe.org/news/2021/news-20210525-01.de.html)
 - [FVWM3](https://github.com/fvwmorg/fvwmorg.github.io/commit/eed5315a5a1aa9653e17aa19ac591a050c944fa1)
 - [FVWM-crystal](https://github.com/fvwm-crystal/fvwm-crystal/commit/9e69daf5d58d903d0ae3d3c3e6b8e9fd5490247c)
