@@ -98,7 +98,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - GDB
 - [GDC](https://github.com/D-Programming-GDC/gdcproject/commit/22a4d64cd1419f79893b5eabe9df1d2f0760d6e9)
 - [Gentoo](https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html)
-- GHC
+- [GHC](https://twitter.com/bgamari/status/1395065974496317442)
 - [Git](https://github.com/git/git-scm.com/commit/b1f3d65452a62a49b030587303ea3a0944561ed7)
 - [GNU Radio](https://github.com/gnuradio/hugo-website/commit/8560171f996012f43848b056da6a5ad0a0fc6053)
 - [Gobolinux](https://gobolinux.discourse.group/t/irc-channel-moves-to-libera/61)
