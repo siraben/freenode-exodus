@@ -1,4 +1,4 @@
-# Projects and channels that have left Freenode
+# Projects and channels that have decided to leave Freenode
 
 This is a (necessarily incomplete) list of projects and channels that have decided to permanently move out of Freenode to https://libera.chat (unless stated otherwise). Please open an issue, PR or PM me on IRC (siraben) if there's additions or corrections, such as adding citation links.
 
