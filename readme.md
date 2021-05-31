@@ -192,7 +192,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [NetworkManager](https://github.com/NetworkManager/NetworkManager/commit/95085acec3a2d5887fc4411408e986c9b34339e6)
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe/commit/26c535db84246b16a86f31a8c22ac47df68da7df)
 - [Newsboat](https://github.com/newsboat/newsboat/commit/c3f6e6e5ebfda77e842dc0becf8386d357b5bcb5)
-- [NewtonScript](https://github.com/NewtonScript/newtonscript.github.com/commit/29b501cb6b501411a9820c9f16f0e17932082b2d)
+- [NewtonScript](https://twitter.com/newtonscript/status/1397964060331757572)
 - [Nicotine+](https://github.com/Nicotine-Plus/nicotine-plus/commit/0dc369989065f681400cce8676f9a0dfef3e4a0d)
 - NixOS - [official chat to Matrix](https://github.com/NixOS/rfcs/pull/94/) [IRC to Libera](https://github.com/nix-community/awesome-nix/commit/6216bf4817ea2c97840673683d8be6e780cd6902)
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
