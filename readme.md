@@ -125,7 +125,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [#ircpuzzles](https://github.com/ircpuzzles/ircpuzzles.github.io/commit/c8b864549e89ff66ea6a2ba2b224d63e8f5a62f8)
 - [irctokens](https://github.com/jesopo/irctokens/commit/2094648a51207aa2184b61af9462c870fdcc79b6)
 - [IRCv3 WG](https://twitter.com/IRCv3/status/1395425788447674372)
-- Irssi
+- [Irssi](https://github.com/irssi/irssi/commit/a5d4fd5aa7ad1d57c0b8e11e382944a3654cfa00)
 - [Ivoz Provider](https://github.com/irontec/ivozprovider/commit/fcd2c81b6fdee9a014a4e7bbdb917e2f95a9f273)
 - [Jabbot](https://github.com/gugod/jabbot/commit/bfc1a817665842fb5d70955c29a9457b35c6139b)
 - [JACK Audio Connection Kit ](https://github.com/jackaudio/jackaudio.github.com/commit/2017bba5f96ebcb5cbee8bde5476e535c3361ff0)
@@ -143,6 +143,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [libopencm3](https://github.com/libopencm3/libopencm3/commit/3b89fc5999874c49f6f5be65bbd5e75f7d77469c)
 - [librecast](https://github.com/librestack/librecast/commit/51f490b3113034f199cf53648e70f5c0221ae42e)
 - [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
+- [LibreOffice](https://blog.documentfoundation.org/blog/2021/05/31/libreoffice-irc-channels-moving-to-libera-chat/)
 - [Limnoria](https://github.com/ProgVal/Limnoria/commit/04facade82b778482d4173a86b753945a1b72632)
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
 - #lisp
