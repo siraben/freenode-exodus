@@ -103,7 +103,6 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - Irssi
 - [Jellyfin](https://github.com/jellyfin/jellyfin-blog/commit/90c2e350d2f47e24e385574aa6f97ef622e4444e)
 - [Jenkins](https://groups.google.com/g/jenkinsci-dev/c/pEcun5ZSfgo/m/ztRg03VNAgAJ)
-- [KDE](https://mail.kde.org/pipermail/kde-community/2021q2/006909.html)
 - [KiCad](https://www.kicad.org/community/chat/)
 - [killer](https://github.com/Lvl4Sword/Killer/commit/d1ed629036d5c62a8169e83acbd396a9d2843f44)
 - [kpatch](https://github.com/dynup/kpatch/commit/87ca62d8de27dcec9429e879284e948e68dcd02d)
