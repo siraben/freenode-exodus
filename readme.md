@@ -347,7 +347,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [WSL Utilities](https://twitter.com/wslutilities/status/1396974355226128384)
 - [X.Org (to OFTC)](https://www.x.org/wiki/XorgIRC/)
 - [Xapian](https://github.com/xapian/xapian/commit/7c993a621a5ff99689ac9f66e6f36199b8f98a8e)
-- Xen
+- [Xen](https://xenproject.org/help/irc/) (to OFTC)
 - [Xmonad](https://twitter.com/xmonad/status/1397509701043097607)
 - [xNetHack](https://github.com/copperwater/xNetHack/commit/d7ddc8df4c3a07b4c0975c2c3f21630e681ea5a0)
 - [Xubuntu](https://xubuntu-devel.narkive.com/ptEHzj6U/irc-move-to-libera-chat)
