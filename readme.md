@@ -271,7 +271,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [sngrep](https://github.com/irontec/sngrep/commit/5df40383182b4e3d350451addec0594f1447a7e1)
 - [Solanum](https://github.com/solanum-ircd/solanum.chat/pull/7)
 - [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
-- [Sopel](https://github.com/sopel-irc/sopel.chat/pull/33)
+- [SopelIRC](https://twitter.com/SopelIRC/status/1397409117380153348)
 - [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
 - [SQLAlchemy](https://twitter.com/sqlalchemy/status/1397667050722676738)
 - Sway
