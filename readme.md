@@ -266,6 +266,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [re:Web](https://github.com/apparentorder/reweb/commit/9a1dd5abcb9cefffef05bf8ce3eca096a44ec27b)
 - [Rizin](https://github.com/rizinorg/website/commit/24309365e91073e1e1c3c02acf1c01ec576b3995)
 - [Rockbox](https://www.rockbox.org/irc/)
+- [Rocky Linux](https://twitter.com/nazunalika/status/1395957548168089602)
 - Rocm (to oftc)
 - [rpi-img-builder](https://github.com/pyavitz/rpi-img-builder/commit/3919becda8663d82476ae6f55b1ccf6c41ba9a40)
 - Rsync
