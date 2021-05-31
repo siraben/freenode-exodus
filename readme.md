@@ -148,7 +148,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [ioquake3](https://ioquake3.org/ioquake3/ioquake3-irc-moved-to-libera/)
 - [iPXE](https://twitter.com/ipxe/status/1398251984168402945)
 - [ircdocs.horse](https://github.com/ircdocs/ircdocs.horse/commit/e364ce9e75d9c92a1a6f08367ab5c2bc14ceb219)
-- [#ircpuzzles](https://github.com/ircpuzzles/ircpuzzles.github.io/commit/c8b864549e89ff66ea6a2ba2b224d63e8f5a62f8)
+- [#ircpuzzles](https://twitter.com/ircpuzzles/status/1395776813532688401)
 - [irctokens](https://github.com/jesopo/irctokens/commit/2094648a51207aa2184b61af9462c870fdcc79b6)
 - [IRCv3 WG](https://twitter.com/IRCv3/status/1395425788447674372)
 - [Irssi](https://github.com/irssi/irssi/commit/a5d4fd5aa7ad1d57c0b8e11e382944a3654cfa00)
