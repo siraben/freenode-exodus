@@ -27,6 +27,7 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - [BZFlag](https://github.com/BZFlag-Dev/bzflag.org/commit/840e1222a41cb688a58b411544fa502620a7808e)
 - [Calamares](https://euroquis.nl//calamares/2021/05/26/calamares-communications.html)
 - [Calyxos](https://calyxos.org/news/2021/05/27/community-update/)
+- [#cat-v (to OFTC)](http://cat-v.org/about)
 - CentOS
 - Chicken
 - [chimper](https://github.com/pedrocr/chimper/commit/be65f779918bc82c0472f8027bdcc27bf01cc3ec)
@@ -164,7 +165,7 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - Prometheus
 - [Pypy](https://github.com/pypy/pypy.org/pull/26/files)
-- [Python](https://www.rockbox.org/irc/)
+- [Python](https://www.python.org/community/irc/)
 - [QT](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
 - [quick-lint-js](https://github.com/quick-lint/quick-lint-js/commit/2c92710784e13e27bf82463f0dc225e66d4f1371)
 - [Qutebrowser](https://lists.schokokeks.org/pipermail/qutebrowser-announce/2021-May/000102.html)
@@ -178,7 +179,7 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - [RTL-SDR](https://www.rtl-sdr.com/freenode-rtlsdr-irc-channel-moving-to-libera/)
 - Rtlsdr
 - [Salix-OS](https://github.com/Salix-OS/www.salixos.org/commit/411c54e0db46ca85543b31894d943986da7c31d9)
-- Scheme
+- [#scheme](https://srfi-email.schemers.org/srfi-discuss/msg/16740382/)
 - [ScummVM](https://github.com/scummvm/scummvm/commit/50e8dc815acf7a4e664fba2377febb328c903745)
 - [Seattle GNU/Linux Conference ](https://github.com/SeaGL/seagl.github.io/commit/ca65a364735e45f8ffd68373c0a855e9cd590c70)
 - [Selenium](https://www.selenium.dev/blog/2021/moving-to-libera-chat/)
