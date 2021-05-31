@@ -247,6 +247,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [serious-bg](https://github.com/Binaergewitter/serious-bg/commit/50469265a916c48ec23d46dc1557c250b0e1e45d)
 - [Sheffgeeks](https://github.com/sheffgeeks/sheffgeeks.github.io/commit/a19b7bdc6fd8a773588005ab80d33931243c6438)
 - [Slackware](http://www.slackware.com/~rworkman/slackware-irc/)
+- [SmartOS](https://twitter.com/JoyentSmartOS/status/1398689698344706050)
 - [sngrep](https://github.com/irontec/sngrep/commit/5df40383182b4e3d350451addec0594f1447a7e1)
 - [Solanum](https://github.com/solanum-ircd/solanum.chat/pull/7)
 - [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
