@@ -173,6 +173,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Jazzband](https://github.com/jazzband/website/commit/77325a3a2c13213b4c35873ff13e26ab6ac290bb)
 - [Jellyfin](https://github.com/jellyfin/jellyfin-blog/commit/90c2e350d2f47e24e385574aa6f97ef622e4444e)
 - [Jenkins](https://groups.google.com/g/jenkinsci-dev/c/pEcun5ZSfgo/m/ztRg03VNAgAJ)
+- [jenkins-debian-glue](https://github.com/mika/jenkins-debian-glue.org/commit/0c89d839078a7c7c486890a5b85f06f2ac42624d) (to OFTC)
 - [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver/pull/884)
 - [Kallithea Project](https://twitter.com/KallitheaSCM/status/1398695300315942912)
 - [Kanshi](https://github.com/emersion/kanshi/commit/c5fd774040a28e99ea6e738cd822fd538ff9c599)
