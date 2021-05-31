@@ -282,6 +282,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
 - [SQLAlchemy](https://twitter.com/sqlalchemy/status/1397667050722676738)
 - Sway
+- [SWI-Prolog](https://twitter.com/SwiProlog_/status/1396539991963148291)
 - Sysadmin
 - Systemd
 - [System Security Services Daemon](https://github.com/SSSD/sssd.io/commit/f25e86624b99817c5106d47ff6117b3c09b7d70d)
