@@ -341,7 +341,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Weechat](https://twitter.com/WeeChatClient/status/1396932241951973383)
 - [Whim](https://github.com/jmacdotorg/whim/commit/ec6df95e814e64d62b677e0ee4948a3ead2fec46)
 - [Whipper](https://github.com/whipper-team/whipper/pull/541)
-- Wikimedia
+- [Wikimedia](https://meta.wikimedia.org/wiki/IRC/Migrating_to_Libera_Chat)
 - [Wine](https://www.winehq.org/pipermail/wine-devel/2021-May/187836.html)
 - [WireGuard](https://lists.zx2c4.com/pipermail/wireguard/2021-May/006772.html)
 - [WSL Utilities](https://twitter.com/wslutilities/status/1396974355226128384)
