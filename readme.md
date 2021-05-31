@@ -243,7 +243,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [PLUG](https://github.com/phillylinux/phillylinux.github.io/commit/0ffb76e33922c67aeaa7cbd48e6156ad94a54838)
 - [Podman](https://github.com/containers/podman/pull/10499)
 - [Porteus](https://forum.porteus.org/viewtopic.php?f=48&p=82428&sid=fd768d3cbbacf4fc4b1be36456d31328)
-- [Postgres](https://github.com/postgres/pgweb/commit/f5533c602afacc2ae1a5a401ea265c293711db5e)
+- [PostgreSQL](https://www.postgresql.org/about/news/migration-of-postgresql-irc-channels-2216/)
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - [Prometheus](https://github.com/prometheus/docs/commit/12b06dab609708dbb45c1974d322ed3d41b4f6d6)
 - [Pulp Project](https://twitter.com/pulpproj/status/1397532195594645509)
