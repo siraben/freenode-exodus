@@ -74,7 +74,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [ET: Legacy](https://github.com/etlegacy/etlegacy/issues/1655)
 - [exult](https://github.com/exult/exult/commit/e4ccd759be207939764528949dd877a5be826b02)
 - [Fantasya](https://github.com/fantasya-pbem/website/pull/74)
-- Fedora
+- [Fedora](https://communityblog.fedoraproject.org/irc-announcement/)
 - [Fedora Zhongwen User Group](https://github.com/FZUG/fzug.github.io/pull/67)
 - [#feminism](https://github.com/feminism-chat/feminism-chat.github.io/commit/b637b0de65a8518d16e7c1a34bd19005b64d953f)
 - Fennel
