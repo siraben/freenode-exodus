@@ -137,6 +137,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Guix](https://github.com/guix-mirror/guix/commit/c0087d33705f53cc3619a1a43a33602aaecc3a8b)
 - [hackerspace.pl](https://twitter.com/hackerspacepl/status/1397543122415067143)
 - [HackSoc](https://www.hacksoc.org/news/2021-05-25-moving-to-libera.html)
+- [hakyll](https://github.com/jaspervdj/hakyll/commit/8980133284d7d5f0d7cd71580796150c74b22f2d)
 - [Hammerspoon](https://twitter.com/_hammerspoon/status/1397647962851926023)
 - [HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2021-05-26/hardenedbsd-switching-irc-servers)
 - [Hardened GNU/Linux](https://github.com/hardenedlinux/hardenedlinux.github.io/commit/3967d8f421a25585f43e79721af69a884298a910) (to OFTC)
