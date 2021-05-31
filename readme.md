@@ -40,7 +40,7 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - Couchdb
 - [Cozy](https://github.com/cozy/cozy-site/commit/1a883a0ff85756cc966c5173518d9e7ff6e36d21)
 - [Crosstool-NG](https://github.com/crosstool-ng/crosstool-ng.github.io/pull/34)
-- Curl
+- [Curl](https://daniel.haxx.se/blog/2021/05/26/curl-7-77-0-200-ok/)
 - [D-Lang](https://www.mail-archive.com/digitalmars-d-announce@puremagic.com/msg46050.html)
 - [dav1d](https://github.com/videolan/dav1d/commit/41be890ddd8e58f938aa74a689e4a457da3a87b0)
 - Debian
