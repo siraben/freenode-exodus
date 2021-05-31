@@ -9,6 +9,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Anklang](https://github.com/tim-janik/anklang/commit/074e7b9b53a2cb9c0e5a064182383aa3a25b9095)
 - [Ansible](https://github.com/ansible/community/pull/614)
 - [Apertium (to OFTC)](https://www.reddit.com/r/Apertium/comments/nm1p7k/apertium_is_now_on_oftc/)
+- [Apertus](https://twitter.com/ApertusOSCinema/status/1397819526734094343)
 - [Apktool](https://github.com/iBotPeaches/Apktool/commit/de03c8b6893f499f4228f5047365dd27a3897da2)
 - [AppImage](https://twitter.com/azubieta90/status/1398514737118433280)
 - [Arcan Chat](https://arcan-fe.com/)
