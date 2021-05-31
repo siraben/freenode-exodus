@@ -10,6 +10,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Ansible](https://github.com/ansible/community/pull/614)
 - [Apertium (to OFTC)](https://www.reddit.com/r/Apertium/comments/nm1p7k/apertium_is_now_on_oftc/)
 - [Apktool](https://github.com/iBotPeaches/Apktool/commit/de03c8b6893f499f4228f5047365dd27a3897da2)
+- [AppImage](https://twitter.com/azubieta90/status/1398514737118433280)
 - [Arcan Chat](https://arcan-fe.com/)
 - [Arch Hurd](https://github.com/z3ntu/archhurd_archweb/commit/222f3008a69fbe943debc127291bd7ac7f0f180d)
 - [Arch Linux](https://archlinux.org/news/move-of-official-irc-channels-to-liberachat/)
