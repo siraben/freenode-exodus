@@ -158,6 +158,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [MacPorts](https://www.macports.org/contact.php#IRC)
 - [Maemo Leste](https://maemo-leste.github.io/maemo-leste-irc-channel-migration.html)
 - [mal](https://github.com/kanaka/mal/commit/27b761bd1ebc214a899f00159f62f67ab6c7c6cc)
+- [MAME](https://www.mamedev.org/?p=500)
 - [Matroska](https://github.com/Matroska-Org/infrastructure/commit/c2486933198ede1aba71e0c805404909566ff2b7)
 - [MAME](https://www.mamedev.org/?p=500)
 - [mblaze](https://github.com/leahneukirchen/mblaze/commit/6684f74f0719be15fad22df73723380b91c3b71e)
