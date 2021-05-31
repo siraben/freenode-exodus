@@ -166,6 +166,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [LuXeria](https://github.com/luxeria/luxeria.github.io/commit/995df3d5a8a31e7e56cb3ec41bb7ff54bacd7e7e)
 - [LXC](https://discuss.linuxcontainers.org/t/lxc-now-using-libera-as-its-irc-network-live-chats/11178)
 - [MacPorts](https://www.macports.org/contact.php#IRC)
+- [Madeinfr](https://twitter.com/madeinfr/status/1397849981327925252)
 - [Maemo Leste](https://maemo-leste.github.io/maemo-leste-irc-channel-migration.html)
 - [mal](https://github.com/kanaka/mal/commit/27b761bd1ebc214a899f00159f62f67ab6c7c6cc)
 - [MAME](https://www.mamedev.org/?p=500)
