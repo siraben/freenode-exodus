@@ -295,7 +295,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs/pull/1068)
 - [Team Fortress Wiki](https://wiki.teamfortress.com/w/index.php?title=Team_Fortress_Wiki:IRC&diff=2980701&oldid=2970773)
 - [The Foreman Project](https://twitter.com/ForemanProject/status/1397528127094538246)
-- [The Lounge](https://github.com/thelounge/thelounge/commit/42bafe71655a73cfcbfb15043f39963f0cd9a2b2)
+- [The Lounge](https://twitter.com/TheLoungeChat/status/1395809924383330308)
 - [The Mana World](https://www.themanaworld.org/news#94-news-2021-05-28)
 - [The Powder Toy](https://powdertoy.co.uk/Wiki/index.php?title=Irc_setup&curid=68&diff=8087&oldid=8083)
 - [The Secret Chronicles of Dr. M.](https://secretchronicles.org/en/news/2021/05/26/liberachat/)
