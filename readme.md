@@ -38,6 +38,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Calyxos](https://calyxos.org/news/2021/05/27/community-update/)
 - [#cat-v (to OFTC)](http://cat-v.org/about)
 - CentOS
+- [cgit](https://lists.zx2c4.com/pipermail/cgit/2021-May/004637.html)
 - Chicken
 - [chimper](https://github.com/pedrocr/chimper/commit/be65f779918bc82c0472f8027bdcc27bf01cc3ec)
 - [circe](https://github.com/jorgenschaefer/circe/commit/4778675e0c3bde1c028085b7d96693fe033d2c72)
@@ -196,6 +197,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [OSUOSL](https://github.com/osuosl/osuosl-pelican/pull/365)
 - Packetframe
 - [Packit](https://github.com/packit/packit.dev/pull/286)
+- [pass (password-store)](https://lists.zx2c4.com/pipermail/password-store/2021-May/004437.html)
 - [PeerTube](https://github.com/Chocobozzz/PeerTube/commit/462271edd693cffb9242ca1e33d64cb0423e4b29)
 - [Pepper & Carrot](https://www.davidrevoy.com/article847/the-official-chat-room-moved)
 - [Perl](https://github.com/Perl/perl5/commit/1b4abd7a1176bbccd4448de637474be7e72f8a57)
@@ -271,6 +273,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Whim](https://github.com/jmacdotorg/whim/commit/ec6df95e814e64d62b677e0ee4948a3ead2fec46)
 - [Whipper](https://github.com/whipper-team/whipper/pull/541)
 - Wikimedia
+- [WireGuard](https://lists.zx2c4.com/pipermail/wireguard/2021-May/006772.html)
 - [Xapian](https://github.com/xapian/xapian/commit/7c993a621a5ff99689ac9f66e6f36199b8f98a8e)
 - Xen
 - [Xmonad](https://github.com/xmonad/xmonad/commit/fdc3bf0484f18729e6b0d64f6aa98a1e2e8c3cee)
