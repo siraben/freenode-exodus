@@ -299,6 +299,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Tübix](https://github.com/tuebix/tuebixorg/pull/16)
 - [Ubuntu Budgie](https://github.com/UbuntuBudgie/budgie-welcome/commit/ab8cd3b8981e595173047e3feda70c4366bcc75b)
 - [Ubuntu](https://fridge.ubuntu.com/2021/05/26/announcing-ubuntus-move-to-libera-chat/)
+- [Unknown Horizons](https://twitter.com/uhorizons/status/1397152583475679234)
 - [Vegastrike](https://github.com/vegastrike/vegastrike.github.io/pull/26)
 - [VICE](https://github.com/VICE-Team/svn-mirror/commit/cdde9576b76d9b0f332af4eab85d48d43896c305)
 - [Vim](https://old.reddit.com/r/vim/comments/nlwwg4/vim_has_a_new_irc_home/)
