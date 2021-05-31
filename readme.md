@@ -188,6 +188,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Matroska](https://github.com/Matroska-Org/infrastructure/commit/c2486933198ede1aba71e0c805404909566ff2b7)
 - [MAME](https://www.mamedev.org/?p=500)
 - [mblaze](https://github.com/leahneukirchen/mblaze/commit/6684f74f0719be15fad22df73723380b91c3b71e)
+- [McCLIM](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
 - [MetaBrainz](https://blog.metabrainz.org/)
 - [mgmtconfig](https://github.com/purpleidea/mgmt/commit/7d7e225823fd2920c425c9c9518f739a5989b541)
 - [Minecraft Overviewer](https://overviewer.org/blog/2021/5/22/the-irc-channel-has-moved/)
