@@ -18,7 +18,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Arch Linux](https://archlinux.org/news/move-of-official-irc-channels-to-liberachat/)
 - [Ardour](https://discourse.ardour.org/t/ardour-org-irc-chat-channel-has-moved/105996)
 - [Arduino](https://forum.arduino.cc/t/arduino-irc-channel-moved-to-libera-chat/866788)
-- [Armbian](https://github.com/armbian/documentation/commit/cd2646ce6b2a6145cc652fbf043243da97680dc5)
+- [Armbian](https://forum.armbian.com/topic/18203-irc-channels-moved-to-liberachat/)
 - [Asahi Linux](https://twitter.com/AsahiLinux/status/1395226914315407362)
 - [Asterisk](https://www.asterisk.org/irc-channels-moved-to-libera-chat/)
 - [ASUSWRT](https://twitter.com/RMerlinDev/status/1398703845161701377)
