@@ -146,6 +146,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [killer](https://github.com/Lvl4Sword/Killer/commit/d1ed629036d5c62a8169e83acbd396a9d2843f44)
 - [kpatch](https://github.com/dynup/kpatch/commit/87ca62d8de27dcec9429e879284e948e68dcd02d)
 - [Kvazaar](https://github.com/ultravideo/kvazaar/commit/28595ed1cf32f89f23fc7692bdceafb3e0e42ec4)
+- [Launchpad](https://twitter.com/launchpadstatus/status/1398249939340304390)
 - Leiningen
 - [libguestfs](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
 - [libopencm3](https://github.com/libopencm3/libopencm3/commit/3b89fc5999874c49f6f5be65bbd5e75f7d77469c)
