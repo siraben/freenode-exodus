@@ -113,6 +113,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [GNU Radio](https://twitter.com/gnuradio/status/1397474348659875840)
 - [Gobolinux](https://gobolinux.discourse.group/t/irc-channel-moves-to-libera/61)
 - [Golang](https://twitter.com/dave_universetf/status/1398130757931966464)
+- [Google Benchmark](https://twitter.com/runtime/status/1396044095446036482)
 - [go-imap](https://github.com/emersion/go-imap/commit/0e5bf8b8c24d2bb1481e94a44c18d3fa2dfbb630)
 - [go-smtp](https://github.com/emersion/go-smtp/commit/c11900fc3ed1bc6c9d68cd816592b26e20901b7e)
 - [gPodder](https://github.com/gpodder/gpodder.github.io/commit/e0b93a2c84a92664ed89be9436eaff2688b87fbb)
