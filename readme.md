@@ -25,7 +25,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Aurutils](https://github.com/AladW/aurutils/commit/659c464aa90862260915f966bc3394678ed84f42)
 - [AsteroidOS](https://twitter.com/AsteroidOS/status/1398645863988273158)
 - [Austin Hackers](https://twitter.com/AustinHackers/status/1395773170649608193)
-- Bastillebsd
+- [BastilleBSD](https://twitter.com/BastilleBSD/status/1395536864673599491)
 - [Battle for Wesnoth](https://forums.wesnoth.org/viewtopic.php?t=54341)
 - [Bedrock Linux](https://github.com/bedrocklinux/bedrocklinux-website/commit/1cb8db46d0c9e7784594a13fc11edfb0b15c883a)
 - [Beets](https://github.com/beetbox/beets/pull/3957/files)
