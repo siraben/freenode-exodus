@@ -213,7 +213,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Nicotine+](https://github.com/Nicotine-Plus/nicotine-plus/commit/0dc369989065f681400cce8676f9a0dfef3e4a0d)
 - NixOS - [official chat to Matrix](https://github.com/NixOS/rfcs/pull/94/) [IRC to Libera](https://github.com/nix-community/awesome-nix/commit/6216bf4817ea2c97840673683d8be6e780cd6902)
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
-- [OmniOS](https://github.com/omniosorg/omniosorg.github.io/commit/730cc28df22fef4d66ae5bbdf4e6ee29f5ed068c)
+- [OmniOS](https://twitter.com/OmniOSce/status/1396770950406934531)
 - [OpenIKED](https://github.com/openiked/openiked-portable/commit/28ecc4031b73939aa0ce69ae28f917100c5d8c1d)
 - [openITCOCKPIT](https://openitcockpit.io/2021/2021/05/31/irc-announcement-migrating-to-libera-chat/)
 - [OpenLab Augsburg](https://github.com/openlab-aux/wikidata/commit/26d43ae546436d4f5653ac35a63bf07000f0b5d3)
