@@ -99,6 +99,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Git](https://github.com/git/git-scm.com/commit/b1f3d65452a62a49b030587303ea3a0944561ed7)
 - [GNU Radio](https://github.com/gnuradio/hugo-website/commit/8560171f996012f43848b056da6a5ad0a0fc6053)
 - [Gobolinux](https://gobolinux.discourse.group/t/irc-channel-moves-to-libera/61)
+- [Golang](https://twitter.com/dave_universetf/status/1398130757931966464)
 - [go-imap](https://github.com/emersion/go-imap/commit/0e5bf8b8c24d2bb1481e94a44c18d3fa2dfbb630)
 - [go-smtp](https://github.com/emersion/go-smtp/commit/c11900fc3ed1bc6c9d68cd816592b26e20901b7e)
 - [gPodder](https://github.com/gpodder/gpodder.github.io/commit/e0b93a2c84a92664ed89be9436eaff2688b87fbb)
