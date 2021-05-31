@@ -313,7 +313,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - Sway
 - [SWI-Prolog](https://twitter.com/SwiProlog_/status/1396539991963148291)
 - [System Security Services Daemon](https://github.com/SSSD/sssd.io/commit/f25e86624b99817c5106d47ff6117b3c09b7d70d)
-- Systemd
+- [Systemd](https://lists.freedesktop.org/archives/systemd-devel/2021-May/046486.html)
 - [Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs/pull/1068)
 - [Team Fortress Wiki](https://wiki.teamfortress.com/w/index.php?title=Team_Fortress_Wiki:IRC&diff=2980701&oldid=2970773)
 - [The Foreman Project](https://twitter.com/ForemanProject/status/1397528127094538246)
