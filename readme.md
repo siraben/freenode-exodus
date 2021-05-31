@@ -66,7 +66,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Dokku](https://twitter.com/dokku/status/1397653350913564676)
 - [D-Lang](https://www.mail-archive.com/digitalmars-d-announce@puremagic.com/msg46050.html)
 - [Dovecot](https://www.dovecot.org/support) (to OFTC)
-- [EasyRPG](https://github.com/EasyRPG/easyrpg.org/pull/71/files)
+- [EasyRPG](https://twitter.com/EasyRPG/status/1397624147249860616)
 - [eduVPN](https://github.com/eduvpn/documentation/commit/2158742e5d5c73df02a011dd5a62661926a41e5a)
 - [Electromagnetic Field Camp](https://twitter.com/emfcamp/status/1398348629635633152)
 - [Elixir](https://twitter.com/AmNicd/status/1397448111291879424)
