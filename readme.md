@@ -78,6 +78,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Elvish](https://github.com/elves/elvish/commit/e44b677e79cc52998e3c85e7b01ae14cf7f6f735)
 - Emacs
 - [Emacs User Group Berlin](https://github.com/emacs-berlin/emacs-berlin.org/commit/920b7d30ddd5f2a2283f85316d5c557cd696acaf)
+- [Embeddable Common-Lisp](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
 - #erc
 - [ET: Legacy](https://github.com/etlegacy/etlegacy/issues/1655)
 - [exult](https://github.com/exult/exult/commit/e4ccd759be207939764528949dd877a5be826b02)
