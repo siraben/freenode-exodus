@@ -63,6 +63,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [DC801](https://twitter.com/dc801/status/1397391356553621510)
 - Debian
 - Devuan
+- [Directord](https://twitter.com/peznauts/status/1396330864842321920)
 - [Distrap](https://github.com/distrap/website/commit/3da1568e752aaf296f1eee9a1ddd5e82ae468160)
 - [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
 - [Dokku](https://twitter.com/dokku/status/1397653350913564676)
