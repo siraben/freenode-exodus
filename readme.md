@@ -227,6 +227,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Radeon and #ROCm (to OFTC)](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/)
 - [Raku](https://www.tyil.nl/post/2021/05/22/raku-on-libera-chat/)
 - [ranger](https://ranger.github.io/news/2021-05-19-libera)
+- [##rbxdev](https://twitter.com/SignorOmbra/status/1399086366475051010)
 - Reprap
 - [re:Web](https://github.com/apparentorder/reweb/commit/9a1dd5abcb9cefffef05bf8ce3eca096a44ec27b)
 - [Rizin](https://github.com/rizinorg/website/commit/24309365e91073e1e1c3c02acf1c01ec576b3995)
