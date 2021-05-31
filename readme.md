@@ -309,7 +309,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [WireGuard](https://lists.zx2c4.com/pipermail/wireguard/2021-May/006772.html)
 - [Xapian](https://github.com/xapian/xapian/commit/7c993a621a5ff99689ac9f66e6f36199b8f98a8e)
 - Xen
-- [Xmonad](https://github.com/xmonad/xmonad/commit/fdc3bf0484f18729e6b0d64f6aa98a1e2e8c3cee)
+- [Xmonad](https://twitter.com/xmonad/status/1397509701043097607)
 - [xNetHack](https://github.com/copperwater/xNetHack/commit/d7ddc8df4c3a07b4c0975c2c3f21630e681ea5a0)
 - [Xubuntu](https://xubuntu-devel.narkive.com/ptEHzj6U/irc-move-to-libera-chat)
 - [Yancy](https://github.com/preaction/Yancy/commit/9a70e3e2bedea5d21ea514e243920e0ca9b4017f)
