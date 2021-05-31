@@ -188,7 +188,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
 - [OmniOS](https://github.com/omniosorg/omniosorg.github.io/commit/730cc28df22fef4d66ae5bbdf4e6ee29f5ed068c)
 - [OpenIKED](https://github.com/openiked/openiked-portable/commit/28ecc4031b73939aa0ce69ae28f917100c5d8c1d)
-- [openITCOCKPIT](https://github.com/it-novum/openITCOCKPIT/commit/a9651c88cf8e15d9df87c2aba0afad41b58d372c)
+- [openITCOCKPIT](https://openitcockpit.io/2021/2021/05/31/irc-announcement-migrating-to-libera-chat/)
 - [OpenLab Augsburg](https://github.com/openlab-aux/wikidata/commit/26d43ae546436d4f5653ac35a63bf07000f0b5d3)
 - [OpenLDAP](https://twitter.com/hyc_symas/status/1395829020009410561)
 - [OpenMPTL](https://github.com/digint/openmptl/commit/017807807e1fed41040af200afa4046740135939)
