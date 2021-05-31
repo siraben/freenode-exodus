@@ -103,7 +103,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Gentoo](https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html)
 - [GHC](https://twitter.com/bgamari/status/1395065974496317442)
 - [Git](https://github.com/git/git-scm.com/commit/b1f3d65452a62a49b030587303ea3a0944561ed7)
-- [GNU Radio](https://github.com/gnuradio/hugo-website/commit/8560171f996012f43848b056da6a5ad0a0fc6053)
+- [GNU Radio](https://twitter.com/gnuradio/status/1397474348659875840)
 - [Gobolinux](https://gobolinux.discourse.group/t/irc-channel-moves-to-libera/61)
 - [Golang](https://twitter.com/dave_universetf/status/1398130757931966464)
 - [go-imap](https://github.com/emersion/go-imap/commit/0e5bf8b8c24d2bb1481e94a44c18d3fa2dfbb630)
