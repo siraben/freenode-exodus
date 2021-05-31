@@ -142,6 +142,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [libopencm3](https://github.com/libopencm3/libopencm3/commit/3b89fc5999874c49f6f5be65bbd5e75f7d77469c)
 - [librecast](https://github.com/librestack/librecast/commit/51f490b3113034f199cf53648e70f5c0221ae42e)
 - [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
+- [LibreOffice](https://blog.documentfoundation.org/blog/2021/05/31/libreoffice-irc-channels-moving-to-libera-chat/)
 - [Limnoria](https://github.com/ProgVal/Limnoria/commit/04facade82b778482d4173a86b753945a1b72632)
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
 - #lisp
