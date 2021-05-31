@@ -235,6 +235,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Postgres](https://github.com/postgres/pgweb/commit/f5533c602afacc2ae1a5a401ea265c293711db5e)
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - [Prometheus](https://github.com/prometheus/docs/commit/12b06dab609708dbb45c1974d322ed3d41b4f6d6)
+- [Pulp Project](https://twitter.com/pulpproj/status/1397532195594645509)
 - [pydle](https://github.com/Shizmob/pydle/commit/baa7070309906f6a58d4b29bad6f1efff90baf16)
 - [PyLink](https://github.com/jlu5/PyLink/commit/ba5f89d03cb0e674a1c1bd07aee3497d56d342d6)
 - [Pypy](https://www.pypy.org/posts/2021/05/pypy-irc-moves-to-libera-chat.html)
