@@ -192,7 +192,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - Minetest
 - [Miraheze](https://circleyverse.miraheze.org/wiki/Main_Page)
 - [MoinMoinChat](https://twitter.com/ThomasJWaldmann/status/1398608773594423301)
-- [Mojolicious](https://github.com/mojolicious/mojo/pull/1788)
+- [Mojolicious](https://twitter.com/mojolicious_org/status/1396925921249083399)
 - [Monero](https://github.com/monero-project/meta/issues/575)
 - [MorphOS](https://www.amiga-news.de/en/news/AN-2021-05-00064-EN.html)
 - [Mousepaw Media](https://twitter.com/mousepawmedia/status/1397727750069227524)
