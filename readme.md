@@ -117,6 +117,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Hammerspoon](https://twitter.com/_hammerspoon/status/1397647962851926023)
 - [HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2021-05-26/hardenedbsd-switching-irc-servers)
 - [Hardfought](https://www.hardfought.org/libera-irc/)
+- [hashcat](https://hashcat.net/forum/thread-10134.html)
 - [Haskell](https://old.reddit.com/r/haskell/comments/nhkrfc/a_robust_haskell_ecosystem_is_now_active_on/)
 - [Haveno](https://github.com/haveno-dex/haveno-meta/issues/10)
 - [helloSystem](https://github.com/helloSystem/docs/commit/2bb0f6a26b1e08705c6025fade70e7a775f86882)
