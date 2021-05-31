@@ -9,6 +9,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Anbox](https://github.com/anbox/anbox/pull/1818)
 - [Anklang](https://github.com/tim-janik/anklang/commit/074e7b9b53a2cb9c0e5a064182383aa3a25b9095)
 - [Ansible](https://github.com/ansible/community/pull/614)
+- [Apache CouchDB](https://twitter.com/CouchDB/status/1395389989345800201)
 - [Apertium (to OFTC)](https://www.reddit.com/r/Apertium/comments/nm1p7k/apertium_is_now_on_oftc/)
 - [Apertus](https://twitter.com/ApertusOSCinema/status/1397819526734094343)
 - [Apktool](https://github.com/iBotPeaches/Apktool/commit/de03c8b6893f499f4228f5047365dd27a3897da2)
@@ -56,7 +57,6 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - Coq
 - [Coreboot](https://doc.coreboot.org/community/forums.html)
 - [CoreRAD](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
-- Couchdb
 - [Cozy Cloud](https://twitter.com/cozycloud/status/1399266831244869635)
 - [Crosstool-NG](https://github.com/crosstool-ng/crosstool-ng.github.io/pull/34)
 - [Curl](https://daniel.haxx.se/blog/2021/05/26/curl-7-77-0-200-ok/)
