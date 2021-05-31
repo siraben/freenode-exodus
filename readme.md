@@ -135,6 +135,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Jellyfin](https://github.com/jellyfin/jellyfin-blog/commit/90c2e350d2f47e24e385574aa6f97ef622e4444e)
 - [Jenkins](https://groups.google.com/g/jenkinsci-dev/c/pEcun5ZSfgo/m/ztRg03VNAgAJ)
 - [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver/pull/884)
+- [Kallithea Project](https://twitter.com/KallitheaSCM/status/1398695300315942912)
 - [Kanshi](https://github.com/emersion/kanshi/commit/c5fd774040a28e99ea6e738cd822fd538ff9c599)
 - [KiCad](https://www.kicad.org/community/chat/)
 - [killer](https://github.com/Lvl4Sword/Killer/commit/d1ed629036d5c62a8169e83acbd396a9d2843f44)
