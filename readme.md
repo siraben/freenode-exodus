@@ -113,6 +113,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Guix China](https://github.com/guixcn/guixcn.github.io/commit/8eced0c3583f74f4ba1f3d9746e00e284ad1780f)
 - [Guix](https://github.com/guix-mirror/guix/commit/c0087d33705f53cc3619a1a43a33602aaecc3a8b)
 - [HackSoc](https://www.hacksoc.org/news/2021-05-25-moving-to-libera.html)
+- [Hammerspoon](https://twitter.com/_hammerspoon/status/1397647962851926023)
 - [HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2021-05-26/hardenedbsd-switching-irc-servers)
 - [Hardfought](https://www.hardfought.org/libera-irc/)
 - [Haskell](https://old.reddit.com/r/haskell/comments/nhkrfc/a_robust_haskell_ecosystem_is_now_active_on/)
