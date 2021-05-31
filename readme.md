@@ -241,7 +241,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Solanum](https://github.com/solanum-ircd/solanum.chat/pull/7)
 - [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
 - [Sopel](https://github.com/sopel-irc/sopel.chat/pull/33)
-- Sourcehut
+- [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
 - Sway
 - Sysadmin
 - Systemd
