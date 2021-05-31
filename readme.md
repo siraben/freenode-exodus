@@ -25,6 +25,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Aurutils](https://github.com/AladW/aurutils/commit/659c464aa90862260915f966bc3394678ed84f42)
 - [AsteroidOS](https://twitter.com/AsteroidOS/status/1398645863988273158)
 - Bastillebsd
+- [Battle for Wesnoth](https://forums.wesnoth.org/viewtopic.php?t=54341)
 - [Bedrock Linux](https://github.com/bedrocklinux/bedrocklinux-website/commit/1cb8db46d0c9e7784594a13fc11edfb0b15c883a)
 - [Beets](https://github.com/beetbox/beets/pull/3957/files)
 - [bitbot](https://github.com/jesopo/bitbot/commit/5f895544a80e47a32a07cfd6f4a06897f26cca4d)
@@ -314,7 +315,6 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [WA7VC](https://github.com/wa7vc/wa7vc.org/commit/57ee00dd4143d02ac002009e22164db86d76943f)
 - [wayvnc](https://github.com/any1/wayvnc/commit/3b6a07a3b6fe1e6ce3d5505fed09263bb6557019)
 - [Weechat](https://twitter.com/WeeChatClient/status/1396932241951973383)
-- [Wesnoth](https://github.com/wesnoth/wesnoth/commit/affb15fbac2c50dfdc4869253c07f299c13cd15c)
 - [Whim](https://github.com/jmacdotorg/whim/commit/ec6df95e814e64d62b677e0ee4948a3ead2fec46)
 - [Whipper](https://github.com/whipper-team/whipper/pull/541)
 - Wikimedia
