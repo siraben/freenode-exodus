@@ -139,6 +139,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver/pull/884)
 - [Kallithea Project](https://twitter.com/KallitheaSCM/status/1398695300315942912)
 - [Kanshi](https://github.com/emersion/kanshi/commit/c5fd774040a28e99ea6e738cd822fd538ff9c599)
+- [KeePassXC](https://twitter.com/KeePassXC/status/1398426279133814785)
 - [KiCad](https://www.kicad.org/community/chat/)
 - [killer](https://github.com/Lvl4Sword/Killer/commit/d1ed629036d5c62a8169e83acbd396a9d2843f44)
 - [kpatch](https://github.com/dynup/kpatch/commit/87ca62d8de27dcec9429e879284e948e68dcd02d)
