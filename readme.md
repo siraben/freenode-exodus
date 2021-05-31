@@ -314,7 +314,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Xubuntu](https://xubuntu-devel.narkive.com/ptEHzj6U/irc-move-to-libera-chat)
 - [Yancy](https://github.com/preaction/Yancy/commit/9a70e3e2bedea5d21ea514e243920e0ca9b4017f)
 - [Zapp](https://github.com/preaction/Zapp/commit/b4923d4a0596f22ea7ddbfcacf857973e31b9bf7)
-- [zaproxy](https://github.com/zaproxy/zaproxy-website/commit/c9ebab2e719716c6e10e8d1ab7e5f6476e907d3a)
+- [Zed Attack Proxy](https://twitter.com/zaproxy/status/1397509029996417032)
 - Zig
 - [ZNC](https://wiki.znc.in/index.php?title=FAQ&curid=116&diff=2806&oldid=2771)
 - Zsh
