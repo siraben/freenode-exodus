@@ -313,6 +313,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Whipper](https://github.com/whipper-team/whipper/pull/541)
 - Wikimedia
 - [WireGuard](https://lists.zx2c4.com/pipermail/wireguard/2021-May/006772.html)
+- [WSL Utilities](https://twitter.com/wslutilities/status/1396974355226128384)
 - [Xapian](https://github.com/xapian/xapian/commit/7c993a621a5ff99689ac9f66e6f36199b8f98a8e)
 - Xen
 - [Xmonad](https://twitter.com/xmonad/status/1397509701043097607)
