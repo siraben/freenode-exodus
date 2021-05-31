@@ -8,7 +8,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [abcde](https://abcde.einval.com/wiki/)
 - [ADAM](https://github.com/bigdatagenomics/adam/commit/1f5c36c75959fd13fc5536db837432eca3c1e11b)
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
-- [Alpine Linux (to OFTC)](https://wiki.alpinelinux.org/w/index.php?title=Alpine_Linux:IRC&diff=19501&oldid=18273)
+- [Alpine](https://alpinelinux.org/posts/Switching-to-OFTC.html) (to oftc)
 - [Anbox](https://github.com/anbox/anbox/pull/1818)
 - [Anklang](https://github.com/tim-janik/anklang/commit/074e7b9b53a2cb9c0e5a064182383aa3a25b9095)
 - [Ansible](https://github.com/ansible/community/pull/614)
