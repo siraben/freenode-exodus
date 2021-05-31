@@ -163,7 +163,7 @@ Sources are mostly comments I've seen on HN, various IRC channels and web search
 - Postgres
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - Prometheus
-- [Pypy](https://github.com/pypy/pypy.org/pull/26/files)
+- [Pypy](https://www.pypy.org/posts/2021/05/pypy-irc-moves-to-libera-chat.html)
 - [Python](https://www.python.org/community/irc/)
 - [QT](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
 - [quick-lint-js](https://github.com/quick-lint/quick-lint-js/commit/2c92710784e13e27bf82463f0dc225e66d4f1371)
