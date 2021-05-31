@@ -291,6 +291,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [rpi-img-builder](https://github.com/pyavitz/rpi-img-builder/commit/3919becda8663d82476ae6f55b1ccf6c41ba9a40)
 - Rsync
 - [RTL-SDR](https://www.rtl-sdr.com/freenode-rtlsdr-irc-channel-moving-to-libera/)
+- [r/sysadmin](https://www.reddit.com/r/sysadmin/comments/nlw6iz/on_freenode_libera_and_the_rsysadmin_irc_channel/)
 - [Salix-OS](https://github.com/Salix-OS/www.salixos.org/commit/411c54e0db46ca85543b31894d943986da7c31d9)
 - [sbctl](https://github.com/Foxboron/sbctl/commit/bca692f1e19ee0f0a2f9adf6c12f21427022efc7)
 - [#scheme](https://srfi-email.schemers.org/srfi-discuss/msg/16740382/)
@@ -311,7 +312,6 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [SQLAlchemy](https://twitter.com/sqlalchemy/status/1397667050722676738)
 - Sway
 - [SWI-Prolog](https://twitter.com/SwiProlog_/status/1396539991963148291)
-- Sysadmin
 - [System Security Services Daemon](https://github.com/SSSD/sssd.io/commit/f25e86624b99817c5106d47ff6117b3c09b7d70d)
 - Systemd
 - [Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs/pull/1068)
