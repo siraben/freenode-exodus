@@ -206,7 +206,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Mousepaw Media](https://twitter.com/mousepawmedia/status/1397727750069227524)
 - [MUGS (Multi-User Gaming Services)](https://github.com/Raku-MUGS/MUGS-Core/commit/f018d134fcf79cf0116e5ffa288b7fb8b10ee09c)
 - [Music Player Daemon (MPD)](https://www.musicpd.org/news/2021/05/bye-freenode-hello-libera-dot-chat/)
-- Musl
+- [Musl](https://twitter.com/musllibc/status/1395773725409165313)
 - [Mutt](http://lists.mutt.org/pipermail/mutt-announce/Week-of-Mon-20210517/000037.html)
 - Mysql
 - [naemon](https://github.com/naemon/naemon.github.io/commit/4b22fa94c7a123706c84ee5ec98a04168888c355)
