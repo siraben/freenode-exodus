@@ -65,6 +65,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Dovecot](https://www.dovecot.org/support) (to OFTC)
 - [EasyRPG](https://github.com/EasyRPG/easyrpg.org/pull/71/files)
 - [eduVPN](https://github.com/eduvpn/documentation/commit/2158742e5d5c73df02a011dd5a62661926a41e5a)
+- [Electromagnetic Field Camp](https://twitter.com/emfcamp/status/1398348629635633152)
 - [Elixir](https://twitter.com/AmNicd/status/1397448111291879424)
 - [Elvish](https://github.com/elves/elvish/commit/e44b677e79cc52998e3c85e7b01ae14cf7f6f735)
 - Emacs
