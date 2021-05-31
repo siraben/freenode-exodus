@@ -210,7 +210,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [OpenIKED](https://github.com/openiked/openiked-portable/commit/28ecc4031b73939aa0ce69ae28f917100c5d8c1d)
 - [openITCOCKPIT](https://openitcockpit.io/2021/2021/05/31/irc-announcement-migrating-to-libera-chat/)
 - [OpenLab Augsburg](https://github.com/openlab-aux/wikidata/commit/26d43ae546436d4f5653ac35a63bf07000f0b5d3)
-- [OpenLDAP](https://twitter.com/hyc_symas/status/1395829020009410561)
+- [OpenLDAP](https://twitter.com/openldaporg/status/1397563699255255041)
 - [OpenMPTL](https://github.com/digint/openmptl/commit/017807807e1fed41040af200afa4046740135939)
 - [openscad](https://github.com/openscad/openscad.github.com/commit/ac3a7b9adfcdf845e360807802065d4bace2ff77)
 - [Open Source Club at The Ohio State University ](https://github.com/OSUOSC/website/commit/efaaf4e14b5b5611d51eadab7a85cf484b80d32e)
