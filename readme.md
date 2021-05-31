@@ -86,7 +86,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [eLinux](https://twitter.com/elinux/status/1397204424053907458)
 - [Elixir](https://twitter.com/AmNicd/status/1397448111291879424)
 - [Elvish](https://github.com/elves/elvish/commit/e44b677e79cc52998e3c85e7b01ae14cf7f6f735)
-- Emacs
+- [Emacs](https://www.reddit.com/r/emacs/comments/nl70vo/emacs_is_on_liberachat/)
 - [Emacs User Group Berlin](https://github.com/emacs-berlin/emacs-berlin.org/commit/920b7d30ddd5f2a2283f85316d5c557cd696acaf)
 - [Embeddable Common-Lisp](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
 - [Emfcamp](https://www.emfcamp.org/about/contact)
