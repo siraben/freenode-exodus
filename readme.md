@@ -145,6 +145,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Haskell](https://old.reddit.com/r/haskell/comments/nhkrfc/a_robust_haskell_ecosystem_is_now_active_on/)
 - [Haveno](https://github.com/haveno-dex/haveno-meta/issues/10)
 - [helloSystem](https://github.com/helloSystem/docs/commit/2bb0f6a26b1e08705c6025fade70e7a775f86882)
+- [Helsinki Finite-State Technology](https://github.com/hfst/hfst/commit/3977c5c1ace1fc77fcc374fae8836c71b35bcb19) (to OFTC)
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm/commit/5b519afb22b932bb45debd7cb23c745465014c47)
 - [HexChat](https://hexchat.github.io/news/hexchat-channel.html)
 - [Home Manager](https://github.com/nix-community/home-manager/commit/3591cd2b3bbb1b4c7033bc2b5dc3d142bc3f9074) (to OFTC)
