@@ -254,7 +254,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [RTL-SDR](https://www.rtl-sdr.com/freenode-rtlsdr-irc-channel-moving-to-libera/)
 - [Salix-OS](https://github.com/Salix-OS/www.salixos.org/commit/411c54e0db46ca85543b31894d943986da7c31d9)
 - [#scheme](https://srfi-email.schemers.org/srfi-discuss/msg/16740382/)
-- [ScummVM](https://github.com/scummvm/scummvm/commit/50e8dc815acf7a4e664fba2377febb328c903745)
+- [ScummVM](https://twitter.com/ScummVM/status/1397664213124980737)
 - [Scuttlebut](https://github.com/ssbc/ssb-server/commit/2ba6d6dc465e9812cbe05a3d045b183853397850)
 - [Seattle GNU/Linux Conference ](https://github.com/SeaGL/seagl.github.io/commit/ca65a364735e45f8ffd68373c0a855e9cd590c70)
 - [Selenium](https://www.selenium.dev/blog/2021/moving-to-libera-chat/)
