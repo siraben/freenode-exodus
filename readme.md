@@ -222,9 +222,9 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [ZNC](https://wiki.znc.in/index.php?title=FAQ&curid=116&diff=2806&oldid=2771)
 - Zsh
 
-## Projects and channels that have stayed on Freenode
+## Projects and channels that have decided to stay on Freenode
 
-More difficult to find are projects that have stayed, please let me know.
+More difficult to find are projects that have decided to stay, please let me know.
 
 - GnuPG
 - #freenode (duh)
