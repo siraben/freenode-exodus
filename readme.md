@@ -351,6 +351,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [WA7VC](https://github.com/wa7vc/wa7vc.org/commit/57ee00dd4143d02ac002009e22164db86d76943f)
 - [wayvnc](https://github.com/any1/wayvnc/commit/3b6a07a3b6fe1e6ce3d5505fed09263bb6557019)
 - [Weechat](https://twitter.com/WeeChatClient/status/1396932241951973383)
+- [Weston](https://github.com/wayland-project/weston/commit/eaa5ecf8b28b72e890aed89e1797213fb31efd10) (to OFTC)
 - [Whim](https://github.com/jmacdotorg/whim/commit/ec6df95e814e64d62b677e0ee4948a3ead2fec46)
 - [Whipper](https://github.com/whipper-team/whipper/pull/541)
 - [Wikimedia](https://meta.wikimedia.org/wiki/IRC/Migrating_to_Libera_Chat)
