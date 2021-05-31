@@ -50,7 +50,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Coreboot](https://doc.coreboot.org/community/forums.html)
 - [CoreRAD](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
 - Couchdb
-- [Cozy](https://github.com/cozy/cozy-site/commit/1a883a0ff85756cc966c5173518d9e7ff6e36d21)
+- [Cozy Cloud](https://twitter.com/cozycloud/status/1399266831244869635)
 - [Crosstool-NG](https://github.com/crosstool-ng/crosstool-ng.github.io/pull/34)
 - [Curl](https://daniel.haxx.se/blog/2021/05/26/curl-7-77-0-200-ok/)
 - [dav1d](https://github.com/videolan/dav1d/commit/41be890ddd8e58f938aa74a689e4a457da3a87b0)
