@@ -43,7 +43,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Btrbk](https://github.com/digint/btrbk/commit/88d4cc76f3a9f3c12da38864a2d629c02c58b8c6)
 - [BTRFS](https://btrfs.wiki.kernel.org/index.php?title=Main_Page&curid=1&diff=33413&oldid=33412)
 - [Bucardo](https://github.com/bucardo/bucardo/commit/76e6c29c3b4d469ba642215b03afa955b5deb7d7)
-- [Buildroot (to OFTC)](https://github.com/buildroot/buildroot/commit/fe3cb7978aa5843004018c03006b80ed329ab5c2)
+- [Buildroot](http://lists.busybox.net/pipermail/buildroot/2021-May/311170.html) (to OFTC)
 - [BZFlag](https://github.com/BZFlag-Dev/bzflag.org/commit/840e1222a41cb688a58b411544fa502620a7808e)
 - [cabal](https://github.com/cabal-club/cabal-club.github.io/commit/c86cf62e1ce6e90396435d4814edba1081d23273)
 - [Calamares](https://euroquis.nl//calamares/2021/05/26/calamares-communications.html)
