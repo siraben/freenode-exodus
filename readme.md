@@ -60,6 +60,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [circe](https://github.com/jorgenschaefer/circe/commit/4778675e0c3bde1c028085b7d96693fe033d2c72)
 - [Citra Emulator](https://github.com/citra-emu/citra-web/commit/564588a2aaa0ce03aa4cf48f4d531562108d6945)
 - [Clojure](https://clojure.org/community/resources)
+- [cloud-init](https://github.com/canonical/cloud-init/commit/63f72380a70d9f846cac3b2cbbc6ed13c735c277)
 - [Cockpit](https://github.com/cockpit-project/cockpit/commit/84507b9d3adb584280a6db53302d6fdea4b8b950)
 - [ConnectBot](https://github.com/connectbot/connectbot.github.io/commit/6756b0041bbfb9a3f29b1a472c57a83716880c93)
 - [Convos](https://convos.chat/blog/2021/5/20/moving-from-freenode-to-libera)
