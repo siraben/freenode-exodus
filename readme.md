@@ -5,7 +5,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [2600Hz](https://twitter.com/2600hertz/status/1397666224121782279)
 - [ADAM](https://github.com/bigdatagenomics/adam/commit/1f5c36c75959fd13fc5536db837432eca3c1e11b)
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
-- Alpine (to oftc)
+- [Alpine Linux (to OFTC)](https://wiki.alpinelinux.org/w/index.php?title=Alpine_Linux:IRC&diff=19501&oldid=18273)
 - [Anbox](https://github.com/anbox/anbox/pull/1818)
 - [Anklang](https://github.com/tim-janik/anklang/commit/074e7b9b53a2cb9c0e5a064182383aa3a25b9095)
 - [Ansible](https://github.com/ansible/community/pull/614)
