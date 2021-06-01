@@ -256,6 +256,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [mblaze](https://github.com/leahneukirchen/mblaze/commit/6684f74f0719be15fad22df73723380b91c3b71e)
 - [McCLIM](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
 - [Mednafen](https://github.com/mednafen/mednafen.github.io/commit/f20664e6c24be8c1c6a7ad76b7c31c67c209d370) (to OFTC)
+- [MegaGlest](https://github.com/MegaGlest/megaglest-source/commit/d1ed68ef00add7561a16c5c51146e7e68b0cf736)
 - [Mesa](https://lists.freedesktop.org/archives/mesa-dev/2021-May/225271.html) (to OFTC)
 - [Meson (to OFTC)](https://mesonbuild.com/index.html#community)
 - [MetaBrainz](https://blog.metabrainz.org/)
