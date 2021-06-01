@@ -71,6 +71,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Cockpit](https://github.com/cockpit-project/cockpit/commit/84507b9d3adb584280a6db53302d6fdea4b8b950)
 - [Code4Lib](https://lists.clir.org/cgi-bin/wa?A2=ind2105&L=CODE4LIB&P=81656)
 - [Coffee House Coders](https://github.com/coffeehousecoders/royaloak.coffeehousecoders.com/commit/5b89adac777f7723f5da242ec1027c7ad1e14c8c)
+- [Composr CMS](https://compo.sr/news/view/announcements/irc-channel-moving-to.htm)
 - [ConnectBot](https://github.com/connectbot/connectbot.github.io/commit/6756b0041bbfb9a3f29b1a472c57a83716880c93)
 - [Convos](https://convos.chat/blog/2021/5/20/moving-from-freenode-to-libera)
 - [Coq](https://github.com/coq/www/commit/e35ef3cebecc96ae8dc5346e4505d1ccd49a2987)
