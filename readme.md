@@ -139,6 +139,9 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Gobolinux](https://gobolinux.discourse.group/t/irc-channel-moves-to-libera/61)
 - [Golang](https://twitter.com/dave_universetf/status/1398130757931966464)
 - [Google Benchmark](https://twitter.com/runtime/status/1396044095446036482)
+- [gophernicus](https://github.com/gophernicus/gophernicus/pull/98/files)
+- [go-imap](https://github.com/emersion/go-imap/commit/0e5bf8b8c24d2bb1481e94a44c18d3fa2dfbb630)
+- [go-smtp](https://github.com/emersion/go-smtp/commit/c11900fc3ed1bc6c9d68cd816592b26e20901b7e)
 - [gPodder](https://github.com/gpodder/gpodder.github.io/commit/e0b93a2c84a92664ed89be9436eaff2688b87fbb)
 - [GPUSPH](https://github.com/GPUSPH/gpusph/commit/08ffd94ddc4a076361f0e5f6e2bfde7874ba087f)
 - Grafana
