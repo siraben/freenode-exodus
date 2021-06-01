@@ -340,6 +340,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [pydle](https://github.com/Shizmob/pydle/commit/baa7070309906f6a58d4b29bad6f1efff90baf16)
 - [PyLink](https://github.com/jlu5/PyLink/commit/ba5f89d03cb0e674a1c1bd07aee3497d56d342d6)
 - [PyPy](https://www.pypy.org/posts/2021/05/pypy-irc-moves-to-libera-chat.html)
+- [pytest](https://twitter.com/pytestdotorg/status/1399754170530467841)
 - [Python Cryptographic Authority](https://github.com/pyca/cryptography/pull/6054)
 - [Python](https://www.python.org/community/irc/)
 - [Qt](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
