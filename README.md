@@ -353,6 +353,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Raku](https://www.tyil.nl/post/2021/05/22/raku-on-libera-chat/)
 - [ranger](https://ranger.github.io/news/2021-05-19-libera)
 - [##rbxdev](https://twitter.com/SignorOmbra/status/1399086366475051010)
+- [RDO](https://lists.rdoproject.org/pipermail/dev/2021-May/009568.html) (to OFTC)
 - [re:Web](https://github.com/apparentorder/reweb/commit/9a1dd5abcb9cefffef05bf8ce3eca096a44ec27b)
 - Reprap
 - [restic](https://twitter.com/resticbackup/status/1399049594672136193)
