@@ -11,6 +11,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
 - [afew](https://github.com/afewmail/afew/commit/8ef9a5b73e5d1063cf912c70027c655fb19d1109)
 - [Alpine](https://alpinelinux.org/posts/Switching-to-OFTC.html) (to OFTC)
+- [alwaysdata](https://changelog.alwaysdata.com/212/detail/)
 - [Anbox](https://github.com/anbox/anbox/pull/1818)
 - [Anklang](https://github.com/tim-janik/anklang/commit/074e7b9b53a2cb9c0e5a064182383aa3a25b9095)
 - [Ansible](https://github.com/ansible/community/pull/614)
