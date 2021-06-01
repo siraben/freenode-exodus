@@ -165,7 +165,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Guile](https://www.gnu.org/software/guile/learn/)
 - [Guix China](https://github.com/guixcn/guixcn.github.io/commit/8eced0c3583f74f4ba1f3d9746e00e284ad1780f)
 - [Guix](https://github.com/guix-mirror/guix/commit/c0087d33705f53cc3619a1a43a33602aaecc3a8b)
-- [hackeriet.no](https://github.com/hackeriet/hackeriet.no/pull/31)
+- [hackeriet.no](https://twitter.com/hackeriet/status/1397480914981167104)
 - [hackerspace.pl](https://twitter.com/hackerspacepl/status/1397543122415067143)
 - [HackSoc](https://www.hacksoc.org/news/2021-05-25-moving-to-libera.html)
 - [Haiku](https://www.haiku-os.org/news/2021-05-19_haiku_is_moving_to_oftc/) (to OFTC)
