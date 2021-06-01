@@ -233,6 +233,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Madeinfr](https://twitter.com/madeinfr/status/1397849981327925252)
 - [Maemo Leste](https://maemo-leste.github.io/)
 - [Maemo Leste](https://maemo-leste.github.io/maemo-leste-irc-channel-migration.html)
+- [Magicjudges.org](https://github.com/dcollinsn/chat-magicjudges-org/commit/b80193b55166e2e46e6f7609d03dfe1a8b121ef7)
 - [mal](https://github.com/kanaka/mal/commit/27b761bd1ebc214a899f00159f62f67ab6c7c6cc)
 - [MAME](https://www.mamedev.org/?p=500)
 - [Marathon Speedrun Developers](https://github.com/marathon-speedrun-developers/devel/commit/aec5c4e958cfea8139440a59442ffecd23ca2490)
