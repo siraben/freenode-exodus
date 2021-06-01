@@ -407,6 +407,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Toybox](https://github.com/landley/toybox/commit/6ce11972ecdf798872b0236b4921cb3ff35f7d29)
 - [TroLUG](https://github.com/TroLUG/trolug-nikola/commit/e843ecbd4f8ca773858d7659c029190f7d05ca28)
 - [Tuner](https://github.com/louis77/tuner/commit/ca1b93630229f8710551665e78d2d88f3f4adcab)
+- [TVL](https://cl.tvl.fyi/c/depot/+/3134) (to hackint)
 - [Tübix](https://github.com/tuebix/tuebixorg/pull/16)
 - [Ubuntu Budgie](https://github.com/UbuntuBudgie/budgie-welcome/commit/ab8cd3b8981e595173047e3feda70c4366bcc75b)
 - [Ubuntu](https://fridge.ubuntu.com/2021/05/26/announcing-ubuntus-move-to-libera-chat/)
