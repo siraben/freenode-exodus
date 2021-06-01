@@ -31,7 +31,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Bedrock Linux](https://github.com/bedrocklinux/bedrocklinux-website/commit/1cb8db46d0c9e7784594a13fc11edfb0b15c883a)
 - [Beets](https://github.com/beetbox/beets/pull/3957/files)
 - [bitbot](https://github.com/jesopo/bitbot/commit/5f895544a80e47a32a07cfd6f4a06897f26cca4d)
-- [Bitcoin Core](https://bitcoinops.org/en/newsletters/2021/05/26/)
+- [Bitcoin Core](http://www.erisian.com.au/bitcoin-core-dev/log-2021-05-20.html#l-582)
 - [Blue Nebula](https://github.com/blue-nebula/base/commit/c94285ad13a1303c48c7d3dac7cc9481c90d6425)
 - [Bluespec Compiler](https://github.com/B-Lang-org/bsc/commit/429f46ede68723864d6db517faaba6d2b2027971)
 - [BorgBackup](https://github.com/borgbackup/borgbackup.github.io/pull/67)
