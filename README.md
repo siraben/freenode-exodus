@@ -386,6 +386,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
 - [SopelIRC](https://twitter.com/SopelIRC/status/1397409117380153348)
 - [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
+- [SPIP](https://blog.spip.net/L-IRC-spip-demenage-de-freenode-net-a-libera-chat.html)
 - [Sway](https://github.com/swaywm/sway/commit/1651f2106152b40abd8c1dcef2ddcbbca36c7b47)
 - [SQLAlchemy](https://twitter.com/sqlalchemy/status/1397667050722676738)
 - [Stacken](https://github.com/stacken/w3/commit/5c089d0558960655e0ac888c5adc814da3abce29)
