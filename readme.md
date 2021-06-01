@@ -223,6 +223,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Lutris](https://github.com/lutris/website/commit/dc9adc0786d0e2050ed0ac964ac931060d0d4f2a)
 - [LuXeria](https://github.com/luxeria/luxeria.github.io/commit/995df3d5a8a31e7e56cb3ec41bb7ff54bacd7e7e)
 - [LXC](https://discuss.linuxcontainers.org/t/lxc-now-using-libera-as-its-irc-network-live-chats/11178)
+- [lykos](https://github.com/lykoss/lykos/commit/3d7aab45066a1f12eb028dfcc80074cbee80b881)
 - [M36](https://github.com/agentm/project-m36/commit/ac193558ded79101ac65e08668236bfea9e91a35)
 - [MacPorts](https://www.macports.org/contact.php#IRC)
 - [Maddy Mail Server](https://github.com/foxcpp/maddy/commit/c8659ad18aac206b6b9345926c20d6f49a4daab0) (to OFTC)
