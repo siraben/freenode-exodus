@@ -203,6 +203,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Lokke: Clojure for Guile](https://github.com/lokke-org/lokke/commit/001c5f30fd192356643ddd01ca904d8a37cd1525)
 - [London Hackspace](https://github.com/londonhackspace/hackspace-foundation-sites/commit/0a90a58372abb20ebdeb0525786fd0ecd4cfa500)
 - [Lua Fr](https://github.com/lua-fr/lua-fr.github.io/commit/7a277c7b7096892725a6b3e84c4b63dc93d8ac88)
+- [Lutris](https://github.com/lutris/website/commit/dc9adc0786d0e2050ed0ac964ac931060d0d4f2a)
 - [LuXeria](https://github.com/luxeria/luxeria.github.io/commit/995df3d5a8a31e7e56cb3ec41bb7ff54bacd7e7e)
 - [LXC](https://discuss.linuxcontainers.org/t/lxc-now-using-libera-as-its-irc-network-live-chats/11178)
 - [M36](https://github.com/agentm/project-m36/commit/ac193558ded79101ac65e08668236bfea9e91a35)
