@@ -339,6 +339,5 @@ Note: I can only accept additional projects and channels to the list accompanied
 
 More difficult to find are projects that have decided to stay, please let me know.
 
-- GnuPG
 - [#forth (bridged to Libera)](https://gist.github.com/siraben/df534c378de7adc8e5dca05956f0ca95#gistcomment-3763303)
 - #freenode (duh)
