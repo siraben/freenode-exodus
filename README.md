@@ -320,6 +320,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Open Source Club at The Ohio State University ](https://github.com/OSUOSC/website/commit/efaaf4e14b5b5611d51eadab7a85cf484b80d32e)
 - [Open Source Lab at Oregon State University](https://lists.apache.org/thread.html/r09e4f6174f783fc89382f611f59d8933ec0802dd20ec87c5dddec061%40%3Cbuilds.apache.org%3E)
 - [OpenBSD](https://github.com/ligurio/awesome-openbsd/commit/a261ef37e6a9a2a039c55094e469749f9b32e250)
+- [#openhab](https://twitter.com/penguinponics/status/1395084712880660486)
 - [OpenIKED](https://github.com/openiked/openiked-portable/commit/28ecc4031b73939aa0ce69ae28f917100c5d8c1d)
 - [openITCOCKPIT](https://openitcockpit.io/2021/2021/05/31/irc-announcement-migrating-to-libera-chat/)
 - [OpenLab Augsburg](https://github.com/openlab-aux/wikidata/commit/26d43ae546436d4f5653ac35a63bf07000f0b5d3)
