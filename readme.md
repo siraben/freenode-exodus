@@ -74,6 +74,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [DC801](https://twitter.com/dc801/status/1397391356553621510)
 - Debian
 - [Demosplash](https://twitter.com/demosplash/status/1396572084021694464)
+- [Diakonos](https://github.com/Pistos/diakonos/commit/3ea11330e76c81b76d85a7dc4755a0cf1cc285dc)
 - [Directord](https://twitter.com/peznauts/status/1396330864842321920)
 - [Delta Chat](https://github.com/deltachat/deltachat-pages/commit/e5530f17db04ef18368fa1b77403580ed64c5167)
 - [#developerslv](https://github.com/daGrevis/developerslv/pull/2/files)
