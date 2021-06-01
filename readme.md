@@ -300,6 +300,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - Packetframe
 - [Packit](https://github.com/packit/packit.dev/pull/286)
 - [pass (password-store)](https://lists.zx2c4.com/pipermail/password-store/2021-May/004437.html)
+- [PBUI Project](https://github.com/pbui-project/pbui-main/commit/70ee305cc8c1293d775c3a5c7acc3deb8b0cef32)
 - [PeerTube](https://github.com/Chocobozzz/PeerTube/commit/462271edd693cffb9242ca1e33d64cb0423e4b29)
 - [Pepper & Carrot](https://www.davidrevoy.com/article847/the-official-chat-room-moved)
 - [Perl](https://github.com/Perl/perl5/commit/1b4abd7a1176bbccd4448de637474be7e72f8a57)
