@@ -37,6 +37,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Bitcoin Core](http://www.erisian.com.au/bitcoin-core-dev/log-2021-05-20.html#l-582)
 - [Blue Nebula](https://github.com/blue-nebula/base/commit/c94285ad13a1303c48c7d3dac7cc9481c90d6425)
 - [Bluespec Compiler](https://github.com/B-Lang-org/bsc/commit/429f46ede68723864d6db517faaba6d2b2027971)
+- [Bootstrappable](https://www.freelists.org/post/bootstrappable/Freenode,1)
 - [BorgBackup](https://github.com/borgbackup/borgbackup.github.io/pull/67)
 - [bspwm](https://github.com/baskerville/bspwm/commit/c5eba7190dbe3d249865f7e193cb8bd2c3c51cc7)
 - [Btrbk](https://github.com/digint/btrbk/commit/88d4cc76f3a9f3c12da38864a2d629c02c58b8c6)
