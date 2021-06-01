@@ -264,7 +264,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [mgmtconfig](https://github.com/purpleidea/mgmt/commit/7d7e225823fd2920c425c9c9518f739a5989b541)
 - [Minecraft devs](https://github.com/dmulloy2/ProtocolLib/commit/72c1f3e26cedf4b9e412bd1d3c38cc33ed1c8f07)
 - [Minecraft Overviewer](https://overviewer.org/blog/2021/5/22/the-irc-channel-has-moved/)
-- Minetest
+- [Minetest](https://wiki.minetest.net/index.php?title=IRC&diff=26329&oldid=23933)
 - [minible](https://github.com/mooltipass/minible/commit/e0651309c92ccec0e36b59b951544b22152fbf71)
 - [Miraheze](https://circleyverse.miraheze.org/wiki/Main_Page)
 - [MoinMoinChat](https://twitter.com/ThomasJWaldmann/status/1398608773594423301)
