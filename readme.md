@@ -432,6 +432,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [XigmaNAS](https://twitter.com/XigmaNAS/status/1399497020398788611)
 - [Xmonad](https://twitter.com/xmonad/status/1397509701043097607)
 - [xNetHack](https://github.com/copperwater/xNetHack/commit/d7ddc8df4c3a07b4c0975c2c3f21630e681ea5a0)
+- [xoreos](https://github.com/xoreos/xoreos/commit/cf0ff54463918ca5bfec7724a04c7f19c7057a1f)
 - [XTools](https://github.com/x-tools/xtools/commit/96a372aa49dc0ea616f73bc4b68e63ca47849f26)
 - [Xubuntu](https://xubuntu-devel.narkive.com/ptEHzj6U/irc-move-to-libera-chat)
 - [yaydl](https://github.com/dertuxmalwieder/yaydl/commit/25a81643635052d971949cd430542c76c523bf8b) (to OFTC)
