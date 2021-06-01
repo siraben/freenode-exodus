@@ -333,7 +333,7 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [Zed Attack Proxy](https://twitter.com/zaproxy/status/1397509029996417032)
 - Zig
 - [ZNC](https://wiki.znc.in/index.php?title=FAQ&curid=116&diff=2806&oldid=2771)
-- Zsh
+- [Zsh](https://zsh.sourceforge.io/News/)
 
 ## Projects and channels that have decided to stay on Freenode
 
