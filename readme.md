@@ -95,7 +95,7 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [Ffmpeg](https://git.ffmpeg.org/gitweb/ffmpeg-web.git/commit/8ccd75e40f7366d17a2bc6787cc4e86c79a242ab)
 - [FileWiki](https://github.com/digint/filewiki/commit/36606dfc5a909878eeb2d54cdec1e4e5c227c9af)
 - [Fink Project](https://github.com/fink/website/commit/3f9dfae3dca338b8ccd9454f9ac428ae136a8e1f)
-- Fosdem
+- [FOSDEM](https://fosdem.org/2021/news/2021-05-26-libera/)
 - [FOSSHOST](https://fosshost.org/news/libera-chat)
 - [FreeBSD](https://wiki.freebsd.org/IRC/Official-FreeBSD-IRC-channels-now-on-Libera-Chat)
 - [FreedroidRPG](https://www.freedroid.org/2021/05/20/moving-to-libera-chat/)
