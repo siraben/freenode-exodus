@@ -141,6 +141,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Gentoo](https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html)
 - [GHC](https://twitter.com/bgamari/status/1395065974496317442)
 - [Git](https://github.com/git/git-scm.com/commit/b1f3d65452a62a49b030587303ea3a0944561ed7)
+- [Glowing Bear](https://github.com/glowing-bear/glowing-bear/commit/68d44cf669aafe968a786b5d33d6903be540fa81)
 - [GNU Radio](https://twitter.com/gnuradio/status/1397474348659875840)
 - [go-imap](https://github.com/emersion/go-imap/commit/0e5bf8b8c24d2bb1481e94a44c18d3fa2dfbb630)
 - [go-smtp](https://github.com/emersion/go-smtp/commit/c11900fc3ed1bc6c9d68cd816592b26e20901b7e)
