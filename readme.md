@@ -242,6 +242,7 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [Pico lisp](https://www.mail-archive.com/picolisp@software-lab.de/msg10639.html)
 - [pimutils](https://github.com/pimutils/meta/pull/11)
 - [Pioneer Space Sim](https://github.com/pioneerspacesim/pioneer-hugo/commit/d38ca4b762c02f1ca8c66df749c19a7f1f557b74)
+- [Pleroma](https://pleroma.social/announcements/2021/05/31/moving-away-from-freenode/)
 - [PLUG](https://github.com/phillylinux/phillylinux.github.io/commit/0ffb76e33922c67aeaa7cbd48e6156ad94a54838)
 - [Podman](https://github.com/containers/podman/pull/10499)
 - [Porteus](https://forum.porteus.org/viewtopic.php?f=48&p=82428&sid=fd768d3cbbacf4fc4b1be36456d31328)
