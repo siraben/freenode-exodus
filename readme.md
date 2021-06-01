@@ -175,6 +175,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Helsinki Finite-State Technology](https://github.com/hfst/hfst/commit/3977c5c1ace1fc77fcc374fae8836c71b35bcb19) (to OFTC)
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm/commit/5b519afb22b932bb45debd7cb23c745465014c47)
 - [HexChat](https://hexchat.github.io/news/hexchat-channel.html)
+- [hledger](https://groups.google.com/g/hledger/c/9NQ_1_ng1XM/m/OeRFIMbxBQAJ)
 - [Home Manager](https://github.com/nix-community/home-manager/commit/3591cd2b3bbb1b4c7033bc2b5dc3d142bc3f9074) (to OFTC)
 - [Hplusroadmap](https://diyhpl.us/wiki/hplusroadmap/)
 - [HPy](https://hpyproject.org/blog/posts/2021/05/hpy-irc-moves-to-libera-chat/)
