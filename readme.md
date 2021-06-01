@@ -59,6 +59,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [chimper](https://github.com/pedrocr/chimper/commit/be65f779918bc82c0472f8027bdcc27bf01cc3ec)
 - [circe](https://github.com/jorgenschaefer/circe/commit/4778675e0c3bde1c028085b7d96693fe033d2c72)
 - [Citra Emulator](https://github.com/citra-emu/citra-web/commit/564588a2aaa0ce03aa4cf48f4d531562108d6945)
+- [Clash](https://github.com/clash-lang/clash-lang.org/commit/0be4c023485f0160824e3b0bb2f0295497474709)
 - [Clojure](https://clojure.org/community/resources)
 - [cloud-init](https://github.com/canonical/cloud-init/commit/63f72380a70d9f846cac3b2cbbc6ed13c735c277)
 - [Cockpit](https://github.com/cockpit-project/cockpit/commit/84507b9d3adb584280a6db53302d6fdea4b8b950)
