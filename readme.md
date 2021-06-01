@@ -23,7 +23,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Ardour](https://discourse.ardour.org/t/ardour-org-irc-chat-channel-has-moved/105996)
 - [Arduino](https://forum.arduino.cc/t/arduino-irc-channel-moved-to-libera-chat/866788)
 - [Armbian](https://forum.armbian.com/topic/18203-irc-channels-moved-to-liberachat/)
-- [Asahi Linux](https://twitter.com/AsahiLinux/status/1395226914315407362)
+- [Asahi Linux](https://twitter.com/AsahiLinux/status/1395226914315407362) (to OFTC)
 - [Asterisk](https://www.asterisk.org/irc-channels-moved-to-libera-chat/)
 - [AsteroidOS](https://twitter.com/AsteroidOS/status/1398645863988273158)
 - [ASUSWRT](https://twitter.com/RMerlinDev/status/1398703845161701377)
