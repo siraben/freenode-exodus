@@ -223,6 +223,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
 - [LinuxGameCast](https://twitter.com/VennStone/status/1397280409080238085)
 - [Linux Terminal Server Project](https://github.com/ltsp/irclogs/commit/258c2caa8f20371ca294249ffbcc6c5f89eda88b)
+- [Linux System Roles](https://github.com/linux-system-roles/linux-system-roles.github.io/commit/857b3c5a7e048914b6576d37c1f64ccc6e7b2cf7)
 - #lisp
 - [LiteX](https://github.com/enjoy-digital/litex/commit/5e40709cbcd263926b04b4fa0fd602a0c13872ed)
 - [Lobsters](https://lobste.rs/s/1z77ly/libera_chat#c_vwmpgx)
