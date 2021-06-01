@@ -80,6 +80,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Dolphin](https://dolphin-emu.org/docs/faq/#ive-got-idea-make-dolphin-better-how-should-i-tell)
 - [doof.net](https://twitter.com/doofnet/status/1396889463276511233)
 - [Dovecot](https://www.dovecot.org/support) (to OFTC)
+- [Dulwich](https://github.com/dulwich/dulwich/commit/78ac0fbed95917974b25fcef3129e4817520c046) (to OFTC)
 - [EasyRPG](https://twitter.com/EasyRPG/status/1397624147249860616)
 - [Edingburgh Hacklab](https://twitter.com/edinhacklab/status/1397483473707933697)
 - [eduVPN](https://github.com/eduvpn/documentation/commit/2158742e5d5c73df02a011dd5a62661926a41e5a)
