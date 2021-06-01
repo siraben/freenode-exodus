@@ -184,6 +184,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [HexChat](https://hexchat.github.io/news/hexchat-channel.html)
 - [hledger](https://groups.google.com/g/hledger/c/9NQ_1_ng1XM/m/OeRFIMbxBQAJ)
 - [Home Manager](https://github.com/nix-community/home-manager/commit/3591cd2b3bbb1b4c7033bc2b5dc3d142bc3f9074) (to OFTC)
+- [##homebrewcpu](https://twitter.com/sarahemm/status/1397564338865639424)
 - [Hplusroadmap](https://diyhpl.us/wiki/hplusroadmap/)
 - [HPy](https://hpyproject.org/blog/posts/2021/05/hpy-irc-moves-to-libera-chat/)
 - [Huggle 3](https://github.com/huggle/huggle3-qt-lx/commit/e31876b4f645a39d2b1636a98f3edadee0162746)
