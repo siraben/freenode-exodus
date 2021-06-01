@@ -48,6 +48,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Calamares](https://euroquis.nl//calamares/2021/05/26/calamares-communications.html)
 - [Calyxos](https://calyxos.org/news/2021/05/27/community-update/)
 - [#cat-v (to OFTC)](http://cat-v.org/about)
+- [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/commit/ba504651dd5a1169a2c297f44af82878c85781e0)
 - [CentOS](https://blog.centos.org/2021/05/centos-irc-channels-moving-to-irc-libera-chat/)
 - [cgit](https://lists.zx2c4.com/pipermail/cgit/2021-May/004637.html)
 - [CHICKEN Scheme](https://wiki.call-cc.org/man/5/Getting%20started#chicken-repositories-websites-and-community)
@@ -123,6 +124,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [GPUSPH](https://github.com/GPUSPH/gpusph/commit/08ffd94ddc4a076361f0e5f6e2bfde7874ba087f)
 - Grafana
 - [GrapheneOS](https://twitter.com/GrapheneOS/status/1395040938645508097)
+- [Grml (to OFTC)](http://blog.grml.org/archives/405-Grml-IRC-channel-moving-to-OFTC.html)
 - Guile
 - [Guix China](https://github.com/guixcn/guixcn.github.io/commit/8eced0c3583f74f4ba1f3d9746e00e284ad1780f)
 - [Guix](https://github.com/guix-mirror/guix/commit/c0087d33705f53cc3619a1a43a33602aaecc3a8b)
@@ -145,6 +147,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Indian Linux User's Group - Chennai](https://ilugc.in/moving-from-freenode-to-liberachat/)
 - [IndieWeb](https://github.com/indieweb/wiki/commit/1b208927dde6b7d12b242acdaa7a15be43eddbf9)
 - [infer](https://github.com/facebook/infer/commit/f624fc119726b69b30c4e71a79806b4843a97248)
+- [Inkscape](https://wiki.inkscape.org/wiki/index.php?title=Social_media&curid=25616&diff=120087&oldid=106376)
 - [inspectrum](https://github.com/miek/inspectrum/commit/054f686906969e87e5542196cbaa2fa03a1d4461)
 - [invidious (moved to Matrix)](https://github.com/iv-org/invidious/commit/9b6c5c08d82742d94a2615a91a0134dc6df79dc8)
 - [ioquake3](https://ioquake3.org/ioquake3/ioquake3-irc-moved-to-libera/)
@@ -258,6 +261,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - [Prometheus](https://github.com/prometheus/docs/commit/12b06dab609708dbb45c1974d322ed3d41b4f6d6)
 - [Pulp Project](https://twitter.com/pulpproj/status/1397532195594645509)
+- [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/Community/#ircandmatrix)
 - [pydle](https://github.com/Shizmob/pydle/commit/baa7070309906f6a58d4b29bad6f1efff90baf16)
 - [PyLink](https://github.com/jlu5/PyLink/commit/ba5f89d03cb0e674a1c1bd07aee3497d56d342d6)
 - [PyPy](https://www.pypy.org/posts/2021/05/pypy-irc-moves-to-libera-chat.html)
@@ -283,6 +287,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - Rsync
 - [RTL-SDR](https://www.rtl-sdr.com/freenode-rtlsdr-irc-channel-moving-to-libera/)
 - [Salix-OS](https://github.com/Salix-OS/www.salixos.org/commit/411c54e0db46ca85543b31894d943986da7c31d9)
+- [sbctl](https://github.com/Foxboron/sbctl/commit/bca692f1e19ee0f0a2f9adf6c12f21427022efc7)
 - [#scheme](https://srfi-email.schemers.org/srfi-discuss/msg/16740382/)
 - [ScummVM](https://twitter.com/ScummVM/status/1397664213124980737)
 - [Scuttlebut](https://github.com/ssbc/ssb-server/commit/2ba6d6dc465e9812cbe05a3d045b183853397850)
@@ -291,6 +296,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [serious-bg](https://github.com/Binaergewitter/serious-bg/commit/50469265a916c48ec23d46dc1557c250b0e1e45d)
 - [Sheffgeeks](https://github.com/sheffgeeks/sheffgeeks.github.io/commit/a19b7bdc6fd8a773588005ab80d33931243c6438)
 - [Slackware](http://www.slackware.com/~rworkman/slackware-irc/)
+- [SLASH'EM Extended](https://github.com/SLASHEM-Extended/SLASHEM-Extended/commit/a36ccd381c3bf7b2f6e679c23acbb7f469f48b7b)
 - [SmartOS](https://twitter.com/JoyentSmartOS/status/1398689698344706050)
 - [sngrep](https://github.com/irontec/sngrep/commit/5df40383182b4e3d350451addec0594f1447a7e1)
 - [Solanum](https://github.com/solanum-ircd/solanum.chat/pull/7)
@@ -331,6 +337,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Whim](https://github.com/jmacdotorg/whim/commit/ec6df95e814e64d62b677e0ee4948a3ead2fec46)
 - [Whipper](https://github.com/whipper-team/whipper/pull/541)
 - Wikimedia
+- [Wine](https://www.winehq.org/pipermail/wine-devel/2021-May/187836.html)
 - [WireGuard](https://lists.zx2c4.com/pipermail/wireguard/2021-May/006772.html)
 - [WSL Utilities](https://twitter.com/wslutilities/status/1396974355226128384)
 - [Xapian](https://github.com/xapian/xapian/commit/7c993a621a5ff99689ac9f66e6f36199b8f98a8e)
