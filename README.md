@@ -5,7 +5,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 **Note:** I can only accept additional projects and channels to the list accompanied with a citation, which can be (but is not limited to): an official announcement, wiki page, git commit, IRC log, social media post by project lead/official account, etc.
 
 - [2600Hz](https://twitter.com/2600hertz/status/1397666224121782279)
-- [Aaru Data Preservation Suite](https://github.com/aaru-dps/Aaru/commit/c80270a5db2ad0bf900aa4354983494493951fe1)
+- [Aaru Data Preservation Suite](https://twitter.com/aaru_dps/status/1395179602574782471)
 - [abcde](https://abcde.einval.com/wiki/)
 - [ADAM](https://github.com/bigdatagenomics/adam/commit/1f5c36c75959fd13fc5536db837432eca3c1e11b)
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
