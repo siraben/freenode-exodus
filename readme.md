@@ -75,6 +75,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [CoreRAD](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
 - [Cozy Cloud](https://twitter.com/cozycloud/status/1399266831244869635)
 - [Crosstool-NG](https://github.com/crosstool-ng/crosstool-ng.github.io/pull/34)
+- [ctjb](https://github.com/ctjb/ctjb.net/commit/d01b2006eb952930137d1bc2ca5add68b9348fb9)
 - [Curl](https://daniel.haxx.se/blog/2021/05/26/curl-7-77-0-200-ok/)
 - [D-Lang](https://www.mail-archive.com/digitalmars-d-announce@puremagic.com/msg46050.html)
 - [dav1d](https://github.com/videolan/dav1d/commit/41be890ddd8e58f938aa74a689e4a457da3a87b0)
