@@ -444,7 +444,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Yancy](https://github.com/preaction/Yancy/commit/9a70e3e2bedea5d21ea514e243920e0ca9b4017f)
 - [Zapp](https://github.com/preaction/Zapp/commit/b4923d4a0596f22ea7ddbfcacf857973e31b9bf7)
 - [Zed Attack Proxy](https://twitter.com/zaproxy/status/1397509029996417032)
-- Zig
+- [Zig](https://twitter.com/andy_kelley/status/1397388932367601665)
 - [ZNC](https://wiki.znc.in/index.php?title=FAQ&curid=116&diff=2806&oldid=2771)
 - [Zsh](https://www.zsh.org/mla/users/2021/msg00455.html)
 - [zynaddsubfx](https://github.com/zynaddsubfx/zyn-website/commit/e9074ab31e8d0681f017ac860fb80a781a971238)
