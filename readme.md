@@ -100,6 +100,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [ERC](https://github.com/ebrasca/emacs.d/commit/3e7388f25bbcc9be61d224b47cce6c37433acc02)
 - [ET: Legacy](https://github.com/etlegacy/etlegacy/issues/1655)
 - [exult](https://github.com/exult/exult/commit/e4ccd759be207939764528949dd877a5be826b02)
+- [EyeInTheSky IRC Bot](https://github.com/stwalkerster/eyeinthesky/commit/846cd238497027d7541df21944aac352ad7ffb90)
 - [Fantasya](https://github.com/fantasya-pbem/website/pull/74)
 - [Fedora Zhongwen User Group](https://github.com/FZUG/fzug.github.io/pull/67)
 - [Fedora](https://communityblog.fedoraproject.org/irc-announcement/)
