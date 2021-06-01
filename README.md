@@ -396,6 +396,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Seattle GNU/Linux Conference ](https://github.com/SeaGL/seagl.github.io/commit/ca65a364735e45f8ffd68373c0a855e9cd590c70)
 - [Selenium](https://www.selenium.dev/blog/2021/moving-to-libera-chat/)
 - [serious-bg](https://github.com/Binaergewitter/serious-bg/commit/50469265a916c48ec23d46dc1557c250b0e1e45d)
+- [Shadytel](https://twitter.com/shadytel/status/1397394351274164225)
 - [Sheffgeeks](https://github.com/sheffgeeks/sheffgeeks.github.io/commit/a19b7bdc6fd8a773588005ab80d33931243c6438)
 - [SickGear](https://github.com/SickGear/SickGear/commit/b7bb9dc61e52011c282cee1b6506af363457c8d8)
 - [Slackware](http://www.slackware.com/~rworkman/slackware-irc/)
