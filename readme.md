@@ -2,6 +2,8 @@
 
 This is a (necessarily incomplete) list of projects and channels that have decided to permanently move out of Freenode to https://libera.chat (unless stated otherwise). Please open an issue, PR or PM me on IRC (siraben) if there's additions or corrections, such as adding citation links.
 
+Note: I can only accept additional projects and channels to the list accompanied with a citation, which can be (but is not limited to): an official announcement, wiki page, git commit, IRC log, social media post by project lead/official account, etc.
+
 - [2600Hz](https://twitter.com/2600hertz/status/1397666224121782279)
 - [ADAM](https://github.com/bigdatagenomics/adam/commit/1f5c36c75959fd13fc5536db837432eca3c1e11b)
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
