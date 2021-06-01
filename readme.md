@@ -66,6 +66,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [cloud-init](https://github.com/canonical/cloud-init/commit/63f72380a70d9f846cac3b2cbbc6ed13c735c277)
 - [ClusterLabs](https://github.com/ClusterLabs/clusterlabs-www/pull/33)
 - [Cockpit](https://github.com/cockpit-project/cockpit/commit/84507b9d3adb584280a6db53302d6fdea4b8b950)
+- [Coffee House Coders](https://github.com/coffeehousecoders/royaloak.coffeehousecoders.com/commit/5b89adac777f7723f5da242ec1027c7ad1e14c8c)
 - [ConnectBot](https://github.com/connectbot/connectbot.github.io/commit/6756b0041bbfb9a3f29b1a472c57a83716880c93)
 - [Convos](https://convos.chat/blog/2021/5/20/moving-from-freenode-to-libera)
 - Coq
