@@ -5,6 +5,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 **Note:** I can only accept additional projects and channels to the list accompanied with a citation, which can be (but is not limited to): an official announcement, wiki page, git commit, IRC log, social media post by project lead/official account, etc.
 
 - [2600Hz](https://twitter.com/2600hertz/status/1397666224121782279)
+- [abcde](https://abcde.einval.com/wiki/)
 - [ADAM](https://github.com/bigdatagenomics/adam/commit/1f5c36c75959fd13fc5536db837432eca3c1e11b)
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
 - [Alpine Linux (to OFTC)](https://wiki.alpinelinux.org/w/index.php?title=Alpine_Linux:IRC&diff=19501&oldid=18273)
@@ -72,6 +73,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Distrap](https://github.com/distrap/website/commit/3da1568e752aaf296f1eee9a1ddd5e82ae468160)
 - [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
 - [Dokku](https://twitter.com/dokku/status/1397653350913564676)
+- [Dolphin](https://dolphin-emu.org/docs/faq/#ive-got-idea-make-dolphin-better-how-should-i-tell)
 - [doof.net](https://twitter.com/doofnet/status/1396889463276511233)
 - [Dovecot](https://www.dovecot.org/support) (to OFTC)
 - [EasyRPG](https://twitter.com/EasyRPG/status/1397624147249860616)
@@ -84,7 +86,6 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - Emacs
 - [Emacs User Group Berlin](https://github.com/emacs-berlin/emacs-berlin.org/commit/920b7d30ddd5f2a2283f85316d5c557cd696acaf)
 - [Embeddable Common-Lisp](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
-- #erc
 - [ET: Legacy](https://github.com/etlegacy/etlegacy/issues/1655)
 - [exult](https://github.com/exult/exult/commit/e4ccd759be207939764528949dd877a5be826b02)
 - [Fantasya](https://github.com/fantasya-pbem/website/pull/74)
@@ -189,6 +190,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [M36](https://github.com/agentm/project-m36/commit/ac193558ded79101ac65e08668236bfea9e91a35)
 - [MacPorts](https://www.macports.org/contact.php#IRC)
 - [Madeinfr](https://twitter.com/madeinfr/status/1397849981327925252)
+- [Maemo Leste](https://maemo-leste.github.io/)
 - [Maemo Leste](https://maemo-leste.github.io/maemo-leste-irc-channel-migration.html)
 - [mal](https://github.com/kanaka/mal/commit/27b761bd1ebc214a899f00159f62f67ab6c7c6cc)
 - [MAME](https://www.mamedev.org/?p=500)
@@ -223,6 +225,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Nicotine+](https://github.com/Nicotine-Plus/nicotine-plus/commit/0dc369989065f681400cce8676f9a0dfef3e4a0d)
 - NixOS - [official chat to Matrix](https://github.com/NixOS/rfcs/pull/94/) [IRC to Libera](https://github.com/nix-community/awesome-nix/commit/6216bf4817ea2c97840673683d8be6e780cd6902)
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
+- [OCaml](https://inbox.ocaml.org/caml-list/20210526140102.GA22143@notk.org/t/)
 - [OmniOS](https://twitter.com/OmniOSce/status/1396770950406934531)
 - [Open Source Club at The Ohio State University ](https://github.com/OSUOSC/website/commit/efaaf4e14b5b5611d51eadab7a85cf484b80d32e)
 - [OpenBSD](https://github.com/ligurio/awesome-openbsd/commit/a261ef37e6a9a2a039c55094e469749f9b32e250)
@@ -271,6 +274,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [re:Web](https://github.com/apparentorder/reweb/commit/9a1dd5abcb9cefffef05bf8ce3eca096a44ec27b)
 - Reprap
 - [restic](https://twitter.com/resticbackup/status/1399049594672136193)
+- [#revspace](https://twitter.com/revspace/status/1395050989514862593)
 - [Rizin](https://github.com/rizinorg/website/commit/24309365e91073e1e1c3c02acf1c01ec576b3995)
 - [Rockbox](https://www.rockbox.org/irc/)
 - [Rocky Linux](https://twitter.com/nazunalika/status/1395957548168089602)
@@ -304,7 +308,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [The Foreman Project](https://twitter.com/ForemanProject/status/1397528127094538246)
 - [The Lounge](https://twitter.com/TheLoungeChat/status/1395809924383330308)
 - [The Mana World](https://www.themanaworld.org/news#94-news-2021-05-28)
-- [The Powder Toy](https://powdertoy.co.uk/Wiki/index.php?title=Irc_setup&curid=68&diff=8087&oldid=8083)
+- [The Powder Toy](https://powdertoy.co.uk/Wiki/index.php?title=Irc_setup&diff=prev&oldid=8083)
 - [The Secret Chronicles of Dr. M.](https://secretchronicles.org/en/news/2021/05/26/liberachat/)
 - [The TenDRA Project](https://github.com/tendra/tendra/commit/fc85a510fc0bf5fa0ffa7c55289eab943b787b92)
 - [TKKRLAB](https://twitter.com/tkkrlab/status/1398000477766291457)
@@ -347,3 +351,4 @@ More difficult to find are projects that have decided to stay, please let me kno
 
 - [#forth (bridged to Libera)](https://gist.github.com/siraben/df534c378de7adc8e5dca05956f0ca95#gistcomment-3763303)
 - #freenode (duh)
+- [#techrights](http://techrights.org/irc-archives/irc-log-social-290521.html)
