@@ -47,7 +47,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [#cat-v (to OFTC)](http://cat-v.org/about)
 - [CentOS](https://blog.centos.org/2021/05/centos-irc-channels-moving-to-irc-libera-chat/)
 - [cgit](https://lists.zx2c4.com/pipermail/cgit/2021-May/004637.html)
-- Chicken
+- [CHICKEN Scheme](https://wiki.call-cc.org/man/5/Getting%20started#chicken-repositories-websites-and-community)
 - [chimper](https://github.com/pedrocr/chimper/commit/be65f779918bc82c0472f8027bdcc27bf01cc3ec)
 - [circe](https://github.com/jorgenschaefer/circe/commit/4778675e0c3bde1c028085b7d96693fe033d2c72)
 - [Clojure](https://clojure.org/community/resources)
