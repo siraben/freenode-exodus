@@ -184,6 +184,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [killer](https://github.com/Lvl4Sword/Killer/commit/d1ed629036d5c62a8169e83acbd396a9d2843f44)
 - [kpatch](https://github.com/dynup/kpatch/commit/87ca62d8de27dcec9429e879284e948e68dcd02d)
 - [Kvazaar](https://github.com/ultravideo/kvazaar/commit/28595ed1cf32f89f23fc7692bdceafb3e0e42ec4)
+- [Lab::Measurement](https://github.com/lab-measurement/Lab-Measurement/commit/8ba5ff69b4642b630b83d49cbde3e54c75154b9b)
 - [Launchpad](https://twitter.com/launchpadstatus/status/1398249939340304390)
 - Leiningen
 - [libcamera](https://github.com/libcamera-org/libcamera/commit/6b22a3657c615588ff489dbe16a0484530830823) (to OFTC)
