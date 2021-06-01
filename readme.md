@@ -266,6 +266,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Mutt](http://lists.mutt.org/pipermail/mutt-announce/Week-of-Mon-20210517/000037.html)
 - [#mysql](https://hashmysql.net/w/index.php?title=Main_Page&diff=3194&oldid=3168)
 - [naemon](https://github.com/naemon/naemon.github.io/commit/4b22fa94c7a123706c84ee5ec98a04168888c355)
+- [Narwhal](https://github.com/narwhalirc/narwhal/commits/master/README.md)
 - [Neomutt](https://github.com/neomutt/docbook/commit/d382fb45b915b20ef7becf39b4bb5106870566fa)
 - [NetBSD](https://blog.netbsd.org/tnf/entry/public_netbsd_irc_channels_moved)
 - [Netdisco](https://github.com/netdisco/netdisco-docker/commit/60b38c2405685efe2b99b40d2d0aa8d9fc6fd452)
