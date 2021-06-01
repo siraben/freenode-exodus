@@ -279,6 +279,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [pimutils](https://github.com/pimutils/meta/pull/11)
 - [Pioneer Space Sim](https://github.com/pioneerspacesim/pioneer-hugo/commit/d38ca4b762c02f1ca8c66df749c19a7f1f557b74)
 - [PiVPN](https://github.com/pivpn/pivpn/commit/5aa0de636f32fd674b77a2b3dd64d97b51680707)
+- [pkgconf](https://github.com/pkgconf/pkgconf/commit/1f319c2608040739285bedc39f9cfb3791839a57) (to OFTC)
 - [play.it](https://github.com/vv221/play.it-pages/commit/459ded5f5ec14ca4fae921c4942dc13bd15c7cee) (to OFTC)
 - [Pleroma](https://pleroma.social/announcements/2021/05/31/moving-away-from-freenode/)
 - [PLUG](https://github.com/phillylinux/phillylinux.github.io/commit/0ffb76e33922c67aeaa7cbd48e6156ad94a54838)
