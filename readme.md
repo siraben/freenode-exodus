@@ -400,6 +400,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Whim](https://github.com/jmacdotorg/whim/commit/ec6df95e814e64d62b677e0ee4948a3ead2fec46)
 - [Whipper](https://github.com/whipper-team/whipper/pull/541)
 - [Wikimedia](https://meta.wikimedia.org/wiki/IRC/Migrating_to_Libera_Chat)
+- [Window Maker](https://github.com/window-maker/window-maker.github.io/pull/15/files)
 - [Wine](https://www.winehq.org/pipermail/wine-devel/2021-May/187836.html)
 - [WireGuard](https://lists.zx2c4.com/pipermail/wireguard/2021-May/006772.html)
 - [WPE](https://github.com/Igalia/wpewebkit.org/commit/7d24eb842d84013412012b4e8cfade8fd6c3eeb1) (to OFTC)
