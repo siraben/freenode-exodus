@@ -292,6 +292,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
 - [Oasis Linux](https://github.com/oasislinux/oasis/commit/82d82e5331cd6eba6981d9d3837db8d5025eee13)
 - [OCaml](https://inbox.ocaml.org/caml-list/20210526140102.GA22143@notk.org/t/)
+- [oidentd](https://github.com/janikrabe/oidentd/commit/d93a4a0c533bb2ef5537a35c85085751c169a8f7)
 - [OmniOS](https://twitter.com/OmniOSce/status/1396770950406934531)
 - [Open Source Club at The Ohio State University ](https://github.com/OSUOSC/website/commit/efaaf4e14b5b5611d51eadab7a85cf484b80d32e)
 - [OpenBSD](https://github.com/ligurio/awesome-openbsd/commit/a261ef37e6a9a2a039c55094e469749f9b32e250)
