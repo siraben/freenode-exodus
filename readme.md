@@ -2,7 +2,7 @@
 
 This is an ongoing list of projects and channels that have decided to permanently move out of Freenode to https://libera.chat (unless stated otherwise). Please open an issue, PR or PM me on IRC (siraben) if there's additions or corrections, such as adding citation links.
 
-Note: I can only accept additional projects and channels to the list accompanied with a citation, which can be (but is not limited to): an official announcement, wiki page, git commit, IRC log, social media post by project lead/official account, etc.
+**Note:** I can only accept additional projects and channels to the list accompanied with a citation, which can be (but is not limited to): an official announcement, wiki page, git commit, IRC log, social media post by project lead/official account, etc.
 
 - [2600Hz](https://twitter.com/2600hertz/status/1397666224121782279)
 - [ADAM](https://github.com/bigdatagenomics/adam/commit/1f5c36c75959fd13fc5536db837432eca3c1e11b)
@@ -24,9 +24,9 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [Armbian](https://forum.armbian.com/topic/18203-irc-channels-moved-to-liberachat/)
 - [Asahi Linux](https://twitter.com/AsahiLinux/status/1395226914315407362)
 - [Asterisk](https://www.asterisk.org/irc-channels-moved-to-libera-chat/)
+- [AsteroidOS](https://twitter.com/AsteroidOS/status/1398645863988273158)
 - [ASUSWRT](https://twitter.com/RMerlinDev/status/1398703845161701377)
 - [Aurutils](https://github.com/AladW/aurutils/commit/659c464aa90862260915f966bc3394678ed84f42)
-- [AsteroidOS](https://twitter.com/AsteroidOS/status/1398645863988273158)
 - [Austin Hackers](https://twitter.com/AustinHackers/status/1395773170649608193)
 - [BastilleBSD](https://twitter.com/BastilleBSD/status/1395536864673599491)
 - [Battle for Wesnoth](https://forums.wesnoth.org/viewtopic.php?t=54341)
@@ -62,17 +62,17 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [Cozy Cloud](https://twitter.com/cozycloud/status/1399266831244869635)
 - [Crosstool-NG](https://github.com/crosstool-ng/crosstool-ng.github.io/pull/34)
 - [Curl](https://daniel.haxx.se/blog/2021/05/26/curl-7-77-0-200-ok/)
+- [D-Lang](https://www.mail-archive.com/digitalmars-d-announce@puremagic.com/msg46050.html)
 - [dav1d](https://github.com/videolan/dav1d/commit/41be890ddd8e58f938aa74a689e4a457da3a87b0)
-- [Demosplash](https://twitter.com/demosplash/status/1396572084021694464)
 - [DC801](https://twitter.com/dc801/status/1397391356553621510)
 - Debian
+- [Demosplash](https://twitter.com/demosplash/status/1396572084021694464)
 - Devuan
 - [Directord](https://twitter.com/peznauts/status/1396330864842321920)
 - [Distrap](https://github.com/distrap/website/commit/3da1568e752aaf296f1eee9a1ddd5e82ae468160)
 - [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
 - [Dokku](https://twitter.com/dokku/status/1397653350913564676)
 - [doof.net](https://twitter.com/doofnet/status/1396889463276511233)
-- [D-Lang](https://www.mail-archive.com/digitalmars-d-announce@puremagic.com/msg46050.html)
 - [Dovecot](https://www.dovecot.org/support) (to OFTC)
 - [EasyRPG](https://twitter.com/EasyRPG/status/1397624147249860616)
 - [Edingburgh Hacklab](https://twitter.com/edinhacklab/status/1397483473707933697)
@@ -88,8 +88,8 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [ET: Legacy](https://github.com/etlegacy/etlegacy/issues/1655)
 - [exult](https://github.com/exult/exult/commit/e4ccd759be207939764528949dd877a5be826b02)
 - [Fantasya](https://github.com/fantasya-pbem/website/pull/74)
-- [Fedora](https://communityblog.fedoraproject.org/irc-announcement/)
 - [Fedora Zhongwen User Group](https://github.com/FZUG/fzug.github.io/pull/67)
+- [Fedora](https://communityblog.fedoraproject.org/irc-announcement/)
 - [#feminism](https://github.com/feminism-chat/feminism-chat.github.io/commit/b637b0de65a8518d16e7c1a34bd19005b64d953f)
 - Fennel
 - [Ffmpeg](https://git.ffmpeg.org/gitweb/ffmpeg-web.git/commit/8ccd75e40f7366d17a2bc6787cc4e86c79a242ab)
@@ -97,15 +97,15 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [Fink Project](https://github.com/fink/website/commit/3f9dfae3dca338b8ccd9454f9ac428ae136a8e1f)
 - [FOSDEM](https://fosdem.org/2021/news/2021-05-26-libera/)
 - [FOSSHOST](https://fosshost.org/news/libera-chat)
+- [Free Pascal](https://twitter.com/freepascaldev/status/1397492296866832384)
 - [FreeBSD](https://wiki.freebsd.org/IRC/Official-FreeBSD-IRC-channels-now-on-Libera-Chat)
 - [FreedroidRPG](https://www.freedroid.org/2021/05/20/moving-to-libera-chat/)
 - [FreeHL](https://github.com/eukara/freehl/commit/8dd9fad77164554adc2023eab6b8a21d15429f00)
 - [FreeIPA](https://github.com/freeipa/freeipa/commit/338f0bcecf3d5a36068d32ee8877aeba72096d52)
-- [Free Pascal](https://twitter.com/freepascaldev/status/1397492296866832384)
 - [FrOSCon](https://twitter.com/froscon/status/1397622678387843083)
 - [FSFE](https://fsfe.org/news/2021/news-20210525-01.de.html)
-- [FVWM3](https://github.com/fvwmorg/fvwmorg.github.io/commit/eed5315a5a1aa9653e17aa19ac591a050c944fa1)
 - [FVWM-crystal](https://github.com/fvwm-crystal/fvwm-crystal/commit/9e69daf5d58d903d0ae3d3c3e6b8e9fd5490247c)
+- [FVWM3](https://github.com/fvwmorg/fvwmorg.github.io/commit/eed5315a5a1aa9653e17aa19ac591a050c944fa1)
 - [Gamingonlinux](https://www.gamingonlinux.com/2021/05/gamingonlinux-moves-on-from-freenode-to-liberachat-for-irc/)
 - GDB
 - [GDC](https://github.com/D-Programming-GDC/gdcproject/commit/22a4d64cd1419f79893b5eabe9df1d2f0760d6e9)
@@ -113,11 +113,11 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [GHC](https://twitter.com/bgamari/status/1395065974496317442)
 - [Git](https://github.com/git/git-scm.com/commit/b1f3d65452a62a49b030587303ea3a0944561ed7)
 - [GNU Radio](https://twitter.com/gnuradio/status/1397474348659875840)
+- [go-imap](https://github.com/emersion/go-imap/commit/0e5bf8b8c24d2bb1481e94a44c18d3fa2dfbb630)
+- [go-smtp](https://github.com/emersion/go-smtp/commit/c11900fc3ed1bc6c9d68cd816592b26e20901b7e)
 - [Gobolinux](https://gobolinux.discourse.group/t/irc-channel-moves-to-libera/61)
 - [Golang](https://twitter.com/dave_universetf/status/1398130757931966464)
 - [Google Benchmark](https://twitter.com/runtime/status/1396044095446036482)
-- [go-imap](https://github.com/emersion/go-imap/commit/0e5bf8b8c24d2bb1481e94a44c18d3fa2dfbb630)
-- [go-smtp](https://github.com/emersion/go-smtp/commit/c11900fc3ed1bc6c9d68cd816592b26e20901b7e)
 - [gPodder](https://github.com/gpodder/gpodder.github.io/commit/e0b93a2c84a92664ed89be9436eaff2688b87fbb)
 - [GPUSPH](https://github.com/GPUSPH/gpusph/commit/08ffd94ddc4a076361f0e5f6e2bfde7874ba087f)
 - Grafana
@@ -186,6 +186,7 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [Lua Fr](https://github.com/lua-fr/lua-fr.github.io/commit/7a277c7b7096892725a6b3e84c4b63dc93d8ac88)
 - [LuXeria](https://github.com/luxeria/luxeria.github.io/commit/995df3d5a8a31e7e56cb3ec41bb7ff54bacd7e7e)
 - [LXC](https://discuss.linuxcontainers.org/t/lxc-now-using-libera-as-its-irc-network-live-chats/11178)
+- [M36](https://github.com/agentm/project-m36/commit/ac193558ded79101ac65e08668236bfea9e91a35)
 - [MacPorts](https://www.macports.org/contact.php#IRC)
 - [Madeinfr](https://twitter.com/madeinfr/status/1397849981327925252)
 - [Maemo Leste](https://maemo-leste.github.io/maemo-leste-irc-channel-migration.html)
@@ -196,6 +197,7 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [McCLIM](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
 - [MetaBrainz](https://blog.metabrainz.org/)
 - [mgmtconfig](https://github.com/purpleidea/mgmt/commit/7d7e225823fd2920c425c9c9518f739a5989b541)
+- [Minecraft devs](https://github.com/dmulloy2/ProtocolLib/commit/72c1f3e26cedf4b9e412bd1d3c38cc33ed1c8f07)
 - [Minecraft Overviewer](https://overviewer.org/blog/2021/5/22/the-irc-channel-has-moved/)
 - Minetest
 - [Miraheze](https://circleyverse.miraheze.org/wiki/Main_Page)
@@ -222,13 +224,15 @@ Note: I can only accept additional projects and channels to the list accompanied
 - NixOS - [official chat to Matrix](https://github.com/NixOS/rfcs/pull/94/) [IRC to Libera](https://github.com/nix-community/awesome-nix/commit/6216bf4817ea2c97840673683d8be6e780cd6902)
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
 - [OmniOS](https://twitter.com/OmniOSce/status/1396770950406934531)
+- [Open Source Club at The Ohio State University ](https://github.com/OSUOSC/website/commit/efaaf4e14b5b5611d51eadab7a85cf484b80d32e)
+- [OpenBSD](https://github.com/ligurio/awesome-openbsd/commit/a261ef37e6a9a2a039c55094e469749f9b32e250)
 - [OpenIKED](https://github.com/openiked/openiked-portable/commit/28ecc4031b73939aa0ce69ae28f917100c5d8c1d)
 - [openITCOCKPIT](https://openitcockpit.io/2021/2021/05/31/irc-announcement-migrating-to-libera-chat/)
 - [OpenLab Augsburg](https://github.com/openlab-aux/wikidata/commit/26d43ae546436d4f5653ac35a63bf07000f0b5d3)
 - [OpenLDAP](https://twitter.com/openldaporg/status/1397563699255255041)
 - [OpenMPTL](https://github.com/digint/openmptl/commit/017807807e1fed41040af200afa4046740135939)
+- [OpenSCAD](https://github.com/openscad/openscad.github.com/commit/36ad15af10cf6c60e16a9242bc6860ffc133ae5a)
 - [openscad](https://github.com/openscad/openscad.github.com/commit/ac3a7b9adfcdf845e360807802065d4bace2ff77)
-- [Open Source Club at The Ohio State University ](https://github.com/OSUOSC/website/commit/efaaf4e14b5b5611d51eadab7a85cf484b80d32e)
 - [openvswitch](https://github.com/openvswitch/openvswitch.github.io/commit/34edc573c7e6282a8c74a8086b9636a67d89fc32)
 - [OpenWRT (to OFTC)](https://openwrt.org/irc)
 - [OpenZFS](https://github.com/openzfs/openzfs-docs/pull/167)
@@ -264,9 +268,9 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [Raku](https://www.tyil.nl/post/2021/05/22/raku-on-libera-chat/)
 - [ranger](https://ranger.github.io/news/2021-05-19-libera)
 - [##rbxdev](https://twitter.com/SignorOmbra/status/1399086366475051010)
+- [re:Web](https://github.com/apparentorder/reweb/commit/9a1dd5abcb9cefffef05bf8ce3eca096a44ec27b)
 - Reprap
 - [restic](https://twitter.com/resticbackup/status/1399049594672136193)
-- [re:Web](https://github.com/apparentorder/reweb/commit/9a1dd5abcb9cefffef05bf8ce3eca096a44ec27b)
 - [Rizin](https://github.com/rizinorg/website/commit/24309365e91073e1e1c3c02acf1c01ec576b3995)
 - [Rockbox](https://www.rockbox.org/irc/)
 - [Rocky Linux](https://twitter.com/nazunalika/status/1395957548168089602)
@@ -293,8 +297,8 @@ Note: I can only accept additional projects and channels to the list accompanied
 - Sway
 - [SWI-Prolog](https://twitter.com/SwiProlog_/status/1396539991963148291)
 - Sysadmin
-- Systemd
 - [System Security Services Daemon](https://github.com/SSSD/sssd.io/commit/f25e86624b99817c5106d47ff6117b3c09b7d70d)
+- Systemd
 - [Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs/pull/1068)
 - [Team Fortress Wiki](https://wiki.teamfortress.com/w/index.php?title=Team_Fortress_Wiki:IRC&diff=2980701&oldid=2970773)
 - [The Foreman Project](https://twitter.com/ForemanProject/status/1397528127094538246)
