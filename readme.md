@@ -45,7 +45,7 @@ This is a (necessarily incomplete) list of projects and channels that have decid
 - [Calamares](https://euroquis.nl//calamares/2021/05/26/calamares-communications.html)
 - [Calyxos](https://calyxos.org/news/2021/05/27/community-update/)
 - [#cat-v (to OFTC)](http://cat-v.org/about)
-- CentOS
+- [CentOS](https://blog.centos.org/2021/05/centos-irc-channels-moving-to-irc-libera-chat/)
 - [cgit](https://lists.zx2c4.com/pipermail/cgit/2021-May/004637.html)
 - Chicken
 - [chimper](https://github.com/pedrocr/chimper/commit/be65f779918bc82c0472f8027bdcc27bf01cc3ec)
