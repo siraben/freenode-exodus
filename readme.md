@@ -251,6 +251,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [mal](https://github.com/kanaka/mal/commit/27b761bd1ebc214a899f00159f62f67ab6c7c6cc)
 - [MAME](https://www.mamedev.org/?p=500)
 - [Marathon Speedrun Developers](https://github.com/marathon-speedrun-developers/devel/commit/aec5c4e958cfea8139440a59442ffecd23ca2490)
+- [MariaDB](https://mariadb.com/kb/en/meta/irc-chat-servers-and-zulip-instance/)
 - [Mate SlackBuilds](https://github.com/mateslackbuilds/mateslackbuilds.github.io/commit/ed69853eaed2af9637c562c0fe2775fcc291ca82)
 - [Matroska](https://github.com/Matroska-Org/infrastructure/commit/c2486933198ede1aba71e0c805404909566ff2b7)
 - [mblaze](https://github.com/leahneukirchen/mblaze/commit/6684f74f0719be15fad22df73723380b91c3b71e)
