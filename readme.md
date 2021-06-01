@@ -243,6 +243,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Mesa](https://lists.freedesktop.org/archives/mesa-dev/2021-May/225271.html) (to OFTC)
 - [Meson (to OFTC)](https://mesonbuild.com/index.html#community)
 - [MetaBrainz](https://blog.metabrainz.org/)
+- [Mezzano](https://github.com/froggey/Mezzano/commit/1806ce1ca65e362b588864aa10f2da338bb7e2f6)
 - [mgmtconfig](https://github.com/purpleidea/mgmt/commit/7d7e225823fd2920c425c9c9518f739a5989b541)
 - [Minecraft devs](https://github.com/dmulloy2/ProtocolLib/commit/72c1f3e26cedf4b9e412bd1d3c38cc33ed1c8f07)
 - [Minecraft Overviewer](https://overviewer.org/blog/2021/5/22/the-irc-channel-has-moved/)
