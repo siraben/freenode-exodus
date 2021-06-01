@@ -103,6 +103,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#feminism](https://github.com/feminism-chat/feminism-chat.github.io/commit/b637b0de65a8518d16e7c1a34bd19005b64d953f)
 - Fennel
 - [Ffmpeg](https://git.ffmpeg.org/gitweb/ffmpeg-web.git/commit/8ccd75e40f7366d17a2bc6787cc4e86c79a242ab)
+- [Freifunk Vogtland](https://github.com/FreifunkVogtland/ffv-api-generator/commit/a82ba2e2ae2962984453edfeaab0bbd4635a1043) (to hackint)
 - [FileWiki](https://github.com/digint/filewiki/commit/36606dfc5a909878eeb2d54cdec1e4e5c227c9af)
 - [Fink Project](https://github.com/fink/website/commit/3f9dfae3dca338b8ccd9454f9ac428ae136a8e1f)
 - [FOSDEM](https://fosdem.org/2021/news/2021-05-26-libera/)
