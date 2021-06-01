@@ -271,6 +271,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Miraheze](https://circleyverse.miraheze.org/wiki/Main_Page)
 - [MoinMoinChat](https://twitter.com/ThomasJWaldmann/status/1398608773594423301)
 - [Mojolicious](https://twitter.com/mojolicious_org/status/1396925921249083399)
+- [Monasca](https://github.com/monasca/monasca.github.io/commit/b0a4a677a81c875103edf27374f0479186924caf) (to OFTC)
 - [Monero](https://github.com/monero-project/meta/issues/575)
 - [MorphOS](https://www.amiga-news.de/en/news/AN-2021-05-00064-EN.html)
 - [Mousepaw Media](https://twitter.com/mousepawmedia/status/1397727750069227524)
