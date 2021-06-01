@@ -75,6 +75,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - Debian
 - [Demosplash](https://twitter.com/demosplash/status/1396572084021694464)
 - [Directord](https://twitter.com/peznauts/status/1396330864842321920)
+- [Delta Chat](https://github.com/deltachat/deltachat-pages/commit/e5530f17db04ef18368fa1b77403580ed64c5167)
 - [#developerslv](https://github.com/daGrevis/developerslv/pull/2/files)
 - [Devuan](https://lists.dyne.org/lurker/message/20210521.130524.7ce9e65d.en.html)
 - [DFeed](https://github.com/CyberShadow/DFeed/commit/33c3bedfc8a45141884a0242df344a260b1bb169)
