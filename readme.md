@@ -245,6 +245,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [naemon](https://github.com/naemon/naemon.github.io/commit/4b22fa94c7a123706c84ee5ec98a04168888c355)
 - [Neomutt](https://github.com/neomutt/docbook/commit/d382fb45b915b20ef7becf39b4bb5106870566fa)
 - [NetBSD](https://blog.netbsd.org/tnf/entry/public_netbsd_irc_channels_moved)
+- [Netdisco](https://github.com/netdisco/netdisco-docker/commit/60b38c2405685efe2b99b40d2d0aa8d9fc6fd452)
 - [Nethack](https://nethackwiki.com/mediawiki/index.php?title=Freenode&action=history)
 - [NetworkManager](https://github.com/NetworkManager/NetworkManager/commit/95085acec3a2d5887fc4411408e986c9b34339e6)
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe/commit/26c535db84246b16a86f31a8c22ac47df68da7df)
