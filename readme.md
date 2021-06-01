@@ -267,6 +267,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [openvswitch](https://github.com/openvswitch/openvswitch.github.io/commit/34edc573c7e6282a8c74a8086b9636a67d89fc32)
 - [OpenWRT (to OFTC)](https://openwrt.org/irc)
 - [OpenZFS](https://github.com/openzfs/openzfs-docs/pull/167)
+- [OpenMW](https://github.com/OpenMW/openmw/commit/b2791fd487d016754123bc6ce865c85ae2423f33)
 - Org mode
 - [OSUOSL](https://github.com/osuosl/osuosl-pelican/pull/365)
 - Packetframe
