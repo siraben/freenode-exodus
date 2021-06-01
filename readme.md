@@ -219,6 +219,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Maemo Leste](https://maemo-leste.github.io/maemo-leste-irc-channel-migration.html)
 - [mal](https://github.com/kanaka/mal/commit/27b761bd1ebc214a899f00159f62f67ab6c7c6cc)
 - [MAME](https://www.mamedev.org/?p=500)
+- [Marathon Speedrun Developers](https://github.com/marathon-speedrun-developers/devel/commit/aec5c4e958cfea8139440a59442ffecd23ca2490)
 - [Matroska](https://github.com/Matroska-Org/infrastructure/commit/c2486933198ede1aba71e0c805404909566ff2b7)
 - [mblaze](https://github.com/leahneukirchen/mblaze/commit/6684f74f0719be15fad22df73723380b91c3b71e)
 - [McCLIM](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
