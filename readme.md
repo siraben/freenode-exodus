@@ -209,6 +209,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [killer](https://github.com/Lvl4Sword/Killer/commit/d1ed629036d5c62a8169e83acbd396a9d2843f44)
 - [kpatch](https://github.com/dynup/kpatch/commit/87ca62d8de27dcec9429e879284e948e68dcd02d)
 - [Kvazaar](https://github.com/ultravideo/kvazaar/commit/28595ed1cf32f89f23fc7692bdceafb3e0e42ec4)
+- [KVIrc](https://github.com/kvirc/kvirc-www/commit/1cdfbacc5d2f06f9120478cf7440be729b4c9d66)
 - [Lab::Measurement](https://github.com/lab-measurement/Lab-Measurement/commit/8ba5ff69b4642b630b83d49cbde3e54c75154b9b)
 - [Launchpad](https://twitter.com/launchpadstatus/status/1398249939340304390)
 - Leiningen
