@@ -368,6 +368,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Xapian](https://github.com/xapian/xapian/commit/7c993a621a5ff99689ac9f66e6f36199b8f98a8e)
 - [XCP-ng](https://github.com/xcp-ng/xcp-ng-org/commit/ed5c47521c84c5287a969ddc167d2d8a2bc6ff67) (to OFTC)
 - [Xen](https://xenproject.org/help/irc/) (to OFTC)
+- [XigmaNAS](https://twitter.com/XigmaNAS/status/1399497020398788611)
 - [Xmonad](https://twitter.com/xmonad/status/1397509701043097607)
 - [xNetHack](https://github.com/copperwater/xNetHack/commit/d7ddc8df4c3a07b4c0975c2c3f21630e681ea5a0)
 - [Xubuntu](https://xubuntu-devel.narkive.com/ptEHzj6U/irc-move-to-libera-chat)
