@@ -459,6 +459,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Vouch](https://github.com/vouch/vouch-proxy/commit/1a3c67a7f1cfdd5fe3739fbcb6d6f78b3bf64002)
 - [WA7VC](https://github.com/wa7vc/wa7vc.org/commit/57ee00dd4143d02ac002009e22164db86d76943f)
 - [wayvnc](https://github.com/any1/wayvnc/commit/3b6a07a3b6fe1e6ce3d5505fed09263bb6557019)
+- [Webarchitects Co-op](https://twitter.com/webarchcoop/status/1395071291066142724)
 - [Weechat](https://twitter.com/WeeChatClient/status/1396932241951973383)
 - [Weston](https://github.com/wayland-project/weston/commit/eaa5ecf8b28b72e890aed89e1797213fb31efd10) (to OFTC)
 - [Whim](https://github.com/jmacdotorg/whim/commit/ec6df95e814e64d62b677e0ee4948a3ead2fec46)
