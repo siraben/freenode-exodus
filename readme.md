@@ -222,6 +222,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Lua Fr](https://github.com/lua-fr/lua-fr.github.io/commit/7a277c7b7096892725a6b3e84c4b63dc93d8ac88)
 - [Lutris](https://github.com/lutris/website/commit/dc9adc0786d0e2050ed0ac964ac931060d0d4f2a)
 - [LuXeria](https://github.com/luxeria/luxeria.github.io/commit/995df3d5a8a31e7e56cb3ec41bb7ff54bacd7e7e)
+- [Lwan](https://github.com/lpereira/lwan/commit/d52c07bc0ad26c9034dbd4f04828720e571ef6cd)
 - [LXC](https://discuss.linuxcontainers.org/t/lxc-now-using-libera-as-its-irc-network-live-chats/11178)
 - [lykos](https://github.com/lykoss/lykos/commit/3d7aab45066a1f12eb028dfcc80074cbee80b881)
 - [M36](https://github.com/agentm/project-m36/commit/ac193558ded79101ac65e08668236bfea9e91a35)
