@@ -313,6 +313,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Rocky Linux](https://twitter.com/nazunalika/status/1395957548168089602)
 - Rocm (to oftc)
 - [rpi-img-builder](https://github.com/pyavitz/rpi-img-builder/commit/3919becda8663d82476ae6f55b1ccf6c41ba9a40)
+- [rspamd](https://github.com/rspamd/rspamd.com/pull/505/files) (to OFTC)
 - Rsync
 - [RTL-SDR](https://www.rtl-sdr.com/freenode-rtlsdr-irc-channel-moving-to-libera/)
 - [r/sysadmin](https://www.reddit.com/r/sysadmin/comments/nlw6iz/on_freenode_libera_and_the_rsysadmin_irc_channel/)
