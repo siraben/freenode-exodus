@@ -415,6 +415,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Tuner](https://github.com/louis77/tuner/commit/ca1b93630229f8710551665e78d2d88f3f4adcab)
 - [TVL](https://cl.tvl.fyi/c/depot/+/3134) (to hackint)
 - [Tübix](https://github.com/tuebix/tuebixorg/pull/16)
+- [TurrisTech](https://mobile.twitter.com/turris_cz/status/1397474712914104323) (to OFTC)
 - [Ubuntu Budgie](https://github.com/UbuntuBudgie/budgie-welcome/commit/ab8cd3b8981e595173047e3feda70c4366bcc75b)
 - [Ubuntu](https://fridge.ubuntu.com/2021/05/26/announcing-ubuntus-move-to-libera-chat/)
 - [Unknown Horizons](https://twitter.com/uhorizons/status/1397152583475679234)
