@@ -253,6 +253,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Nicotine+](https://github.com/Nicotine-Plus/nicotine-plus/commit/0dc369989065f681400cce8676f9a0dfef3e4a0d)
 - NixOS - [official chat to Matrix](https://github.com/NixOS/rfcs/pull/94/) [IRC to Libera](https://github.com/nix-community/awesome-nix/commit/6216bf4817ea2c97840673683d8be6e780cd6902)
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
+- [Oasis Linux](https://github.com/oasislinux/oasis/commit/82d82e5331cd6eba6981d9d3837db8d5025eee13)
 - [OCaml](https://inbox.ocaml.org/caml-list/20210526140102.GA22143@notk.org/t/)
 - [OmniOS](https://twitter.com/OmniOSce/status/1396770950406934531)
 - [Open Source Club at The Ohio State University ](https://github.com/OSUOSC/website/commit/efaaf4e14b5b5611d51eadab7a85cf484b80d32e)
