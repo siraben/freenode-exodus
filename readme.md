@@ -231,6 +231,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Lobsters](https://lobste.rs/s/1z77ly/libera_chat#c_vwmpgx)
 - [Lokke: Clojure for Guile](https://github.com/lokke-org/lokke/commit/001c5f30fd192356643ddd01ca904d8a37cd1525)
 - [London Hackspace](https://github.com/londonhackspace/hackspace-foundation-sites/commit/0a90a58372abb20ebdeb0525786fd0ecd4cfa500)
+- [lorri](https://github.com/nix-community/lorri/commit/dd45c1f0ebea90102a0fe9b5fcc701302e71f1f6)
 - [Lua Fr](https://github.com/lua-fr/lua-fr.github.io/commit/7a277c7b7096892725a6b3e84c4b63dc93d8ac88)
 - [Lutris](https://github.com/lutris/website/commit/dc9adc0786d0e2050ed0ac964ac931060d0d4f2a)
 - [LuXeria](https://github.com/luxeria/luxeria.github.io/commit/995df3d5a8a31e7e56cb3ec41bb7ff54bacd7e7e)
