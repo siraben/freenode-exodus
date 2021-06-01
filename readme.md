@@ -399,6 +399,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Toot](https://github.com/ihabunek/toot/commit/8f0bf27e5ebb06a9bad972b815b09f0939026f1c)
 - [Townforge](https://twitter.com/townforge/status/1397595704252588044)
 - [Toybox](https://github.com/landley/toybox/commit/6ce11972ecdf798872b0236b4921cb3ff35f7d29)
+- [TroLUG](https://github.com/TroLUG/trolug-nikola/commit/e843ecbd4f8ca773858d7659c029190f7d05ca28)
 - [Tuner](https://github.com/louis77/tuner/commit/ca1b93630229f8710551665e78d2d88f3f4adcab)
 - [Tübix](https://github.com/tuebix/tuebixorg/pull/16)
 - [Ubuntu Budgie](https://github.com/UbuntuBudgie/budgie-welcome/commit/ab8cd3b8981e595173047e3feda70c4366bcc75b)
