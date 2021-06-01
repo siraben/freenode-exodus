@@ -180,7 +180,7 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [LinuxGameCast](https://twitter.com/VennStone/status/1397280409080238085)
 - #lisp
 - [LiteX](https://github.com/enjoy-digital/litex/commit/5e40709cbcd263926b04b4fa0fd602a0c13872ed)
-- Lobsters
+- [Lobsters](https://lobste.rs/s/1z77ly/libera_chat#c_vwmpgx)
 - [Lokke: Clojure for Guile](https://github.com/lokke-org/lokke/commit/001c5f30fd192356643ddd01ca904d8a37cd1525)
 - [London Hackspace](https://github.com/londonhackspace/hackspace-foundation-sites/commit/0a90a58372abb20ebdeb0525786fd0ecd4cfa500)
 - [Lua Fr](https://github.com/lua-fr/lua-fr.github.io/commit/7a277c7b7096892725a6b3e84c4b63dc93d8ac88)
