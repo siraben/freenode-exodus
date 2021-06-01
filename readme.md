@@ -155,6 +155,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [HPy](https://hpyproject.org/blog/posts/2021/05/hpy-irc-moves-to-libera-chat/)
 - [Huggle 3](https://github.com/huggle/huggle3-qt-lx/commit/e31876b4f645a39d2b1636a98f3edadee0162746)
 - [HydraBus](https://twitter.com/hydrabus/status/1397654991087849482)
+- [i3](https://github.com/i3/i3.github.io/commit/46d93a31fb5cfe889f6446dceba028f81bf334b7) (to OFTC)
 - [Illumos](https://github.com/illumos/docs/commit/702f0c666da3cd720c7dec5bccfff7129fb53262)
 - [Indian Linux User's Group - Chennai](https://ilugc.in/moving-from-freenode-to-liberachat/)
 - [IndieWeb](https://github.com/indieweb/wiki/commit/1b208927dde6b7d12b242acdaa7a15be43eddbf9)
