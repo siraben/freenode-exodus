@@ -155,7 +155,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - Grafana
 - [GrapheneOS](https://twitter.com/GrapheneOS/status/1395040938645508097)
 - [Grml](https://blog.grml.org/archives/405-Grml-IRC-channel-moving-to-OFTC.html) (to OFTC)
-- Guile
+- [Guile](https://www.gnu.org/software/guile/learn/)
 - [Guix China](https://github.com/guixcn/guixcn.github.io/commit/8eced0c3583f74f4ba1f3d9746e00e284ad1780f)
 - [Guix](https://github.com/guix-mirror/guix/commit/c0087d33705f53cc3619a1a43a33602aaecc3a8b)
 - [hackeriet.no](https://github.com/hackeriet/hackeriet.no/pull/31)
