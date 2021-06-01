@@ -314,7 +314,7 @@ Note: I can only accept additional projects and channels to the list accompanied
 - [VICE](https://github.com/VICE-Team/svn-mirror/commit/cdde9576b76d9b0f332af4eab85d48d43896c305)
 - [Vim](https://old.reddit.com/r/vim/comments/nlwwg4/vim_has_a_new_irc_home/)
 - [Visidata](https://twitter.com/saulfp/status/1397390668440379392)
-- [Voidlinux](https://voidlinux.org/news/2021/05/libera.html)
+- [Void Linux](https://voidlinux.org/news/2021/05/libera.html)
 - [WA7VC](https://github.com/wa7vc/wa7vc.org/commit/57ee00dd4143d02ac002009e22164db86d76943f)
 - [wayvnc](https://github.com/any1/wayvnc/commit/3b6a07a3b6fe1e6ce3d5505fed09263bb6557019)
 - [Weechat](https://twitter.com/WeeChatClient/status/1396932241951973383)
