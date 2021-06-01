@@ -409,7 +409,8 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Zed Attack Proxy](https://twitter.com/zaproxy/status/1397509029996417032)
 - Zig
 - [ZNC](https://wiki.znc.in/index.php?title=FAQ&curid=116&diff=2806&oldid=2771)
-- [Zsh](https://zsh.sourceforge.io/News/)
+- [Zsh](https://www.zsh.org/mla/users/2021/msg00455.html)
+- [zynaddsubfx](https://github.com/zynaddsubfx/zyn-website/commit/e9074ab31e8d0681f017ac860fb80a781a971238)
 
 ## Projects and channels that have decided to stay on Freenode
 
