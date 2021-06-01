@@ -279,6 +279,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [PLUG](https://github.com/phillylinux/phillylinux.github.io/commit/0ffb76e33922c67aeaa7cbd48e6156ad94a54838)
 - [Podman](https://github.com/containers/podman/pull/10499)
 - [Porteus](https://forum.porteus.org/viewtopic.php?f=48&p=82428&sid=fd768d3cbbacf4fc4b1be36456d31328)
+- [postmarketOS](https://wiki.postmarketos.org/wiki/Matrix_and_IRC) (to OFTC)
 - [PostgreSQL](https://www.postgresql.org/about/news/migration-of-postgresql-irc-channels-2216/)
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - [Prometheus](https://github.com/prometheus/docs/commit/12b06dab609708dbb45c1974d322ed3d41b4f6d6)
