@@ -89,6 +89,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [dav1d](https://github.com/videolan/dav1d/commit/41be890ddd8e58f938aa74a689e4a457da3a87b0)
 - [DC801](https://twitter.com/dc801/status/1397391356553621510)
 - [Demosplash](https://twitter.com/demosplash/status/1396572084021694464)
+- [#design](https://twitter.com/aeriflame/status/1395320753831260160)
 - [Diakonos](https://github.com/Pistos/diakonos/commit/3ea11330e76c81b76d85a7dc4755a0cf1cc285dc)
 - [Directord](https://twitter.com/peznauts/status/1396330864842321920)
 - [Delta Chat](https://github.com/deltachat/deltachat-pages/commit/e5530f17db04ef18368fa1b77403580ed64c5167)
