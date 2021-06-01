@@ -329,6 +329,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [s6](https://github.com/skarnet/s6/commit/4101e5666234497c18cafd4de5959e44c5950b8b) (to OFTC)
 - [Salix-OS](https://github.com/Salix-OS/www.salixos.org/commit/411c54e0db46ca85543b31894d943986da7c31d9)
 - [sbctl](https://github.com/Foxboron/sbctl/commit/bca692f1e19ee0f0a2f9adf6c12f21427022efc7)
+- [Scalaz](https://github.com/scalaz/scalaz/commit/9813f4add8c52a485f805cbc4d57ca7df06e4099)
 - [#scheme](https://srfi-email.schemers.org/srfi-discuss/msg/16740382/)
 - [ScummVM](https://twitter.com/ScummVM/status/1397664213124980737)
 - [Scuttlebut](https://github.com/ssbc/ssb-server/commit/2ba6d6dc465e9812cbe05a3d045b183853397850)
