@@ -204,6 +204,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Huggle 3](https://github.com/huggle/huggle3-qt-lx/commit/e31876b4f645a39d2b1636a98f3edadee0162746)
 - [HydraBus](https://twitter.com/hydrabus/status/1397654991087849482)
 - [i3](https://github.com/i3/i3.github.io/commit/46d93a31fb5cfe889f6446dceba028f81bf334b7) (to OFTC)
+- [IBus](https://github.com/ibus/ibus/wiki/Home/_compare/748855508c4af3051dec245e189add9813f0351d...bb997b79a0b610ead19d0123d1722826a026bced)
 - [Illumos](https://github.com/illumos/docs/commit/702f0c666da3cd720c7dec5bccfff7129fb53262)
 - [Indian Linux User's Group - Chennai](https://ilugc.in/moving-from-freenode-to-liberachat/)
 - [IndieWeb](https://github.com/indieweb/wiki/commit/1b208927dde6b7d12b242acdaa7a15be43eddbf9)
