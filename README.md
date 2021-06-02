@@ -131,6 +131,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [EyeInTheSky IRC Bot](https://github.com/stwalkerster/eyeinthesky/commit/846cd238497027d7541df21944aac352ad7ffb90)
 - [Fantasya](https://github.com/fantasya-pbem/website/pull/74)
 - [fceux](https://github.com/TASVideos/fceux/commit/f5668dbf8b0946b1b3c79fd7fa4aeb101507b015)
+- [fcitx](https://groups.google.com/g/fcitx-announce/c/_OTy4QRpT2E/m/RS_0DTMLAQAJ)
 - [Fedora Zhongwen User Group](https://github.com/FZUG/fzug.github.io/pull/67)
 - [Fedora](https://communityblog.fedoraproject.org/irc-announcement/)
 - [#feminism](https://github.com/feminism-chat/feminism-chat.github.io/commit/b637b0de65a8518d16e7c1a34bd19005b64d953f)
