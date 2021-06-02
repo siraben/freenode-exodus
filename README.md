@@ -387,6 +387,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [re:Web](https://github.com/apparentorder/reweb/commit/9a1dd5abcb9cefffef05bf8ce3eca096a44ec27b)
 - Reprap
 - [restic](https://twitter.com/resticbackup/status/1399049594672136193)
+- [Retro Forth](https://www.patreon.com/posts/51959256)
 - [#revspace](https://twitter.com/revspace/status/1395050989514862593)
 - [Risu](https://github.com/risuorg/risuorg.github.io/commit/13d980c5fbcdc8e68b74cd15c96b9e97dc47ad55)
 - [Rizin](https://github.com/rizinorg/website/commit/24309365e91073e1e1c3c02acf1c01ec576b3995)
