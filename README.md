@@ -210,6 +210,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [irctokens](https://github.com/jesopo/irctokens/commit/2094648a51207aa2184b61af9462c870fdcc79b6)
 - [IRCv3 WG](https://twitter.com/IRCv3/status/1395425788447674372)
 - [Irssi](https://github.com/irssi/irssi/commit/a5d4fd5aa7ad1d57c0b8e11e382944a3654cfa00)
+- [Isabelle Prover](https://twitter.com/isaprover/status/1399653780644323333)
 - [Ivoz Provider](https://github.com/irontec/ivozprovider/commit/fcd2c81b6fdee9a014a4e7bbdb917e2f95a9f273)
 - [Jabbot](https://github.com/gugod/jabbot/commit/bfc1a817665842fb5d70955c29a9457b35c6139b)
 - [JACK Audio Connection Kit ](https://github.com/jackaudio/jackaudio.github.com/commit/2017bba5f96ebcb5cbee8bde5476e535c3361ff0)
