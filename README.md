@@ -267,6 +267,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [main.lv / #mainlv](https://twitter.com/mainlvwriteup/status/1395455503162040323)
 - [mal](https://github.com/kanaka/mal/commit/27b761bd1ebc214a899f00159f62f67ab6c7c6cc)
 - [MAME](https://www.mamedev.org/?p=500)
+- [Manatools](https://github.com/manatools/dnfdragora/commit/c1de58a99b2f359697c8dfd2f1670727d6a76fe3)
 - [Marathon Speedrun Developers](https://github.com/marathon-speedrun-developers/devel/commit/aec5c4e958cfea8139440a59442ffecd23ca2490)
 - [MariaDB](https://mariadb.com/kb/en/meta/irc-chat-servers-and-zulip-instance/)
 - [Mate SlackBuilds](https://github.com/mateslackbuilds/mateslackbuilds.github.io/commit/ed69853eaed2af9637c562c0fe2775fcc291ca82)
