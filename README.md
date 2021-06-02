@@ -249,6 +249,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Libreswan](https://twitter.com/Libreswan/status/1397717922877935622)
 - [Limnoria](https://github.com/ProgVal/Limnoria/commit/04facade82b778482d4173a86b753945a1b72632)
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
+- [LinuxCNC](https://linuxcnc.org/2021/06/02/IRC-Server-Change/)
 - [LinuxGameCast](https://twitter.com/VennStone/status/1397280409080238085)
 - [Linux From Scratch](https://lists.linuxfromscratch.org/sympa/arc/lfs-admin/2021-05/msg00032.html)
 - [Linux Terminal Server Project](https://github.com/ltsp/irclogs/commit/258c2caa8f20371ca294249ffbcc6c5f89eda88b)
