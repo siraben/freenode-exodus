@@ -289,7 +289,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Minecraft Overviewer](https://overviewer.org/blog/2021/5/22/the-irc-channel-has-moved/)
 - [Minetest](https://wiki.minetest.net/index.php?title=IRC&diff=26329&oldid=23933)
 - [minible](https://github.com/mooltipass/minible/commit/e0651309c92ccec0e36b59b951544b22152fbf71)
-- [Miraheze](https://circleyverse.miraheze.org/wiki/Main_Page)
+- [Miraheze](https://meta.miraheze.org/wiki/IRC/RfC)
 - [MoinMoinChat](https://twitter.com/ThomasJWaldmann/status/1398608773594423301)
 - [Mojolicious](https://twitter.com/mojolicious_org/status/1396925921249083399)
 - [Monasca](https://github.com/monasca/monasca.github.io/commit/b0a4a677a81c875103edf27374f0479186924caf) (to OFTC)
