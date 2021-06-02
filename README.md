@@ -78,7 +78,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Composr CMS](https://compo.sr/news/view/announcements/irc-channel-moving-to.htm)
 - [ConnectBot](https://github.com/connectbot/connectbot.github.io/commit/6756b0041bbfb9a3f29b1a472c57a83716880c93)
 - [Convos](https://convos.chat/blog/2021/5/20/moving-from-freenode-to-libera)
-- [Coq](https://github.com/coq/www/commit/e35ef3cebecc96ae8dc5346e4505d1ccd49a2987)
+- [Coq](https://github.com/coq/www/pull/171/commits/be676ac59620cde52b16562024c951c9149d23a2)
 - [coreboot](https://doc.coreboot.org/community/forums.html)
 - [CoreRAD](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
 - [Cozy Cloud](https://twitter.com/cozycloud/status/1399266831244869635)
