@@ -401,6 +401,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#revspace](https://twitter.com/revspace/status/1395050989514862593)
 - [Risu](https://github.com/risuorg/risuorg.github.io/commit/13d980c5fbcdc8e68b74cd15c96b9e97dc47ad55)
 - [Rizin](https://github.com/rizinorg/website/commit/24309365e91073e1e1c3c02acf1c01ec576b3995)
+- #r/linux
 - [rms-support-letter](https://twitter.com/jobbautista9/status/1397418371814092806)
 - [Rockbox](https://www.rockbox.org/irc/)
 - [Rocky Linux](https://twitter.com/nazunalika/status/1395957548168089602)
