@@ -252,6 +252,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#looking-glass](https://twitter.com/geoffrey_mcrae/status/1396795800982724609)
 - [lorri](https://github.com/nix-community/lorri/commit/dd45c1f0ebea90102a0fe9b5fcc701302e71f1f6)
 - [Lua Fr](https://github.com/lua-fr/lua-fr.github.io/commit/7a277c7b7096892725a6b3e84c4b63dc93d8ac88)
+- [LundLinuxCon](https://github.com/pomac303/llc-webpage/commit/0f8f46fb0b91b6890c2817ffa80b5fca53e54c7f)
 - [Lutris](https://github.com/lutris/website/commit/dc9adc0786d0e2050ed0ac964ac931060d0d4f2a)
 - [LuXeria](https://github.com/luxeria/luxeria.github.io/commit/995df3d5a8a31e7e56cb3ec41bb7ff54bacd7e7e)
 - [Lwan](https://github.com/lpereira/lwan/commit/d52c07bc0ad26c9034dbd4f04828720e571ef6cd)
