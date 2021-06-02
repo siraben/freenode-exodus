@@ -231,7 +231,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [KVIrc](https://github.com/kvirc/kvirc-www/commit/1cdfbacc5d2f06f9120478cf7440be729b4c9d66)
 - [Lab::Measurement](https://github.com/lab-measurement/Lab-Measurement/commit/8ba5ff69b4642b630b83d49cbde3e54c75154b9b)
 - [Launchpad](https://twitter.com/launchpadstatus/status/1398249939340304390)
-- Leiningen
+- [Leiningen](https://github.com/technomancy/leiningen/commit/7369b6d6ce7476f667d4da3b2b031ec47644402b)
 - [libass](https://github.com/libass/libass/commit/96a920a76b9d16572329547c29f728b4436f741c)
 - [libcamera](https://github.com/libcamera-org/libcamera/commit/6b22a3657c615588ff489dbe16a0484530830823) (to OFTC)
 - [libguestfs](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
