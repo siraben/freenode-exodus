@@ -36,6 +36,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [ASUSWRT](https://twitter.com/RMerlinDev/status/1398703845161701377)
 - [Aurutils](https://github.com/AladW/aurutils/commit/659c464aa90862260915f966bc3394678ed84f42)
 - [Austin Hackers](https://twitter.com/AustinHackers/status/1395773170649608193)
+- [basspistol.com](https://github.com/Basspistol/basspistol.com/commit/55ea973a3055dcf0f9f70258670bcca6b4ff6312)
 - [BastilleBSD](https://twitter.com/BastilleBSD/status/1395536864673599491)
 - [Battle for Wesnoth](https://forums.wesnoth.org/viewtopic.php?t=54341)
 - [Bedrock Linux](https://github.com/bedrocklinux/bedrocklinux-website/commit/1cb8db46d0c9e7784594a13fc11edfb0b15c883a)
