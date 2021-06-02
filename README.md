@@ -40,6 +40,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [basspistol.com](https://github.com/Basspistol/basspistol.com/commit/55ea973a3055dcf0f9f70258670bcca6b4ff6312)
 - [BastilleBSD](https://twitter.com/BastilleBSD/status/1395536864673599491)
 - [Battle for Wesnoth](https://forums.wesnoth.org/viewtopic.php?t=54341)
+- [beagleboard.org](https://beagleboard.org/chat)
 - [Bedrock Linux](https://github.com/bedrocklinux/bedrocklinux-website/commit/1cb8db46d0c9e7784594a13fc11edfb0b15c883a)
 - [Beets](https://github.com/beetbox/beets/pull/3957/files)
 - [bitbot](https://github.com/jesopo/bitbot/commit/5f895544a80e47a32a07cfd6f4a06897f26cca4d)
