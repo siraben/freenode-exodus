@@ -375,7 +375,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Scalaz](https://github.com/scalaz/scalaz/commit/9813f4add8c52a485f805cbc4d57ca7df06e4099)
 - [#scheme](https://srfi-email.schemers.org/srfi-discuss/msg/16740382/)
 - [ScummVM](https://twitter.com/ScummVM/status/1397664213124980737)
-- [Scuttlebut](https://github.com/ssbc/ssb-server/commit/2ba6d6dc465e9812cbe05a3d045b183853397850)
+- [Scuttlebutt](https://github.com/ssbc/ssb-server/commit/2ba6d6dc465e9812cbe05a3d045b183853397850)
 - [Seattle GNU/Linux Conference ](https://github.com/SeaGL/seagl.github.io/commit/ca65a364735e45f8ffd68373c0a855e9cd590c70)
 - [Selenium](https://www.selenium.dev/blog/2021/moving-to-libera-chat/)
 - [serious-bg](https://github.com/Binaergewitter/serious-bg/commit/50469265a916c48ec23d46dc1557c250b0e1e45d)
