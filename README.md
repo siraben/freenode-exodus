@@ -343,6 +343,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenZFS](https://github.com/openzfs/openzfs-docs/pull/167)
 - [OpenMW](https://github.com/OpenMW/openmw/commit/b2791fd487d016754123bc6ce865c85ae2423f33)
 - Org mode
+- [OSDev.org](https://wiki.osdev.org/index.php?title=Chat&diff=25945&oldid=24997)
 - [OSUOSL](https://github.com/osuosl/osuosl-pelican/pull/365)
 - Packetframe
 - [Packit](https://github.com/packit/packit.dev/pull/286)
