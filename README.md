@@ -327,6 +327,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenLab Augsburg](https://github.com/openlab-aux/wikidata/commit/26d43ae546436d4f5653ac35a63bf07000f0b5d3)
 - [OpenLDAP](https://twitter.com/openldaporg/status/1397563699255255041)
 - [OpenMPTL](https://github.com/digint/openmptl/commit/017807807e1fed41040af200afa4046740135939)
+- [openMSX](https://github.com/openMSX/htdocs/commit/89182d6b4fe89b3e7bce7625d5853600ccf8cda9)
 - [OpenSCAD](https://github.com/openscad/openscad.github.com/commit/36ad15af10cf6c60e16a9242bc6860ffc133ae5a)
 - [OpenStack](http://lists.openstack.org/pipermail/openstack-discuss/2021-May/022718.html) (to OFTC)
 - [openvswitch](https://github.com/openvswitch/openvswitch.github.io/commit/34edc573c7e6282a8c74a8086b9636a67d89fc32)
