@@ -166,6 +166,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Haiku](https://www.haiku-os.org/news/2021-05-19_haiku_is_moving_to_oftc/) (to OFTC)
 - [hakyll](https://github.com/jaspervdj/hakyll/commit/8980133284d7d5f0d7cd71580796150c74b22f2d)
 - [Hammerspoon](https://twitter.com/_hammerspoon/status/1397647962851926023)
+- [HandBrake](https://forum.handbrake.fr/viewtopic.php?p=196519#p196519)
 - [HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2021-05-26/hardenedbsd-switching-irc-servers)
 - [Hardened GNU/Linux](https://github.com/hardenedlinux/hardenedlinux.github.io/commit/3967d8f421a25585f43e79721af69a884298a910) (to OFTC)
 - [Hardfought](https://www.hardfought.org/libera-irc/)
