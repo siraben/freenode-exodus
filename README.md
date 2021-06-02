@@ -70,7 +70,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Coffee House Coders](https://github.com/coffeehousecoders/royaloak.coffeehousecoders.com/commit/5b89adac777f7723f5da242ec1027c7ad1e14c8c)
 - [ConnectBot](https://github.com/connectbot/connectbot.github.io/commit/6756b0041bbfb9a3f29b1a472c57a83716880c93)
 - [Convos](https://convos.chat/blog/2021/5/20/moving-from-freenode-to-libera)
-- Coq
+- [Coq](https://github.com/coq/www/commit/e35ef3cebecc96ae8dc5346e4505d1ccd49a2987)
 - [coreboot](https://doc.coreboot.org/community/forums.html)
 - [CoreRAD](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
 - [Cozy Cloud](https://twitter.com/cozycloud/status/1399266831244869635)
