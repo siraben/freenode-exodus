@@ -262,7 +262,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Linux From Scratch](https://lists.linuxfromscratch.org/sympa/arc/lfs-admin/2021-05/msg00032.html)
 - [Linux Terminal Server Project](https://github.com/ltsp/irclogs/commit/258c2caa8f20371ca294249ffbcc6c5f89eda88b)
 - [Linux System Roles](https://github.com/linux-system-roles/linux-system-roles.github.io/commit/857b3c5a7e048914b6576d37c1f64ccc6e7b2cf7)
-- #lisp
+- [#lisp](https://cliki.net/site/compare-revisions?article=IRC&old=3830760967&diff=3826120582)
 - [#lispgames Community](https://twitter.com/lispgames/status/1397909216283725825)
 - [LiteX](https://github.com/enjoy-digital/litex/commit/5e40709cbcd263926b04b4fa0fd602a0c13872ed)
 - [Lobsters](https://lobste.rs/s/1z77ly/libera_chat#c_vwmpgx)
