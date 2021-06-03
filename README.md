@@ -568,6 +568,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [XTools](https://github.com/x-tools/xtools/commit/96a372aa49dc0ea616f73bc4b68e63ca47849f26)
 - [Xubuntu](https://xubuntu-devel.narkive.com/ptEHzj6U/irc-move-to-libera-chat)
 - [yaydl](https://github.com/dertuxmalwieder/yaydl/commit/25a81643635052d971949cd430542c76c523bf8b) (to OFTC)
+- [##yamahasynths](https://mastodon.social/@cr1901/106301729167887474)
 - [Yancy](https://github.com/preaction/Yancy/commit/9a70e3e2bedea5d21ea514e243920e0ca9b4017f)
 - [Yocto Project](https://twitter.com/yoctoproject/status/1400350934757265411)
 - [Zapp](https://github.com/preaction/Zapp/commit/b4923d4a0596f22ea7ddbfcacf857973e31b9bf7)
