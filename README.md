@@ -70,6 +70,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#cat-v](http://cat-v.org/about) (to OFTC)
 - [CentOS](https://blog.centos.org/2021/05/centos-irc-channels-moving-to-irc-libera-chat/)
 - [cgit](https://lists.zx2c4.com/pipermail/cgit/2021-May/004637.html)
+- [ChiBUG: The Chicago Area BSD Users Group](https://github.com/jcs/chibug.org/commit/6a80c11a1e2c9c5f6c346ef79dface90e0029147)
 - [CHICKEN scheme](https://www.mail-archive.com/chicken-hackers@nongnu.org/msg07917.html)
 - [chimper](https://github.com/pedrocr/chimper/commit/be65f779918bc82c0472f8027bdcc27bf01cc3ec)
 - [circe](https://github.com/jorgenschaefer/circe/commit/4778675e0c3bde1c028085b7d96693fe033d2c72)
