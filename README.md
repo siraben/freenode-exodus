@@ -299,6 +299,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [MegaGlest](https://github.com/MegaGlest/megaglest-source/commit/d1ed68ef00add7561a16c5c51146e7e68b0cf736)
 - [Mesa](https://lists.freedesktop.org/archives/mesa-dev/2021-May/225271.html) (to OFTC)
 - [Meson](https://mesonbuild.com/index.html#community) (to OFTC)
+- [Meson Build](https://twitter.com/mesonbuild/status/1397531239033278465) (to OFTC)
 - [MetaBrainz](https://blog.metabrainz.org/)
 - [Mezzano](https://github.com/froggey/Mezzano/commit/1806ce1ca65e362b588864aa10f2da338bb7e2f6)
 - [mgmtconfig](https://github.com/purpleidea/mgmt/commit/7d7e225823fd2920c425c9c9518f739a5989b541)
