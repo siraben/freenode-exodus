@@ -477,6 +477,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [strace](https://mobile.twitter.com/evgsyr/status/1397495752029523970) (to OFTC)
 - [StumpWM](https://github.com/stumpwm/stumpwm/commit/079f06c1d96526cf4a06580f95d69e3f2a35c1e2)
 - [SWI-Prolog](https://twitter.com/SwiProlog_/status/1396539991963148291)
+- [Syncthing](https://github.com/syncthing/syncthing/commit/fbaf69682170aaf036a4be35f16c750d9e62117f) (to Forums)
 - [System Security Services Daemon](https://github.com/SSSD/sssd.io/commit/f25e86624b99817c5106d47ff6117b3c09b7d70d)
 - [Systemd](https://lists.freedesktop.org/archives/systemd-devel/2021-May/046486.html)
 - [Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs/pull/1068)
