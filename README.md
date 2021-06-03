@@ -142,6 +142,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Freifunk Vogtland](https://github.com/FreifunkVogtland/ffv-api-generator/commit/a82ba2e2ae2962984453edfeaab0bbd4635a1043) (to hackint)
 - [FileWiki](https://github.com/digint/filewiki/commit/36606dfc5a909878eeb2d54cdec1e4e5c227c9af)
 - [Fink Project](https://github.com/fink/website/commit/3f9dfae3dca338b8ccd9454f9ac428ae136a8e1f)
+- [firestr.com](https://twitter.com/mempko/status/1397619360752029696)
 - [FOSDEM](https://fosdem.org/2021/news/2021-05-26-libera/)
 - [FOSSHOST](https://fosshost.org/news/libera-chat)
 - [Free Pascal](https://twitter.com/freepascaldev/status/1397492296866832384)
