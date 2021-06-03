@@ -103,6 +103,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Delta Chat](https://github.com/deltachat/deltachat-pages/commit/e5530f17db04ef18368fa1b77403580ed64c5167)
 - [#developerslv](https://github.com/daGrevis/developerslv/pull/2/files)
 - [Devuan](https://lists.dyne.org/lurker/message/20210521.130524.7ce9e65d.en.html)
+- [Desmume](https://wiki.desmume.org/index.php?title=Faq&oldid=8930)
 - [DFeed](https://github.com/CyberShadow/DFeed/commit/33c3bedfc8a45141884a0242df344a260b1bb169)
 - [Distrap](https://github.com/distrap/website/commit/3da1568e752aaf296f1eee9a1ddd5e82ae468160)
 - [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
