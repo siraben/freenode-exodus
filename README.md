@@ -335,6 +335,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Music Player Daemon (MPD)](https://www.musicpd.org/news/2021/05/bye-freenode-hello-libera-dot-chat/)
 - [Musl](https://twitter.com/musllibc/status/1395773725409165313)
 - [Mutt](http://lists.mutt.org/pipermail/mutt-announce/Week-of-Mon-20210517/000037.html)
+- [MyBrowse](https://gist.github.com/shadowcat-mst/998cea12794768bdb3da2daeff31baad#gistcomment-3744483)
 - [#mysql](https://hashmysql.net/w/index.php?title=Main_Page&diff=3194&oldid=3168)
 - [naemon](https://github.com/naemon/naemon.github.io/commit/4b22fa94c7a123706c84ee5ec98a04168888c355)
 - [Narwhal](https://github.com/narwhalirc/narwhal/commits/master/README.md)
