@@ -451,6 +451,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Stacken](https://github.com/stacken/w3/commit/5c089d0558960655e0ac888c5adc814da3abce29)
 - [steam (python module)](https://github.com/ValvePython/steam/commit/f00e7b86cd8c70a9ea2cf867c840014f64ffc0b2)
 - [strace](https://mobile.twitter.com/evgsyr/status/1397495752029523970) (to OFTC)
+- [StumpWM](https://github.com/stumpwm/stumpwm/commit/079f06c1d96526cf4a06580f95d69e3f2a35c1e2)
 - [SWI-Prolog](https://twitter.com/SwiProlog_/status/1396539991963148291)
 - [System Security Services Daemon](https://github.com/SSSD/sssd.io/commit/f25e86624b99817c5106d47ff6117b3c09b7d70d)
 - [Systemd](https://lists.freedesktop.org/archives/systemd-devel/2021-May/046486.html)
