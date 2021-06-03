@@ -392,7 +392,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [PostgreSQL](https://www.postgresql.org/about/news/migration-of-postgresql-irc-channels-2216/)
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - [Project Apollo - NASSP](https://twitter.com/Thymo_/status/1397807574754467841)
-- [Prometheus](https://github.com/prometheus/docs/commit/12b06dab609708dbb45c1974d322ed3d41b4f6d6)
+- [Prometheus](https://twitter.com/PrometheusIO/status/1396132359037149189)
 - [Pulp Project](https://twitter.com/pulpproj/status/1397532195594645509)
 - [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/Community/#ircandmatrix)
 - [purdueLUG](https://github.com/purdueLUG/purduelug.github.io/commit/69a35a274ebef30610fff5756d689d81305c53e9)
