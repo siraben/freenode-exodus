@@ -495,6 +495,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [SquirrelJME](https://github.com/SquirrelJME/SquirrelJME/commit/9826476f8a694ba237298a975bbe10802e2be856)
 - [Stacken](https://github.com/stacken/w3/commit/5c089d0558960655e0ac888c5adc814da3abce29)
 - [steam (python module)](https://github.com/ValvePython/steam/commit/f00e7b86cd8c70a9ea2cf867c840014f64ffc0b2)
+- STM32 Peripheral Access Crates (##stm32-rs) (to Matrix)
 - [strace](https://mobile.twitter.com/evgsyr/status/1397495752029523970) (to OFTC)
 - [StumpWM](https://github.com/stumpwm/stumpwm/commit/079f06c1d96526cf4a06580f95d69e3f2a35c1e2)
 - [SWI-Prolog](https://twitter.com/SwiProlog_/status/1396539991963148291)
