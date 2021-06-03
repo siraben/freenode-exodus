@@ -223,6 +223,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [infer](https://github.com/facebook/infer/commit/f624fc119726b69b30c4e71a79806b4843a97248)
 - [Inkscape](https://wiki.inkscape.org/wiki/index.php?title=Social_media&curid=25616&diff=120087&oldid=106376)
 - [inspectrum](https://github.com/miek/inspectrum/commit/054f686906969e87e5542196cbaa2fa03a1d4461)
+- [interchange commerce](https://www.interchangecommerce.org/i/dev/news?mv_arg=00066)
 - [invidious (moved to Matrix)](https://github.com/iv-org/invidious/commit/9b6c5c08d82742d94a2615a91a0134dc6df79dc8)
 - [ioquake3](https://ioquake3.org/ioquake3/ioquake3-irc-moved-to-libera/)
 - [#ipv6](https://wiki.debian.org/IPv6?action=diff&rev1=14&rev2=15)
