@@ -153,6 +153,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [FileWiki](https://github.com/digint/filewiki/commit/36606dfc5a909878eeb2d54cdec1e4e5c227c9af)
 - [Fink Project](https://github.com/fink/website/commit/3f9dfae3dca338b8ccd9454f9ac428ae136a8e1f)
 - [firestr.com](https://twitter.com/mempko/status/1397619360752029696)
+- [foot](https://codeberg.org/dnkl/foot/commit/18364fd547119809db83ecab32e65b590dbdc615)
 - [FOSDEM](https://fosdem.org/2021/news/2021-05-26-libera/)
 - [FOSSHOST](https://fosshost.org/news/libera-chat)
 - [Free Pascal](https://twitter.com/freepascaldev/status/1397492296866832384)
