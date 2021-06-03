@@ -435,6 +435,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Shadytel](https://twitter.com/shadytel/status/1397394351274164225)
 - [Sheffgeeks](https://github.com/sheffgeeks/sheffgeeks.github.io/commit/a19b7bdc6fd8a773588005ab80d33931243c6438)
 - [SickGear](https://github.com/SickGear/SickGear/commit/b7bb9dc61e52011c282cee1b6506af363457c8d8)
+- [Silicon Valley Linux User Group (SVLUG)](http://www.svlug.org/policies/list-policy.php)
 - [Slackware](http://www.slackware.com/~rworkman/slackware-irc/)
 - [SLASH'EM Extended](https://github.com/SLASHEM-Extended/SLASHEM-Extended/commit/a36ccd381c3bf7b2f6e679c23acbb7f469f48b7b)
 - [SmartOS](https://twitter.com/JoyentSmartOS/status/1398689698344706050)
