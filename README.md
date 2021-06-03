@@ -78,6 +78,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Clojure](https://clojure.org/community/resources)
 - [cloud-init](https://github.com/canonical/cloud-init/commit/63f72380a70d9f846cac3b2cbbc6ed13c735c277)
 - [ClusterLabs](https://github.com/ClusterLabs/clusterlabs-www/pull/33)
+- [CMU Computer Club](https://twitter.com/cl0x/status/1396572076694249475)
 - [Cockpit](https://github.com/cockpit-project/cockpit/commit/84507b9d3adb584280a6db53302d6fdea4b8b950)
 - [Code4Lib](https://lists.clir.org/cgi-bin/wa?A2=ind2105&L=CODE4LIB&P=81656)
 - [Code::Stats](https://twitter.com/code_stats/status/1397467735941058560)
