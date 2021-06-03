@@ -448,6 +448,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Slackware](http://www.slackware.com/~rworkman/slackware-irc/)
 - [SLASH'EM Extended](https://github.com/SLASHEM-Extended/SLASHEM-Extended/commit/a36ccd381c3bf7b2f6e679c23acbb7f469f48b7b)
 - [SmartOS](https://twitter.com/JoyentSmartOS/status/1398689698344706050)
+- [SNES Central](https://twitter.com/snescentral/status/1396441180947288064) (to Discord)
 - [sngrep](https://github.com/irontec/sngrep/commit/5df40383182b4e3d350451addec0594f1447a7e1)
 - [Solanum](https://github.com/solanum-ircd/solanum.chat/pull/7)
 - [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
