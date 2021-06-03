@@ -447,6 +447,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#revspace](https://twitter.com/revspace/status/1395050989514862593)
 - [riseup.net](https://github.com/riseupnet/riseup_help/pull/751)
 - [Risu](https://github.com/risuorg/risuorg.github.io/commit/13d980c5fbcdc8e68b74cd15c96b9e97dc47ad55)
+- [river](https://github.com/ifreund/river/commit/c5005ba4a83753a2d71ef81fc3ee448423dfc2b4)
 - [Rizin](https://github.com/rizinorg/website/commit/24309365e91073e1e1c3c02acf1c01ec576b3995)
 - #r/linux
 - [rms-support-letter](https://twitter.com/jobbautista9/status/1397418371814092806)
