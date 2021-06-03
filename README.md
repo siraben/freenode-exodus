@@ -117,6 +117,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [EasyRPG](https://twitter.com/EasyRPG/status/1397624147249860616)
 - [Edingburgh Hacklab](https://twitter.com/edinhacklab/status/1397483473707933697)
 - [eduVPN](https://github.com/eduvpn/documentation/commit/2158742e5d5c73df02a011dd5a62661926a41e5a)
+- [eev](https://github.com/edrx/eev/commit/615e83260a14eed914cc31f34364cc05527c7efc)
 - [Eggdrop](https://eggheads.org/news#news69)
 - [Electromagnetic Field Camp](https://twitter.com/emfcamp/status/1398348629635633152)
 - [eLinux](https://twitter.com/elinux/status/1397204424053907458)
