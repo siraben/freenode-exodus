@@ -119,7 +119,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Dulwich](https://github.com/dulwich/dulwich/commit/78ac0fbed95917974b25fcef3129e4817520c046) (to OFTC)
 - [dynasm-rs](https://github.com/CensoredUsername/dynasm-rs/commit/e10fb11e47e028422eb54fd55cea30af8fa7e0ad)
 - [EasyRPG](https://twitter.com/EasyRPG/status/1397624147249860616)
-- [Edingburgh Hacklab](https://twitter.com/edinhacklab/status/1397483473707933697)
+- [Edinburgh Hacklab](https://twitter.com/edinhacklab/status/1397483473707933697)
 - [eduVPN](https://github.com/eduvpn/documentation/commit/2158742e5d5c73df02a011dd5a62661926a41e5a)
 - [eev](https://github.com/edrx/eev/commit/615e83260a14eed914cc31f34364cc05527c7efc)
 - [Eggdrop](https://eggheads.org/news#news69)
