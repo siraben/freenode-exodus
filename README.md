@@ -491,6 +491,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Twisted Matrix Labs](https://twitter.com/glyph/status/1395125137674960896)
 - [Ubuntu Arizona LoCo Team](https://www.azloco.org/2021/05/27/azloco-irc-channel-change/)
 - [Ubuntu Budgie](https://github.com/UbuntuBudgie/budgie-welcome/commit/ab8cd3b8981e595173047e3feda70c4366bcc75b)
+- [Ubuntu Cinnamon Remix](https://twitter.com/UbuntuCinnamon/status/1397608624172720136)
 - [Ubuntu](https://fridge.ubuntu.com/2021/05/26/announcing-ubuntus-move-to-libera-chat/)
 - [UHF Satcom](https://twitter.com/uhf_satcom/status/1397499724505174016) (to Discord)
 - [UIUCLUG](https://github.com/gnulug/gnulug.github.io/commit/43aab08d8df8e64d79e87a35c9547786290bc719)
