@@ -398,6 +398,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [quick-lint-js](https://github.com/quick-lint/quick-lint-js/commit/2c92710784e13e27bf82463f0dc225e66d4f1371)
 - [qutebrowser](https://lists.schokokeks.org/pipermail/qutebrowser-announce/2021-May/000102.html)
 - [Racket](https://github.com/racket/racket-lang-org/commit/56a31fcefaf85fe9a810ea65291dc827ad6c492a)
+- [radare](https://twitter.com/radareorg/status/1397838505775075329)
 - [Radeon and #ROCm](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/) (to OFTC)
 - [Raku](https://www.tyil.nl/post/2021/05/22/raku-on-libera-chat/)
 - [ranger](https://ranger.github.io/news/2021-05-19-libera)
