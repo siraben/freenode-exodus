@@ -507,7 +507,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Window Maker](https://github.com/window-maker/window-maker.github.io/pull/15/files)
 - [Wine](https://www.winehq.org/pipermail/wine-devel/2021-May/187836.html)
 - [WireGuard](https://lists.zx2c4.com/pipermail/wireguard/2021-May/006772.html)
-- [WPE](https://github.com/Igalia/wpewebkit.org/commit/7d24eb842d84013412012b4e8cfade8fd6c3eeb1) (to OFTC)
+- [WPE Webkit](https://twitter.com/WPEWebKit/status/1398285662206443523) (to OFTC)
 - [WSL Utilities](https://twitter.com/wslutilities/status/1396974355226128384)
 - [wxWidgets](https://www.wxwidgets.org/news/2021/05/irc-channel-moving-to-libera-chat/)
 - [X.Org](https://www.x.org/wiki/XorgIRC/) (to OFTC)
