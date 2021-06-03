@@ -156,6 +156,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [FVWM3](https://github.com/fvwmorg/fvwmorg.github.io/commit/eed5315a5a1aa9653e17aa19ac591a050c944fa1)
 - [Gamingonlinux](https://www.gamingonlinux.com/2021/05/gamingonlinux-moves-on-from-freenode-to-liberachat-for-irc/)
 - [Ganeti Project](https://github.com/ganeti/ganeti.org/commit/55884ca14d058bfea89727f7fff13b6b1380afad) (to OFTC)
+- [GCC](https://gcc.gnu.org/wiki/GCConIRC)
 - [GDB](https://sourceware.org/pipermail/gdb/2021-May/049466.html)
 - [GDC](https://github.com/D-Programming-GDC/gdcproject/commit/22a4d64cd1419f79893b5eabe9df1d2f0760d6e9)
 - [Gentoo](https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html)
