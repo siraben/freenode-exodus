@@ -340,6 +340,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Oasis Linux](https://github.com/oasislinux/oasis/commit/82d82e5331cd6eba6981d9d3837db8d5025eee13)
 - [Obarun](https://web.obarun.org/index.php?id=131)
 - [OCaml](https://inbox.ocaml.org/caml-list/20210526140102.GA22143@notk.org/t/)
+- [Octaforge](https://twitter.com/octaforge/status/1395202291851055109) (to OFTC)
 - [OctoPrint](https://twitter.com/OctoPrint3D/status/1397555963721355267)
 - [oidentd](https://github.com/janikrabe/oidentd/commit/d93a4a0c533bb2ef5537a35c85085751c169a8f7)
 - [Olimex Ltd.](https://twitter.com/Olimex/status/1397502165246173187)
