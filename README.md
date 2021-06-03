@@ -451,6 +451,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [SuperTuxKart](https://github.com/supertuxkart/stk-code/commit/5fed067b9c0814e861930ebeefa93750947ed574)
 - [Sway](https://github.com/swaywm/sway/commit/1651f2106152b40abd8c1dcef2ddcbbca36c7b47)
 - [SQLAlchemy](https://twitter.com/sqlalchemy/status/1397667050722676738)
+- [SquirrelJME](https://github.com/SquirrelJME/SquirrelJME/commit/9826476f8a694ba237298a975bbe10802e2be856)
 - [Stacken](https://github.com/stacken/w3/commit/5c089d0558960655e0ac888c5adc814da3abce29)
 - [steam (python module)](https://github.com/ValvePython/steam/commit/f00e7b86cd8c70a9ea2cf867c840014f64ffc0b2)
 - [strace](https://mobile.twitter.com/evgsyr/status/1397495752029523970) (to OFTC)
