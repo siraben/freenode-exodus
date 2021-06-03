@@ -277,6 +277,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [LinuxCNC](https://linuxcnc.org/2021/06/02/IRC-Server-Change/)
 - [LinuxGameCast](https://twitter.com/VennStone/status/1397280409080238085)
 - [Linu.X-lab](https://github.com/LinuX-lab/LinuX-lab.github.io/commit/6ea5caf5d6b900a7b32753eca7442a1dc03d96cc)
+- #linux-exynos
 - [Linux From Scratch](https://lists.linuxfromscratch.org/sympa/arc/lfs-admin/2021-05/msg00032.html)
 - [Linux Terminal Server Project](https://github.com/ltsp/irclogs/commit/258c2caa8f20371ca294249ffbcc6c5f89eda88b)
 - [Linux System Roles](https://github.com/linux-system-roles/linux-system-roles.github.io/commit/857b3c5a7e048914b6576d37c1f64ccc6e7b2cf7)
