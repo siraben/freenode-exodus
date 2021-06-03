@@ -375,6 +375,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenDev Collaboratory](http://lists.opendev.org/pipermail/service-discuss/2021-May/000249.html) (to OFTC)
 - [OpenEmbedded](https://www.openembedded.org/index.php?title=IRC&diff=10860&oldid=9943)
 - [#openhab](https://twitter.com/penguinponics/status/1395084712880660486)
+- ##openfpga
 - [OpenIKED](https://github.com/openiked/openiked-portable/commit/28ecc4031b73939aa0ce69ae28f917100c5d8c1d)
 - [openITCOCKPIT](https://openitcockpit.io/2021/2021/05/31/irc-announcement-migrating-to-libera-chat/)
 - [OpenLab Augsburg](https://github.com/openlab-aux/wikidata/commit/26d43ae546436d4f5653ac35a63bf07000f0b5d3)
