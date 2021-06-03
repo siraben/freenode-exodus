@@ -516,6 +516,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Xubuntu](https://xubuntu-devel.narkive.com/ptEHzj6U/irc-move-to-libera-chat)
 - [yaydl](https://github.com/dertuxmalwieder/yaydl/commit/25a81643635052d971949cd430542c76c523bf8b) (to OFTC)
 - [Yancy](https://github.com/preaction/Yancy/commit/9a70e3e2bedea5d21ea514e243920e0ca9b4017f)
+- [Yocto Project](https://twitter.com/yoctoproject/status/1400350934757265411)
 - [Zapp](https://github.com/preaction/Zapp/commit/b4923d4a0596f22ea7ddbfcacf857973e31b9bf7)
 - [Zed Attack Proxy](https://twitter.com/zaproxy/status/1397509029996417032)
 - [ZeroMQ](https://github.com/zeromq/zeromq.org/commit/7f0e9d7a16484fc02dfee11af02e9d7ff4dbc055)
