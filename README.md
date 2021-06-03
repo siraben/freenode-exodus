@@ -133,6 +133,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Esolangs](https://esolangs.org/w/index.php?title=Esolang:Community_portal&diff=83615&oldid=83522)
 - [ETS2 Job Logger](https://github.com/Lihis/ets2-job-logger/commit/b8369a21c0ae5a4aaf43e6ccdeef0342bf3e4e25)
 - [ET: Legacy](https://github.com/etlegacy/etlegacy/issues/1655)
+- [Exim](https://www.mail-archive.com/exim-users@exim.org/msg55962.html)
 - [exult](https://github.com/exult/exult/commit/e4ccd759be207939764528949dd877a5be826b02)
 - [EyeInTheSky IRC Bot](https://github.com/stwalkerster/eyeinthesky/commit/846cd238497027d7541df21944aac352ad7ffb90)
 - [Fantasya](https://github.com/fantasya-pbem/website/pull/74)
