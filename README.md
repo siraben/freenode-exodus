@@ -169,6 +169,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [GDB](https://sourceware.org/pipermail/gdb/2021-May/049466.html)
 - [GDC](https://github.com/D-Programming-GDC/gdcproject/commit/22a4d64cd1419f79893b5eabe9df1d2f0760d6e9)
 - [Gentoo](https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html)
+- [GhettoForge](http://ghettoforge.org/index.php?title=News&curid=8&diff=201&oldid=181)
 - [GHC](https://twitter.com/bgamari/status/1395065974496317442)
 - [Git](https://github.com/git/git-scm.com/commit/b1f3d65452a62a49b030587303ea3a0944561ed7)
 - [Glowing Bear](https://github.com/glowing-bear/glowing-bear/commit/68d44cf669aafe968a786b5d33d6903be540fa81)
