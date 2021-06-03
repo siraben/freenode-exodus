@@ -12,6 +12,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [afew](https://github.com/afewmail/afew/commit/8ef9a5b73e5d1063cf912c70027c655fb19d1109)
 - [Agda](https://wiki.portal.chalmers.se/agda/Main/Community?action=diff#diff1622023591)
 - [#algorithms](https://twitter.com/susam/status/1395738326364160009)
+- [Allegro](https://liballeg.org/irc.html)
 - [Alpine](https://alpinelinux.org/posts/Switching-to-OFTC.html) (to OFTC)
 - [alwaysdata](https://changelog.alwaysdata.com/212/detail/)
 - [Anbox](https://github.com/anbox/anbox/pull/1818)
