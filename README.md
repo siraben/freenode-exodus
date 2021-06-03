@@ -511,6 +511,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [The Powder Toy](https://powdertoy.co.uk/Wiki/index.php?title=Irc_setup&diff=prev&oldid=8083)
 - [The Secret Chronicles of Dr. M.](https://secretchronicles.org/en/news/2021/05/26/liberachat/)
 - [The TenDRA Project](https://github.com/tendra/tendra/commit/fc85a510fc0bf5fa0ffa7c55289eab943b787b92)
+- #titandev
 - [TKKRLAB](https://twitter.com/tkkrlab/status/1398000477766291457)
 - [Toot](https://github.com/ihabunek/toot/commit/8f0bf27e5ebb06a9bad972b815b09f0939026f1c)
 - [Townforge](https://twitter.com/townforge/status/1397595704252588044)
