@@ -356,6 +356,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [openvswitch](https://github.com/openvswitch/openvswitch.github.io/commit/34edc573c7e6282a8c74a8086b9636a67d89fc32)
 - [OpenWRT](https://openwrt.org/irc) (to OFTC)
 - [OpenZFS](https://github.com/openzfs/openzfs-docs/pull/167)
+- [OpenZFS on OS X](https://twitter.com/openzfsonosx/status/1397724943433961476)
 - [OpenMW](https://github.com/OpenMW/openmw/commit/b2791fd487d016754123bc6ce865c85ae2423f33)
 - Org mode
 - [OSDev.org](https://wiki.osdev.org/index.php?title=Chat&diff=25945&oldid=24997)
