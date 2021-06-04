@@ -384,6 +384,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - #opendarwin
 - [OpenDev Collaboratory](http://lists.opendev.org/pipermail/service-discuss/2021-May/000249.html) (to OFTC)
 - [OpenEmbedded](https://www.openembedded.org/index.php?title=IRC&diff=10860&oldid=9943)
+- [OpenGameArt](https://github.com/OpenGameArt/OGABot_IRC/commit/aab531c4c4610ecb9a09972efd07b8ff69c55ca5) (to freegamedev.net IRC)
 - [#openhab](https://twitter.com/penguinponics/status/1395084712880660486)
 - ##openfpga
 - [OpenIKED](https://github.com/openiked/openiked-portable/commit/28ecc4031b73939aa0ce69ae28f917100c5d8c1d)
