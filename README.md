@@ -401,6 +401,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OSUOSL](https://github.com/osuosl/osuosl-pelican/pull/365)
 - Packetframe
 - [Packit](https://github.com/packit/packit.dev/pull/286)
+- [Palaver](https://palaverapp.com/blog/ergo-chat) (to irc.ergo.chat, bridged to Libera.chat)
 - [pass (password-store)](https://lists.zx2c4.com/pipermail/password-store/2021-May/004437.html)
 - [Patagonia Libre](https://twitter.com/flisolpatagonia/status/1396155847651299328)
 - [PBUI Project](https://github.com/pbui-project/pbui-main/commit/70ee305cc8c1293d775c3a5c7acc3deb8b0cef32)
