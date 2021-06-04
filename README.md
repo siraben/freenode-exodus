@@ -119,6 +119,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [doof.net](https://twitter.com/doofnet/status/1396889463276511233)
 - [Dovecot](https://www.dovecot.org/support) (to OFTC)
 - [Dulwich](https://github.com/dulwich/dulwich/commit/78ac0fbed95917974b25fcef3129e4817520c046) (to OFTC)
+- [Dungeon Crawl: Stone Soup](https://github.com/crawl/dcss-website/commit/ec916df2e7b7274b0c1002aa48193b3ab101c539)
 - [dynasm-rs](https://github.com/CensoredUsername/dynasm-rs/commit/e10fb11e47e028422eb54fd55cea30af8fa7e0ad)
 - [EasyRPG](https://twitter.com/EasyRPG/status/1397624147249860616)
 - [Edinburgh Hacklab](https://twitter.com/edinhacklab/status/1397483473707933697)
