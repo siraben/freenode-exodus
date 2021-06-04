@@ -360,6 +360,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Nicotine+](https://github.com/Nicotine-Plus/nicotine-plus/commit/0dc369989065f681400cce8676f9a0dfef3e4a0d)
 - NixOS - [official chat to Matrix](https://github.com/NixOS/rfcs/pull/94/) [IRC to Libera](https://github.com/nix-community/awesome-nix/commit/6216bf4817ea2c97840673683d8be6e780cd6902)
 - [nMigen](https://github.com/nmigen/nmigen/commit/e974a31022d8ba1ee67bd49c82a11fa7a0a71145)
+- [Noncesense Research Lab](https://github.com/noncesense-research-lab/noncesense-research-lab.github.io/commit/128f420c85f7bba94862d933478199a852c49508)
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
 - [Notmuch](https://github.com/notmuch/notmuch-wiki/commit/14bd0939d030873725ced673ab2c86fa3b1e6e7f)
 - [Oasis Linux](https://github.com/oasislinux/oasis/commit/82d82e5331cd6eba6981d9d3837db8d5025eee13)
