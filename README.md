@@ -55,6 +55,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [BorgBackup](https://github.com/borgbackup/borgbackup.github.io/pull/67)
 - #botters
 - [bpython](https://github.com/bpython/bpython/commit/2240883457342242f3b7f08699e913ece7471ef6) (to OFTC)
+- [Brogue CE](https://github.com/tmewett/BrogueCE/commit/404d1c1494f4059acaa2a9fb97b308a4c7001e51)
 - [bspwm](https://github.com/baskerville/bspwm/commit/c5eba7190dbe3d249865f7e193cb8bd2c3c51cc7)
 - [Btrbk](https://github.com/digint/btrbk/commit/88d4cc76f3a9f3c12da38864a2d629c02c58b8c6)
 - [btrfs](https://btrfs.wiki.kernel.org/index.php?title=Main_Page&curid=1&diff=33413&oldid=33412)
