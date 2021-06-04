@@ -258,6 +258,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [KiCad](https://www.kicad.org/community/chat/)
 - [killer](https://github.com/Lvl4Sword/Killer/commit/d1ed629036d5c62a8169e83acbd396a9d2843f44)
 - [Kirikiri SDL2](https://github.com/krkrsdl2/krkrsdl2/commit/55691a1345e4319af6dab8911fa9d0a795a6c392)
+- [Kiss Linux](https://k1sslinux.org/news/20210519a)
 - [Known](https://twitter.com/withknown/status/1397602409342406667)
 - [kpatch](https://github.com/dynup/kpatch/commit/87ca62d8de27dcec9429e879284e948e68dcd02d)
 - [Kronosnet](https://github.com/kronosnet/kronosnet/commit/83db59ac82bd2d50431334d74d943ad7f0edea56)
