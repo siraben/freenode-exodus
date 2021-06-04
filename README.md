@@ -462,6 +462,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [RDO](https://lists.rdoproject.org/pipermail/dev/2021-May/009568.html) (to OFTC)
 - [re:Web](https://github.com/apparentorder/reweb/commit/9a1dd5abcb9cefffef05bf8ce3eca096a44ec27b)
 - [Reprap](https://reprap.org/mediawiki/index.php?title=IRC&diff=189073&oldid=186761)
+- [Reproducibility:NixOS (r13y.com)](https://github.com/grahamc/r13y.com/commit/a88c45e9b56bf82728ff9aa3021d359c3486091b) (to Matrix)
 - [restic](https://twitter.com/resticbackup/status/1399049594672136193)
 - [Retro Forth](https://www.patreon.com/posts/51959256)
 - [#revspace](https://twitter.com/revspace/status/1395050989514862593)
