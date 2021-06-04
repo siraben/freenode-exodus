@@ -560,6 +560,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Void Linux](https://voidlinux.org/news/2021/05/libera.html)
 - [Vouch](https://github.com/vouch/vouch-proxy/commit/1a3c67a7f1cfdd5fe3739fbcb6d6f78b3bf64002)
 - [WA7VC](https://github.com/wa7vc/wa7vc.org/commit/57ee00dd4143d02ac002009e22164db86d76943f)
+- [Wazo Platform](https://github.com/wazo-platform/wazo-platform.org/commit/0f3601ab5b152d35fd56842566ee301f03b781ba) (to Mattermost)
 - [wayvnc](https://github.com/any1/wayvnc/commit/3b6a07a3b6fe1e6ce3d5505fed09263bb6557019)
 - [Webarchitects Co-op](https://twitter.com/webarchcoop/status/1395071291066142724)
 - #web
