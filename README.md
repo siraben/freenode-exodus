@@ -550,6 +550,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Ubuntu](https://fridge.ubuntu.com/2021/05/26/announcing-ubuntus-move-to-libera-chat/)
 - [UHF Satcom](https://twitter.com/uhf_satcom/status/1397499724505174016) (to Discord)
 - [UIUCLUG](https://github.com/gnulug/gnulug.github.io/commit/43aab08d8df8e64d79e87a35c9547786290bc719)
+- [Ulfius](https://github.com/babelouest/ulfius/commit/adac160a9f7be6858e645befeccfe6683d38ec7f)
 - [Ultimate Hacking Keyboard](https://twitter.com/AmNicd/status/1397950492333035535)
 - [Unknown Horizons](https://twitter.com/uhorizons/status/1397152583475679234)
 - [Vabal](https://github.com/vabal/vabal/pull/25)
