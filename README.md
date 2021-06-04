@@ -404,6 +404,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenZFS](https://github.com/openzfs/openzfs-docs/pull/167)
 - [OpenZFS on OS X](https://twitter.com/openzfsonosx/status/1397724943433961476)
 - [OpenMW](https://github.com/OpenMW/openmw/commit/b2791fd487d016754123bc6ce865c85ae2423f33)
+- [OpenRW](https://github.com/rwengine/openrw/commit/30856790f11f0b4de1a6ac463b9d0fb80c5d9da4)
 - [OPNsense](https://forum.opnsense.org/index.php?topic=23400.0)
 - Org mode
 - [OSDev.org](https://wiki.osdev.org/index.php?title=Chat&diff=25945&oldid=24997)
