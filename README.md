@@ -49,6 +49,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [bitbot](https://github.com/jesopo/bitbot/commit/5f895544a80e47a32a07cfd6f4a06897f26cca4d)
 - [Bitcoin Core](http://www.erisian.com.au/bitcoin-core-dev/log-2021-05-20.html#l-582)
 - [BizHawk](https://github.com/TASVideos/BizHawk/commit/be575c96f0d1c441df2c48243c7c50015bdcc582#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
+- [Bleve](https://github.com/blevesearch/blevesearch.github.io-hugo/commit/eeadb6013150a43306b5743710e4ebf50f12ef3d) (to Gitter)
 - [Blue Nebula](https://github.com/blue-nebula/base/commit/c94285ad13a1303c48c7d3dac7cc9481c90d6425)
 - [Bluespec Compiler](https://github.com/B-Lang-org/bsc/commit/429f46ede68723864d6db517faaba6d2b2027971)
 - [Bootstrappable](https://www.freelists.org/post/bootstrappable/Freenode,1)
