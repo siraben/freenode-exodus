@@ -238,6 +238,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [interchange commerce](https://www.interchangecommerce.org/i/dev/news?mv_arg=00066)
 - [invidious (moved to Matrix)](https://github.com/iv-org/invidious/commit/9b6c5c08d82742d94a2615a91a0134dc6df79dc8)
 - [ioquake3](https://ioquake3.org/ioquake3/ioquake3-irc-moved-to-libera/)
+- [IPFS](https://github.com/ipfs/website/pull/427) (to Matrix and Discord)
 - [#ipv6](https://wiki.debian.org/IPv6?action=diff&rev1=14&rev2=15)
 - [iPXE](https://twitter.com/ipxe/status/1398251984168402945)
 - [ircdocs.horse](https://github.com/ircdocs/ircdocs.horse/commit/e364ce9e75d9c92a1a6f08367ab5c2bc14ceb219)
