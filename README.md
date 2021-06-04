@@ -145,6 +145,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Exim](https://www.mail-archive.com/exim-users@exim.org/msg55962.html)
 - [exult](https://github.com/exult/exult/commit/e4ccd759be207939764528949dd877a5be826b02)
 - [EyeInTheSky IRC Bot](https://github.com/stwalkerster/eyeinthesky/commit/846cd238497027d7541df21944aac352ad7ffb90)
+- [Fabric](https://github.com/fabric/fabric/commit/e99faffa1c7056533d36408606f12c29726fd242) (to personal blog)
 - [Fantasya](https://github.com/fantasya-pbem/website/pull/74)
 - [fceux](https://github.com/TASVideos/fceux/commit/f5668dbf8b0946b1b3c79fd7fa4aeb101507b015)
 - [Fcitx](https://groups.google.com/g/fcitx-announce/c/_OTy4QRpT2E/m/RS_0DTMLAQAJ)
