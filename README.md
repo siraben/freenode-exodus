@@ -279,6 +279,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Libreswan](https://twitter.com/Libreswan/status/1397717922877935622)
 - [Limnoria](https://github.com/ProgVal/Limnoria/commit/04facade82b778482d4173a86b753945a1b72632)
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
+- [#linux-amlogic](https://lore.kernel.org/linux-amlogic/d522cbb8-af11-a835-27f2-5c13fcaa4a4d@baylibre.com/T/#u)
 - [LinuxCNC](https://linuxcnc.org/2021/06/02/IRC-Server-Change/)
 - [LinuxGameCast](https://twitter.com/VennStone/status/1397280409080238085)
 - [Linu.X-lab](https://github.com/LinuX-lab/LinuX-lab.github.io/commit/6ea5caf5d6b900a7b32753eca7442a1dc03d96cc)
