@@ -466,6 +466,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Rizin](https://github.com/rizinorg/website/commit/24309365e91073e1e1c3c02acf1c01ec576b3995)
 - #r/linux
 - [rms-support-letter](https://twitter.com/jobbautista9/status/1397418371814092806)
+- [Robigalia](https://gitlab.com/robigalia/meta/-/commit/d0fbf90ba31720e2850be259c3aa2154c4fb7ea0)
 - [Rockbox](https://www.rockbox.org/irc/)
 - [Rocky Linux](https://twitter.com/nazunalika/status/1395957548168089602)
 - Rocm (to OFTC)
