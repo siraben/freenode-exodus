@@ -527,6 +527,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
 - [SouthEast LinuxFest](https://twitter.com/SELinuxFest/status/1397941939345969157)
 - [SPIP](https://blog.spip.net/L-IRC-spip-demenage-de-freenode-net-a-libera-chat.html)
+- [Subcarpathian BSD User Group](https://github.com/sbug/www.sbug.org/commit/ff678ec33c26dd305775a21075e1af19a1bfcf3e) (to Matrix)
 - [Sudo Room](https://sudoroom.org/mediawiki/index.php?title=IRC&type=revision&diff=11787&oldid=11762)
 - [Sugar Labs](https://github.com/sugarlabs/sugar-docs/commit/36365a4c6630936a60309503da7499bc00574a8c) (to Matrix)
 - [SuperTuxKart](https://github.com/supertuxkart/stk-code/commit/5fed067b9c0814e861930ebeefa93750947ed574)
