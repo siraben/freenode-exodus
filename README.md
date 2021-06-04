@@ -330,6 +330,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Mastodon](https://github.com/tootsuite/mastodon/pull/16279)
 - [Mate SlackBuilds](https://github.com/mateslackbuilds/mateslackbuilds.github.io/commit/ed69853eaed2af9637c562c0fe2775fcc291ca82)
 - [Matroska](https://github.com/Matroska-Org/infrastructure/commit/c2486933198ede1aba71e0c805404909566ff2b7)
+- [matterbridge](https://github.com/42wim/matterbridge/commit/c7897cca5d61bbe3579403fbbef62c0d70779876)
 - [mblaze](https://github.com/leahneukirchen/mblaze/commit/6684f74f0719be15fad22df73723380b91c3b71e)
 - [McCLIM](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
 - [Mednafen](https://github.com/mednafen/mednafen.github.io/commit/f20664e6c24be8c1c6a7ad76b7c31c67c209d370) (to OFTC)
