@@ -426,7 +426,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - [Project Apollo - NASSP](https://twitter.com/Thymo_/status/1397807574754467841)
 - [Project Bureau](https://github.com/whitequark/prjbureau/commit/9a3f25da19dc42dab29865cbfef312dcc8f2e82a)
-- #proghq
+- [proghq.org](https://proghq.org/wiki/index.php?title=Main_Page&diff=791&oldid=663)
 - [Prometheus](https://twitter.com/PrometheusIO/status/1396132359037149189)
 - [Pulp Project](https://twitter.com/pulpproj/status/1397532195594645509)
 - [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/Community/#ircandmatrix)
