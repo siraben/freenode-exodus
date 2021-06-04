@@ -288,6 +288,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#linux-amlogic](https://lore.kernel.org/linux-amlogic/d522cbb8-af11-a835-27f2-5c13fcaa4a4d@baylibre.com/T/#u)
 - [LinuxCNC](https://linuxcnc.org/2021/06/02/IRC-Server-Change/)
 - [LinuxGameCast](https://twitter.com/VennStone/status/1397280409080238085)
+- [LinuxTV](https://lore.kernel.org/linux-media/20210529105037.5d424f6c@coco.lan/T/) (to OFTC)
 - [Linu.X-lab](https://github.com/LinuX-lab/LinuX-lab.github.io/commit/6ea5caf5d6b900a7b32753eca7442a1dc03d96cc)
 - #linux-exynos
 - [Linux From Scratch](https://lists.linuxfromscratch.org/sympa/arc/lfs-admin/2021-05/msg00032.html)
