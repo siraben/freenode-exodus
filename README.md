@@ -602,6 +602,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [WSL Utilities](https://twitter.com/wslutilities/status/1396974355226128384)
 - [wxWidgets](https://www.wxwidgets.org/news/2021/05/irc-channel-moving-to-libera-chat/)
 - [X.Org](https://www.x.org/wiki/XorgIRC/) (to OFTC)
+- [Xandikos](https://github.com/jelmer/xandikos/commit/703d24ffff098b7272d46ad58b36676f20dcde96) (to OFTC)
 - [Xapian](https://github.com/xapian/xapian/commit/7c993a621a5ff99689ac9f66e6f36199b8f98a8e)
 - [XCP-ng](https://github.com/xcp-ng/xcp-ng-org/commit/ed5c47521c84c5287a969ddc167d2d8a2bc6ff67) (to OFTC)
 - [Xdebug](https://mobile.twitter.com/derickr/status/1397456884903317504)
