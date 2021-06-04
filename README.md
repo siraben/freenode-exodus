@@ -338,6 +338,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [McCLIM](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
 - [Mednafen](https://github.com/mednafen/mednafen.github.io/commit/f20664e6c24be8c1c6a7ad76b7c31c67c209d370) (to OFTC)
 - [MegaGlest](https://github.com/MegaGlest/megaglest-source/commit/d1ed68ef00add7561a16c5c51146e7e68b0cf736)
+- [Memory Pool System Kit](https://github.com/Ravenbrook/mps/commit/34a2ad77140666532e5f00a19cc0896efe0b1254) (to email)
 - [Mesa](https://lists.freedesktop.org/archives/mesa-dev/2021-May/225271.html) (to OFTC)
 - [Meson](https://mesonbuild.com/index.html#community) (to OFTC)
 - [Meson Build](https://twitter.com/mesonbuild/status/1397531239033278465) (to OFTC)
