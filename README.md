@@ -328,6 +328,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Meson](https://mesonbuild.com/index.html#community) (to OFTC)
 - [Meson Build](https://twitter.com/mesonbuild/status/1397531239033278465) (to OFTC)
 - [MetaBrainz](https://blog.metabrainz.org/)
+- [mew](https://github.com/mew-build/mew/commit/238cdb7078bea4cb6bfb0db98e517ed13092cca7)
 - [Mezzano](https://github.com/froggey/Mezzano/commit/1806ce1ca65e362b588864aa10f2da338bb7e2f6)
 - [mGBA](https://twitter.com/endrift/status/1397410356935282689)
 - [mgmtconfig](https://github.com/purpleidea/mgmt/commit/7d7e225823fd2920c425c9c9518f739a5989b541)
