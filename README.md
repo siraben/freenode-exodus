@@ -569,7 +569,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [XCP-ng](https://github.com/xcp-ng/xcp-ng-org/commit/ed5c47521c84c5287a969ddc167d2d8a2bc6ff67) (to OFTC)
 - [Xdebug](https://mobile.twitter.com/derickr/status/1397456884903317504)
 - [Xen](https://xenproject.org/help/irc/) (to OFTC)
-- [XFCE](https://github.com/xfce-mirror/www.xfce.org/commit/46998e4efeaa9c13799a250a6312c177518e57dd)
+- [XFCE](https://mail.xfce.org/pipermail/xfce/2021-June/037352.html)
 - [XFS](https://github.com/torvalds/linux/commit/9f5815315e0b93146d7b0be4d96ee2d74eeabb98) (to OFTC)
 - [XigmaNAS](https://twitter.com/XigmaNAS/status/1399497020398788611)
 - [Xmonad](https://twitter.com/xmonad/status/1397509701043097607)
