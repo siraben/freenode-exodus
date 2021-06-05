@@ -423,7 +423,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenLab Augsburg](https://github.com/openlab-aux/wikidata/commit/26d43ae546436d4f5653ac35a63bf07000f0b5d3)
 - [OpenLDAP](https://twitter.com/openldaporg/status/1397563699255255041)
 - [OpenMPTL](https://github.com/digint/openmptl/commit/017807807e1fed41040af200afa4046740135939)
-- [openMSX](https://github.com/openMSX/htdocs/commit/89182d6b4fe89b3e7bce7625d5853600ccf8cda9)
+- [openMSX](https://www.msx.org/news/en/openmsx-irc-channel-moves-to-liberachat)
 - [OpenSCAD](https://github.com/openscad/openscad.github.com/commit/36ad15af10cf6c60e16a9242bc6860ffc133ae5a)
 - [OpenStack](https://opendev.org/openstack/governance/src/branch/master/resolutions/20210526-move-irc-to-oftc.rst) (to OFTC)
 - [openSUSE](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/LCFCHULXR6774YKWKX5ASKQG3ABN6B3P/)
