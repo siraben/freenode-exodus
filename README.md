@@ -139,6 +139,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Emacs User Group Berlin](https://github.com/emacs-berlin/emacs-berlin.org/commit/920b7d30ddd5f2a2283f85316d5c557cd696acaf)
 - [Embeddable Common-Lisp](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
 - [Emfcamp](https://www.emfcamp.org/about/contact)
+- [Erbium](https://github.com/isomer/erbium/commit/41328e695cfe7b5cfd2d3f19641d5a0d828601a4)
 - ERC
 - [Esolangs](https://esolangs.org/w/index.php?title=Esolang:Community_portal&diff=83615&oldid=83522)
 - [ETS2 Job Logger](https://github.com/Lihis/ets2-job-logger/commit/b8369a21c0ae5a4aaf43e6ccdeef0342bf3e4e25)
