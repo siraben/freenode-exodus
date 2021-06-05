@@ -436,6 +436,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenRW](https://github.com/rwengine/openrw/commit/30856790f11f0b4de1a6ac463b9d0fb80c5d9da4)
 - [OPNsense](https://forum.opnsense.org/index.php?topic=23400.0)
 - [Opus project at Xiph](https://github.com/xiph/libopusenc/commit/63ba465a1fd9df109f0cd25d244db4030305e51f)
+- [organice](https://github.com/200ok-ch/organice/pull/693)
 - Org mode
 - [OSDev.org](https://wiki.osdev.org/index.php?title=Chat&diff=25945&oldid=24997)
 - [#ostc](https://twitter.com/zygoon/status/1397643651275280389)
