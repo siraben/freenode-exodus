@@ -612,6 +612,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [WordPress](https://make.wordpress.org/support/2021/06/new-irc-server-for-support/)
 - [WPE Webkit](https://twitter.com/WPEWebKit/status/1398285662206443523) (to OFTC)
 - [WSL Utilities](https://twitter.com/wslutilities/status/1396974355226128384)
+- [wxFormBuilder](https://github.com/redtide/wxformbuilder.github.io/commit/f2ba48e558aba8c08ebcb307ce857c688bc54025)
 - [wxWeaver](https://github.com/wxweaver/wxweaver.github.io/commit/c2bd5ba902012bf39c0538feb8a8004b296ac081)
 - [wxWidgets](https://www.wxwidgets.org/news/2021/05/irc-channel-moving-to-libera-chat/)
 - [X.Org](https://www.x.org/wiki/XorgIRC/) (to OFTC)
