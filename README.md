@@ -570,6 +570,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Systemd](https://lists.freedesktop.org/archives/systemd-devel/2021-May/046486.html)
 - [Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs/pull/1068)
 - [Tasks](https://github.com/tasks/tasks/commit/be33600ab2b03be768f516ce5d892181151fc3db)
+- [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior/discussions/2489)
 - [TASVideos](http://tasvideos.org/forum/viewtopic.php?t=22647)
 - [Team Fortress Wiki](https://wiki.teamfortress.com/w/index.php?title=Team_Fortress_Wiki:IRC&diff=2980701&oldid=2970773)
 - [The Foreman Project](https://twitter.com/ForemanProject/status/1397528127094538246)
