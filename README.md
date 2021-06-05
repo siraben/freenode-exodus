@@ -572,6 +572,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [TKKRLAB](https://twitter.com/tkkrlab/status/1398000477766291457)
 - [Toot](https://github.com/ihabunek/toot/commit/8f0bf27e5ebb06a9bad972b815b09f0939026f1c)
 - [Townforge](https://twitter.com/townforge/status/1397595704252588044)
+- [Toxic](https://github.com/JFreegman/toxic/commit/556a522637e9a83993b8fe850d600268d8e01b18)
 - [Tox Reference Implementation for Android](https://github.com/zoff99/ToxAndroidRefImpl/commit/49a409287d546e489a415741d73e4a2235aa4314)
 - [Toybox](https://github.com/landley/toybox/commit/6ce11972ecdf798872b0236b4921cb3ff35f7d29)
 - [TroLUG](https://github.com/TroLUG/trolug-nikola/commit/e843ecbd4f8ca773858d7659c029190f7d05ca28)
