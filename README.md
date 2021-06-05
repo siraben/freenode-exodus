@@ -294,6 +294,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
 - [LibreOffice](https://blog.documentfoundation.org/blog/2021/05/31/libreoffice-irc-channels-moving-to-libera-chat/)
 - [Libreswan](https://twitter.com/Libreswan/status/1397717922877935622)
+- [Liege Hackerspace](https://github.com/LgHS/site-web-front/commit/9409e7ee174d76946ae3d53d424e9d22de1d0d3e)
 - [Limnoria](https://github.com/ProgVal/Limnoria/commit/04facade82b778482d4173a86b753945a1b72632)
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
 - [#linux-amlogic](https://lore.kernel.org/linux-amlogic/d522cbb8-af11-a835-27f2-5c13fcaa4a4d@baylibre.com/T/#u)
