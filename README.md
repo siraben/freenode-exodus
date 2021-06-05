@@ -73,6 +73,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Calyxos](https://calyxos.org/news/2021/05/27/community-update/)
 - [calendar-cli](https://github.com/tobixen/calendar-cli/commit/301138ff8c7e76569b4f81d1f6cb94458328d41f) (to OFTC)
 - [Canvas-LMS](https://github.com/instructure/canvas-lms/commit/e4b3ccc4b424d1b727a70efd29f04a4f181bddc1)
+- [caronade](https://github.com/decke/caronade/commit/20ecb13f11b746e43b9c920733badeacd2b69700) (to Github)
 - [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/commit/ba504651dd5a1169a2c297f44af82878c85781e0)
 - [#cat-v](http://cat-v.org/about) (to OFTC)
 - [CentOS](https://blog.centos.org/2021/05/centos-irc-channels-moving-to-irc-libera-chat/)
