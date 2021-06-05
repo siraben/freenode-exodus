@@ -324,7 +324,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [lykos](https://github.com/lykoss/lykos/commit/3d7aab45066a1f12eb028dfcc80074cbee80b881)
 - [M36](https://github.com/agentm/project-m36/commit/ac193558ded79101ac65e08668236bfea9e91a35)
 - [MaadiX](https://twitter.com/MaadiXnet/status/1395320568317194247)
-- [MacPorts](https://www.macports.org/contact.php#IRC)
+- [MacPorts](https://github.com/macports/macports-www/commit/7fc05e4011b6487e9ea21657f9277edfa19bea17)
 - [Maddy Mail Server](https://github.com/foxcpp/maddy/commit/c8659ad18aac206b6b9345926c20d6f49a4daab0) (to OFTC)
 - [Madeinfr](https://twitter.com/madeinfr/status/1397849981327925252)
 - [Maemo Leste](https://maemo-leste.github.io/maemo-leste-irc-channel-migration.html)
