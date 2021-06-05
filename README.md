@@ -223,6 +223,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Hardened GNU/Linux](https://github.com/hardenedlinux/hardenedlinux.github.io/commit/3967d8f421a25585f43e79721af69a884298a910) (to OFTC)
 - [Hardfought](https://www.hardfought.org/libera-irc/)
 - [hashcat](https://hashcat.net/forum/thread-10134.html)
+- [haskell.nix](https://github.com/input-output-hk/haskell.nix/commit/85245c56f1517942f15542bd347e2f148c452ac5)
 - [Haskell](https://old.reddit.com/r/haskell/comments/nhkrfc/a_robust_haskell_ecosystem_is_now_active_on/)
 - [Haveno](https://github.com/haveno-dex/haveno-meta/issues/10)
 - [HearthSim](https://github.com/HearthSim/hearthsim.info/commit/b9736c8638a18c1daf3d082032ae18e846ef23d6) (to Discord)
