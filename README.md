@@ -55,7 +55,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Blue Nebula](https://github.com/blue-nebula/base/commit/c94285ad13a1303c48c7d3dac7cc9481c90d6425)
 - [Bluespec Compiler](https://github.com/B-Lang-org/bsc/commit/429f46ede68723864d6db517faaba6d2b2027971)
 - [BookBrainz](https://github.com/bookbrainz/bookbrainz-site/pull/644)
-- [Bootstrappable](https://www.freelists.org/post/bootstrappable/Freenode,1)
+- [Bootstrappable Builds](https://www.freelists.org/post/bootstrappable/Freenode,1)
 - [BorgBackup](https://github.com/borgbackup/borgbackup.github.io/pull/67)
 - #botters
 - [bpython](https://github.com/bpython/bpython/commit/2240883457342242f3b7f08699e913ece7471ef6) (to OFTC)
