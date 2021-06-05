@@ -5,6 +5,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 **Note:** I can only accept additional projects and channels to the list accompanied with a citation, which can be (but is not limited to): an official announcement, wiki page, git commit, IRC log, social media post by project lead/official account, etc.
 
 - [2600Hz](https://twitter.com/2600hertz/status/1397666224121782279)
+- [389 Directory Server](https://github.com/mreynolds389/389wiki/commit/d4c5df0329f71f0488e4264b5f7b9fab9020c89a)
 - [Aaru Data Preservation Suite](https://twitter.com/aaru_dps/status/1395179602574782471)
 - [abcde](https://abcde.einval.com/wiki/)
 - [Accidental Tech Podcast](https://twitter.com/atpfm/status/1400226064350199808)
