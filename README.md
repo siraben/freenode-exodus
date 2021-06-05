@@ -102,7 +102,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Cozy Cloud](https://twitter.com/cozycloud/status/1399266831244869635)
 - [Critter](https://github.com/oprypin/critter/commit/0ad3f3913d49ecb1ec7aea5d5b4bd220eb759a72)
 - [Crosstool-NG](https://github.com/crosstool-ng/crosstool-ng.github.io/pull/34)
-- [Crystal Lang](https://github.com/crystal-lang/crystal-website/commit/3336e081a0f6b8ab46634582ae0a5f8a80e45895)
+- [Crystal Lang](https://crystal-lang.org/2021/06/04/irc-channel-moved-to-libera-chat.html)
 - [ctjb](https://github.com/ctjb/ctjb.net/commit/d01b2006eb952930137d1bc2ca5add68b9348fb9)
 - [Cura](https://github.com/Ultimaker/Cura/commit/4d5894d0c5108d0053e5c1751142008241febd57)
 - [Curl](https://daniel.haxx.se/blog/2021/05/26/curl-7-77-0-200-ok/)
