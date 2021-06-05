@@ -455,6 +455,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [pimutils](https://github.com/pimutils/meta/pull/11)
 - [Pioneer Space Sim](https://github.com/pioneerspacesim/pioneer-hugo/commit/d38ca4b762c02f1ca8c66df749c19a7f1f557b74)
 - [PipeWire](https://github.com/PipeWire/pipewire/commit/653c60b7cca17862e3f76679efb289c7e0f4e25f) (to OFTC)
+- [Pistache](https://github.com/pistacheio/pistache/commit/eb57620cb4619cb69265eef54926f975cdefb12e)
 - [Pithos](https://github.com/pithos/pithos.github.io/commit/eb2c20fccf460088451d771d9b267e6b03126249) (to Github)
 - [PiVPN](https://github.com/pivpn/pivpn/commit/5aa0de636f32fd674b77a2b3dd64d97b51680707)
 - [pkgconf](https://github.com/pkgconf/pkgconf/commit/1f319c2608040739285bedc39f9cfb3791839a57) (to OFTC)
