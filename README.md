@@ -392,6 +392,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Noncesense Research Lab](https://github.com/noncesense-research-lab/noncesense-research-lab.github.io/commit/128f420c85f7bba94862d933478199a852c49508)
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
 - [Notmuch](https://github.com/notmuch/notmuch-wiki/commit/14bd0939d030873725ced673ab2c86fa3b1e6e7f)
+- [NuTyX GNU/Linux](https://github.com/NuTyX/nutyx.org/commit/70357bc1fe143bc196879b6b01abf0622766580e)
 - [Oasis Linux](https://github.com/oasislinux/oasis/commit/82d82e5331cd6eba6981d9d3837db8d5025eee13)
 - [Obarun](https://web.obarun.org/index.php?id=131)
 - [OCaml](https://inbox.ocaml.org/caml-list/20210526140102.GA22143@notk.org/t/)
