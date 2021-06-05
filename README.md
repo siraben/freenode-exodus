@@ -469,6 +469,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Porteus](https://forum.porteus.org/viewtopic.php?f=48&p=82428&sid=fd768d3cbbacf4fc4b1be36456d31328)
 - [postmarketOS](https://wiki.postmarketos.org/wiki/Matrix_and_IRC) (to OFTC)
 - [PostgreSQL](https://www.postgresql.org/about/news/migration-of-postgresql-irc-channels-2216/)
+- [PowerShell](https://github.com/PowerShell/PowerShell/pull/15505)
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - [Project Apollo - NASSP](https://twitter.com/Thymo_/status/1397807574754467841)
 - [Project Bureau](https://github.com/whitequark/prjbureau/commit/9a3f25da19dc42dab29865cbfef312dcc8f2e82a)
