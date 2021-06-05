@@ -222,6 +222,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [hashcat](https://hashcat.net/forum/thread-10134.html)
 - [Haskell](https://old.reddit.com/r/haskell/comments/nhkrfc/a_robust_haskell_ecosystem_is_now_active_on/)
 - [Haveno](https://github.com/haveno-dex/haveno-meta/issues/10)
+- [HearthSim](https://github.com/HearthSim/hearthsim.info/commit/b9736c8638a18c1daf3d082032ae18e846ef23d6) (to Discord)
 - [helloSystem](https://github.com/helloSystem/docs/commit/2bb0f6a26b1e08705c6025fade70e7a775f86882)
 - [Helsinki Finite-State Technology](https://github.com/hfst/hfst/commit/3977c5c1ace1fc77fcc374fae8836c71b35bcb19) (to OFTC)
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm/commit/5b519afb22b932bb45debd7cb23c745465014c47)
