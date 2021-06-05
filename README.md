@@ -99,6 +99,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Convos](https://convos.chat/blog/2021/5/20/moving-from-freenode-to-libera)
 - [Coq](https://github.com/coq/www/pull/171/commits/be676ac59620cde52b16562024c951c9149d23a2)
 - [coreboot](https://doc.coreboot.org/community/forums.html)
+- [Coredump Hackerspace](https://github.com/coredump-ch/status/pull/139)
 - [CoreRAD](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
 - [Cozy Cloud](https://twitter.com/cozycloud/status/1399266831244869635)
 - [Critter](https://github.com/oprypin/critter/commit/0ad3f3913d49ecb1ec7aea5d5b4bd220eb759a72)
