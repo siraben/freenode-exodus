@@ -437,6 +437,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [PBUI Project](https://github.com/pbui-project/pbui-main/commit/70ee305cc8c1293d775c3a5c7acc3deb8b0cef32)
 - [#PDP-10](https://twitter.com/larsbrinkhoff/status/1397805807761334272)
 - [PeerTube](https://github.com/Chocobozzz/PeerTube/commit/462271edd693cffb9242ca1e33d64cb0423e4b29)
+- [pekwm](https://github.com/pekwm/pekwm.github.io/commit/cff075434d222633ebac0ac5a727e685399dd366)
 - [Pepper & Carrot](https://www.davidrevoy.com/article847/the-official-chat-room-moved)
 - [Perl](https://github.com/Perl/perl5/commit/1b4abd7a1176bbccd4448de637474be7e72f8a57)
 - [PE Resource Kit](https://github.com/midipix-project/perk/commit/daf7994ca1bee9b4c1b2966ff0ece64b252d58bb)
