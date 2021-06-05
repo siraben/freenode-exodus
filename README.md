@@ -593,6 +593,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Tübix](https://github.com/tuebix/tuebixorg/pull/16)
 - [TurrisTech](https://mobile.twitter.com/turris_cz/status/1397474712914104323) (to OFTC)
 - [Twisted Matrix Labs](https://twitter.com/glyph/status/1395125137674960896)
+- [Typhoon](https://github.com/poseidon/typhoon/pull/995) (to Github)
 - [Ubuntu Arizona LoCo Team](https://www.azloco.org/2021/05/27/azloco-irc-channel-change/)
 - [Ubuntu Budgie](https://github.com/UbuntuBudgie/budgie-welcome/commit/ab8cd3b8981e595173047e3feda70c4366bcc75b)
 - [Ubuntu Cinnamon Remix](https://twitter.com/UbuntuCinnamon/status/1397608624172720136)
