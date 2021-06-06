@@ -122,6 +122,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Devuan](https://lists.dyne.org/lurker/message/20210521.130524.7ce9e65d.en.html)
 - [Desmume](https://wiki.desmume.org/index.php?title=Faq&oldid=8930)
 - [DFeed](https://github.com/CyberShadow/DFeed/commit/33c3bedfc8a45141884a0242df344a260b1bb169)
+- [dircproxy](https://github.com/w8tvi/dircproxy/wiki/Dircproxy-IRC-Channel/_compare/e978da216e89082ab9d88d0c4aee371f7b532b37...bb5e26de7880822a48e0e33c560e60fa57338b6f)
 - [DiscFerret](https://discferret.com/w/index.php?title=DiscFerret&type=revision&diff=428&oldid=421)
 - [diaspora](https://blog.diasporafoundation.org/69-our-irc-channels-have-moved-to-libera-chat)
 - [Distrap](https://github.com/distrap/website/commit/3da1568e752aaf296f1eee9a1ddd5e82ae468160)
