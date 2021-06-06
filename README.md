@@ -177,6 +177,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [FreeBSD](https://wiki.freebsd.org/IRC/Official-FreeBSD-IRC-channels-now-on-Libera-Chat)
 - [freedesktop](https://www.freedesktop.org/wiki/GettingInvolved/) (to OFTC)
 - [FreedroidRPG](https://www.freedroid.org/2021/05/20/moving-to-libera-chat/)
+- [FreeGameDev](https://forum.freegamedev.net/viewtopic.php?f=20&t=17999) (to freegamedev.net IRC)
 - [FreeHL](https://github.com/eukara/freehl/commit/8dd9fad77164554adc2023eab6b8a21d15429f00)
 - [FreeIPA](https://github.com/freeipa/freeipa/commit/338f0bcecf3d5a36068d32ee8877aeba72096d52)
 - [FrOSCon](https://twitter.com/froscon/status/1397622678387843083)
