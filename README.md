@@ -278,6 +278,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [jenkins-debian-glue](https://github.com/mika/jenkins-debian-glue.org/commit/0c89d839078a7c7c486890a5b85f06f2ac42624d) (to OFTC)
 - [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver/pull/884)
 - [Kallithea Project](https://twitter.com/KallitheaSCM/status/1398695300315942912)
+- [Kanboard](https://github.com/kanboard/website/commit/a13a950f0a73a155be704fcd6fc23473fba3e1b3) (to forums)
 - [Kanshi](https://github.com/emersion/kanshi/commit/c5fd774040a28e99ea6e738cd822fd538ff9c599)
 - [KeePassXC](https://twitter.com/KeePassXC/status/1398426279133814785)
 - [KiCad](https://www.kicad.org/community/chat/)
