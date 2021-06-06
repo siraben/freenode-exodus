@@ -636,6 +636,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Webarchitects Co-op](https://twitter.com/webarchcoop/status/1395071291066142724)
 - #web
 - [WeeChat](https://twitter.com/WeeChatClient/status/1396932241951973383)
+- [Weechat-Android](https://github.com/ubergeek42/weechat-android/commit/0c53c00aa88881a68663c277604d683dd88ae576)
 - [Werewolf](https://werewolf.chat/)
 - [Weston](https://github.com/wayland-project/weston/commit/eaa5ecf8b28b72e890aed89e1797213fb31efd10) (to OFTC)
 - [Whim](https://github.com/jmacdotorg/whim/commit/ec6df95e814e64d62b677e0ee4948a3ead2fec46)
