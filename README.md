@@ -479,6 +479,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Project Bureau](https://github.com/whitequark/prjbureau/commit/9a3f25da19dc42dab29865cbfef312dcc8f2e82a)
 - [proghq.org](https://proghq.org/wiki/index.php?title=Main_Page&diff=791&oldid=663)
 - [Prometheus](https://twitter.com/PrometheusIO/status/1396132359037149189)
+- [Pubstandards London](https://github.com/pubstandards/pubstandards-london/commit/c2ebac5dc8e4c03078cf4410ff66940fabc4e19a)
 - [Pulp Project](https://twitter.com/pulpproj/status/1397532195594645509)
 - [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/Community/#ircandmatrix)
 - [purdueLUG](https://github.com/purdueLUG/purduelug.github.io/commit/69a35a274ebef30610fff5756d689d81305c53e9)
