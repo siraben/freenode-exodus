@@ -182,6 +182,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [FreeGameDev](https://forum.freegamedev.net/viewtopic.php?f=20&t=17999) (to freegamedev.net IRC)
 - [FreeHL](https://github.com/eukara/freehl/commit/8dd9fad77164554adc2023eab6b8a21d15429f00)
 - [FreeIPA](https://github.com/freeipa/freeipa/commit/338f0bcecf3d5a36068d32ee8877aeba72096d52)
+- [freenode-windows.org](https://www.freenode-windows.org/)
 - [FrOSCon](https://twitter.com/froscon/status/1397622678387843083)
 - [FSFE](https://fsfe.org/news/2021/news-20210525-01.de.html)
 - #fuchsia (to OFTC)
