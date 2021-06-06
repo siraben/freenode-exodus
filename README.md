@@ -193,6 +193,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Gentoo](https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html)
 - [GhettoForge](http://ghettoforge.org/index.php?title=News&curid=8&diff=201&oldid=181)
 - [GHC](https://twitter.com/bgamari/status/1395065974496317442)
+- [Gitolite](https://github.com/sitaramc/gitolite-doc/commit/c5df34e05a509f687de5fce5de6d65df62fe3fa9)
 - [Git](https://github.com/git/git-scm.com/commit/b1f3d65452a62a49b030587303ea3a0944561ed7)
 - [Gitolite](https://github.com/sitaramc/gitolite-doc/commit/c5df34e05a509f687de5fce5de6d65df62fe3fa9)
 - [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow/commit/5d9dd242cb8109350cadbd6c8b8354f5a889eba5)
