@@ -440,6 +440,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OSDev.org](https://wiki.osdev.org/index.php?title=Chat&diff=25945&oldid=24997)
 - [#ostc](https://twitter.com/zygoon/status/1397643651275280389)
 - [OSUOSL](https://github.com/osuosl/osuosl-pelican/pull/365)
+- [OTFBot](https://otfbot.org/docs/faq)
 - [Otter Browser](https://github.com/OtterBrowser/otter-browser/commit/623203887066d0e925b93dafd4778b0ff62f21c7)
 - Packetframe
 - [Packit](https://github.com/packit/packit.dev/pull/286)
