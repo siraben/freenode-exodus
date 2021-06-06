@@ -281,6 +281,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Jenkins](https://groups.google.com/g/jenkinsci-dev/c/pEcun5ZSfgo/m/ztRg03VNAgAJ)
 - [jenkins-debian-glue](https://github.com/mika/jenkins-debian-glue.org/commit/0c89d839078a7c7c486890a5b85f06f2ac42624d) (to OFTC)
 - [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver/pull/884)
+- [K-9 Mail](https://github.com/k9mail/k-9/wiki/Infrastructure/_compare/95b8b1aea4d6e192bc7c1889f08d2c63ace1e04f...a6a8c69951a61c4bcac78eb9c49be4bb79f55d9b)
 - [Kallithea Project](https://twitter.com/KallitheaSCM/status/1398695300315942912)
 - [Kanboard](https://github.com/kanboard/website/commit/a13a950f0a73a155be704fcd6fc23473fba3e1b3) (to forums)
 - [Kanshi](https://github.com/emersion/kanshi/commit/c5fd774040a28e99ea6e738cd822fd538ff9c599)
