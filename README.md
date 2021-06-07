@@ -70,7 +70,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [BundleWrap](https://github.com/bundlewrap/bundlewrap/commit/476bc2e8c83ed791bbaeff8d3d8310c54ee790e5)
 - [BunsenLabs](https://forums.bunsenlabs.org/viewtopic.php?id=7627)
 - [Buildroot](http://lists.busybox.net/pipermail/buildroot/2021-May/311170.html) (to OFTC)
-- [BZFlag](https://github.com/BZFlag-Dev/bzflag.org/commit/840e1222a41cb688a58b411544fa502620a7808e)
+- [BZFlag](https://forums.bzflag.org/viewtopic.php?f=8&t=20503)
 - [#c64friends](https://twitter.com/gholmer/status/1397570829437882368)
 - [cabal](https://github.com/cabal-club/cabal-club.github.io/commit/c86cf62e1ce6e90396435d4814edba1081d23273)
 - [Calamares](https://euroquis.nl//calamares/2021/05/26/calamares-communications.html)
