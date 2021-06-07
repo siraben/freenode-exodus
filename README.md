@@ -558,6 +558,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [SFZ Format](https://github.com/sfzformat/sfzformat.github.io/commit/19c91f4cac4a2d7963fe45981a0e9b7591dcc285)
 - [Shadytel](https://twitter.com/shadytel/status/1397394351274164225)
 - [Sheffgeeks](https://github.com/sheffgeeks/sheffgeeks.github.io/commit/a19b7bdc6fd8a773588005ab80d33931243c6438)
+- [Shinra](https://github.com/pulkomandy/shinra.github.io/commit/b0b95ceebe391749ecb6d7b1abe8d6bc1dade3da)
 - [SickGear](https://github.com/SickGear/SickGear/commit/b7bb9dc61e52011c282cee1b6506af363457c8d8)
 - [Silicon Valley Linux User Group (SVLUG)](http://www.svlug.org/policies/list-policy.php)
 - [Siouxland Linux Users Group](https://github.com/sluglinux/sluglinux.github.io/commit/1e3e020b45b043e8d3e85ebdc857acdc37e2aa9d)
