@@ -370,6 +370,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Mezzano](https://github.com/froggey/Mezzano/commit/1806ce1ca65e362b588864aa10f2da338bb7e2f6)
 - [mGBA](https://twitter.com/endrift/status/1397410356935282689)
 - [mgmtconfig](https://github.com/purpleidea/mgmt/commit/7d7e225823fd2920c425c9c9518f739a5989b541)
+- [microG](https://www.reddit.com/r/MicroG/wiki/index?v=fa7b58fb-659d-11eb-81ee-0e85011aec0d&v2=4061fb19-c745-11eb-bc02-0e174e276ec1)
 - [Minecraft devs](https://github.com/dmulloy2/ProtocolLib/commit/72c1f3e26cedf4b9e412bd1d3c38cc33ed1c8f07)
 - [Minecraft Overviewer](https://overviewer.org/blog/2021/5/22/the-irc-channel-has-moved/)
 - [Minetest](https://wiki.minetest.net/index.php?title=IRC&diff=26329&oldid=23933)
