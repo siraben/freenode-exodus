@@ -627,6 +627,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [VBA-M](https://twitter.com/visualboyam/status/1401682618773610496)
 - [VCF Berlin](https://twitter.com/vcfberlin/status/1397549217678245889)
 - [Vegastrike](https://github.com/vegastrike/vegastrike.github.io/pull/26)
+- [Veil2](https://github.com/marcmunro/veil2/commit/bcd7701494b2c1554aae5f05f7eddb97612203ac)
 - [VisiData](https://twitter.com/saulfp/status/1397390668440379392)
 - [VICE](https://github.com/VICE-Team/svn-mirror/commit/cdde9576b76d9b0f332af4eab85d48d43896c305)
 - [Vim](https://old.reddit.com/r/vim/comments/nlwwg4/vim_has_a_new_irc_home/)
