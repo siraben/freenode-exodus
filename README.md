@@ -617,6 +617,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Unknown Horizons](https://twitter.com/uhorizons/status/1397152583475679234)
 - [Vabal](https://github.com/vabal/vabal/pull/25)
 - [VARCem](https://github.com/VARCem/VARCem/commit/12eb6bfdc7ec8c60ca0d5a24c847b612b65088f0) (to irc.varcem.com)
+- [VBA-M](https://twitter.com/visualboyam/status/1401682618773610496)
 - [VCF Berlin](https://twitter.com/vcfberlin/status/1397549217678245889)
 - [Vegastrike](https://github.com/vegastrike/vegastrike.github.io/pull/26)
 - [VisiData](https://twitter.com/saulfp/status/1397390668440379392)
