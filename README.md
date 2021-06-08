@@ -229,6 +229,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [hackeriet.no](https://twitter.com/hackeriet/status/1397480914981167104)
 - [hackerspace.pl](https://twitter.com/hackerspacepl/status/1397543122415067143)
 - ##hackers
+- [hackerspaces.org](https://wiki.hackerspaces.org/Communication#IRC)
 - [HackSoc](https://www.hacksoc.org/news/2021-05-25-moving-to-libera.html)
 - [Haiku](https://www.haiku-os.org/news/2021-05-19_haiku_is_moving_to_oftc/) (to OFTC)
 - [Hakierspejs Łódź](https://github.com/hakierspejs/homepage/pull/33)
