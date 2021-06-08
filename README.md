@@ -177,6 +177,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Fink Project](https://github.com/fink/website/commit/3f9dfae3dca338b8ccd9454f9ac428ae136a8e1f)
 - [firestr.com](https://twitter.com/mempko/status/1397619360752029696)
 - [Flathub](https://github.com/flathub/flathub/pull/2367) (to Matrix)
+- [Fluid](https://github.com/fluid-project/.github/pull/6/files) (to Matrix)
 - [fog](https://github.com/fog/fog.github.com/commit/682c4f8a8732cc0cd4122990b221e7470e97f95f) (to GitHub)
 - [foot](https://codeberg.org/dnkl/foot/commit/18364fd547119809db83ecab32e65b590dbdc615)
 - [FOSDEM](https://fosdem.org/2021/news/2021-05-26-libera/)
