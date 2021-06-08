@@ -408,7 +408,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Netfilter](https://www.spinics.net/lists/netfilter/msg60216.html)
 - [Nethack](https://nethackwiki.com/mediawiki/index.php?title=Freenode&action=history)
 - [NetworkManager](https://github.com/NetworkManager/NetworkManager/commit/95085acec3a2d5887fc4411408e986c9b34339e6)
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe/commit/26c535db84246b16a86f31a8c22ac47df68da7df)
+- [NewPipe](https://newpipe.net/blog/pinned/irc-move/)
 - [Newsboat](https://github.com/newsboat/newsboat/commit/c3f6e6e5ebfda77e842dc0becf8386d357b5bcb5)
 - [NewtonScript](https://twitter.com/newtonscript/status/1397964060331757572)
 - [Nicotine+](https://github.com/Nicotine-Plus/nicotine-plus/commit/0dc369989065f681400cce8676f9a0dfef3e4a0d)
