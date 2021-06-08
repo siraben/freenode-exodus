@@ -688,6 +688,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Zig](https://twitter.com/andy_kelley/status/1397388932367601665)
 - [ZNC](https://wiki.znc.in/index.php?title=FAQ&curid=116&diff=2806&oldid=2771)
 - [zrepl - ZFS Replication](https://twitter.com/problame/status/1395297201530810374) (to Matrix)
+- [Zuul](https://twitter.com/ZuulCI/status/1402054022660509701) (to OFTC)
 - [Yocto Project](https://lists.yoctoproject.org/g/yocto/message/53737)
 - [Zsh](https://www.zsh.org/mla/users/2021/msg00455.html)
 - [zynaddsubfx](https://github.com/zynaddsubfx/zyn-website/commit/e9074ab31e8d0681f017ac860fb80a781a971238)
