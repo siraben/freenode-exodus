@@ -14,6 +14,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
 - [afew](https://github.com/afewmail/afew/commit/8ef9a5b73e5d1063cf912c70027c655fb19d1109)
 - [Agda](https://wiki.portal.chalmers.se/agda/Main/Community?action=diff#diff1622023591)
+- [Airship](https://twitter.com/airshipproject/status/1402052776083984385) (to OFTC)
 - [#algorithms](https://twitter.com/susam/status/1395738326364160009)
 - [Allegro](https://liballeg.org/irc.html)
 - [All Hands Active](https://github.com/allhandsactive/site/commit/dd0d1fdd6803d1f229c87384ec87f0055b05c7e6) (to tilde.chat)
