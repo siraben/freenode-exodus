@@ -6,6 +6,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 
 - [2600Hz](https://twitter.com/2600hertz/status/1397666224121782279)
 - [389 Directory Server](https://lists.fedoraproject.org/archives/list/389-announce@lists.fedoraproject.org/thread/3YGORSLC4LSNR7NRCAWG6MATMPS2SF6Q/)
+- [801 Labs](https://github.com/801labs/website/pull/29)
 - [Aaru Data Preservation Suite](https://twitter.com/aaru_dps/status/1395179602574782471)
 - [abcde](https://abcde.einval.com/wiki/)
 - [Accidental Tech Podcast](https://twitter.com/atpfm/status/1400226064350199808)
