@@ -409,7 +409,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Newsboat](https://github.com/newsboat/newsboat/commit/c3f6e6e5ebfda77e842dc0becf8386d357b5bcb5)
 - [NewtonScript](https://twitter.com/newtonscript/status/1397964060331757572)
 - [Nicotine+](https://github.com/Nicotine-Plus/nicotine-plus/commit/0dc369989065f681400cce8676f9a0dfef3e4a0d)
-- NixOS - [official chat to Matrix](https://github.com/NixOS/rfcs/pull/94/) [IRC to Libera](https://github.com/nix-community/awesome-nix/commit/6216bf4817ea2c97840673683d8be6e780cd6902)
+- [NixOS](https://github.com/NixOS/rfcs/pull/94/) (to Matrix), [IRC channels to Libera](https://github.com/nix-community/awesome-nix/commit/6216bf4817ea2c97840673683d8be6e780cd6902)
 - [nMigen](https://github.com/nmigen/nmigen/commit/e974a31022d8ba1ee67bd49c82a11fa7a0a71145)
 - [NMState](https://github.com/nmstate/nmstate.github.io/commit/4c5e0e63b52e912d6b5b9d0b7c68611eaff7d815)
 - [node-dmx](https://github.com/node-dmx/dmx/commit/27964fa77dc6c70f0a5ea3d632910cf8543cd65e)
