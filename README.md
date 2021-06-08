@@ -556,6 +556,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Scuttlebutt](https://github.com/ssbc/ssb-server/commit/2ba6d6dc465e9812cbe05a3d045b183853397850)
 - [Seattle GNU/Linux Conference ](https://github.com/SeaGL/seagl.github.io/commit/ca65a364735e45f8ffd68373c0a855e9cd590c70)
 - [Selenium](https://www.selenium.dev/blog/2021/moving-to-libera-chat/)
+- [SerenityOS](https://github.com/SerenityOS/serenity/commit/675b0aee2471d63b436577ccdec3a7d23a527014)
 - [serious-bg](https://github.com/Binaergewitter/serious-bg/commit/50469265a916c48ec23d46dc1557c250b0e1e45d)
 - [SFZ Tools](https://github.com/sfztools/sfztools.github.io/commit/7e2bca6f723b41364dbbc4dbe2fabb34ee102b68)
 - [SFZ Format](https://github.com/sfzformat/sfzformat.github.io/commit/19c91f4cac4a2d7963fe45981a0e9b7591dcc285)
