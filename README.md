@@ -624,6 +624,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Tox Reference Implementation for Android](https://github.com/zoff99/ToxAndroidRefImpl/commit/49a409287d546e489a415741d73e4a2235aa4314)
 - [Toybox](https://github.com/landley/toybox/commit/6ce11972ecdf798872b0236b4921cb3ff35f7d29)
 - [TroLUG](https://github.com/TroLUG/trolug-nikola/commit/e843ecbd4f8ca773858d7659c029190f7d05ca28)
+- [Tuna](https://github.com/tuna/tuna.moe/commit/dbc0f106417945c26c67968528a72ba9518bd5ea)
 - [Tuner](https://github.com/louis77/tuner/commit/ca1b93630229f8710551665e78d2d88f3f4adcab)
 - [TVL](https://cl.tvl.fyi/c/depot/+/3134) (to hackint)
 - [Tübix](https://github.com/tuebix/tuebixorg/pull/16)
