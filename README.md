@@ -480,6 +480,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Pepper & Carrot](https://www.davidrevoy.com/article847/the-official-chat-room-moved)
 - [Perl](https://github.com/Perl/perl5/commit/1b4abd7a1176bbccd4448de637474be7e72f8a57)
 - [PE Resource Kit](https://github.com/midipix-project/perk/commit/daf7994ca1bee9b4c1b2966ff0ece64b252d58bb)
+- [PHP](https://github.com/php/web-php/pull/409)
 - [PicoLisp](https://www.mail-archive.com/picolisp@software-lab.de/msg10639.html)
 - [pimutils](https://github.com/pimutils/meta/pull/11)
 - [Pioneer Space Sim](https://github.com/pioneerspacesim/pioneer-hugo/commit/d38ca4b762c02f1ca8c66df749c19a7f1f557b74)
