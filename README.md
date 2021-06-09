@@ -23,6 +23,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Anbox](https://github.com/anbox/anbox/pull/1818)
 - [Anklang](https://github.com/tim-janik/anklang/commit/074e7b9b53a2cb9c0e5a064182383aa3a25b9095)
 - [Ansible](https://github.com/ansible/community/pull/614)
+- [Anthon Open Source Community (AOSC)](https://aosc.io/news/posts/2021-06-08-libera-project-registration/)
 - [Apache CouchDB](https://twitter.com/CouchDB/status/1395389989345800201)
 - [Apache HTTPD](https://cwiki.apache.org/confluence/pages/diffpagesbyversion.action?pageId=115522340&selectedPageVersions=54&selectedPageVersions=53)
 - [Apache Subversion](https://github.com/apache/subversion/commit/63f9ded5eb26f03a3d490aea98c500439179452b)
