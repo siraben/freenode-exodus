@@ -251,6 +251,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Helsinki Finite-State Technology](https://github.com/hfst/hfst/commit/3977c5c1ace1fc77fcc374fae8836c71b35bcb19) (to OFTC)
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm/commit/5b519afb22b932bb45debd7cb23c745465014c47)
 - [HexChat](https://hexchat.github.io/news/hexchat-channel.html)
+- [HipHopVM](https://github.com/hhvm/hhvm.com/pull/132) (to Slack)
 - [hledger](https://groups.google.com/g/hledger/c/9NQ_1_ng1XM/m/OeRFIMbxBQAJ)
 - [Home Manager](https://discourse.nixos.org/t/home-manager-irc-move-to-oftc/13352) (to OFTC)
 - [##homebrewcpu](https://twitter.com/sarahemm/status/1397564338865639424)
