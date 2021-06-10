@@ -14,7 +14,7 @@ jobs:
       - name: Check for duplicates
         run: nix-shell -p ghc --run 'runhaskell sort.hs'
       - name: Check for sortedness of leave list
-        run: git --no-pager diff --no-index a.txt a-sorted.txt
+        run: git --no-pager diff --exit-code --no-index a.txt a-sorted.txt
       - name: Check for sortedness of stay list
-        run: git --no-pager diff --no-index b.txt b-sorted.txt
+        run: git --no-pager diff --exit-code --no-index b.txt b-sorted.txt
 
