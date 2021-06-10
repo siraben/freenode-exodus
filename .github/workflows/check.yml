@@ -1,0 +1,20 @@
+name: Check
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: Check list
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2.3.1
+      - uses: cachix/install-nix-action@v12
+        with:
+          nix_path: nixpkgs=channel:nixos-unstable
+      - name: Check for duplicates
+        run: nix-shell -p ghc --run 'runhaskell sort.hs'
+      - name: Check for sortedness of leave list
+        run: git --no-pager diff --no-index a.txt a-sorted.txt
+      - name: Check for sortedness of stay list
+        run: git --no-pager diff --no-index b.txt b-sorted.txt
+
