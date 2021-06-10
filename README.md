@@ -86,6 +86,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/commit/ba504651dd5a1169a2c297f44af82878c85781e0)
 - [CentOS](https://blog.centos.org/2021/05/centos-irc-channels-moving-to-irc-libera-chat/)
 - [cgit](https://lists.zx2c4.com/pipermail/cgit/2021-May/004637.html)
+- [Chaos Computer Club Stuttgart (CCCS)](https://github.com/cccs/cccs-website/commit/d1486d20bb83fa035c8f4dd1959892867cb45658)
 - [Chaskis](https://github.com/xforever1313/Chaskis/commit/8a738f6aef1e832a4a1bc4b49725bb4251d32f21)
 - [ChiBUG: The Chicago Area BSD Users Group](https://github.com/jcs/chibug.org/commit/6a80c11a1e2c9c5f6c346ef79dface90e0029147)
 - [CHICKEN scheme](https://www.mail-archive.com/chicken-hackers@nongnu.org/msg07917.html)
