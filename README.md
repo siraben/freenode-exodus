@@ -299,6 +299,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Kallithea Project](https://twitter.com/KallitheaSCM/status/1398695300315942912)
 - [Kanboard](https://github.com/kanboard/website/commit/a13a950f0a73a155be704fcd6fc23473fba3e1b3) (to forums)
 - [Kanshi](https://github.com/emersion/kanshi/commit/c5fd774040a28e99ea6e738cd822fd538ff9c599)
+- [Kata Containers](https://twitter.com/katacontainers/status/1402687305828212741) (to OFTC)
 - [KeePassXC](https://twitter.com/KeePassXC/status/1398426279133814785)
 - [#kerberos](https://github.com/krb5/krb5/commit/dbdde71a924777f271288f64012c6f2fa08fdda9)
 - [KiCad](https://www.kicad.org/community/chat/)
