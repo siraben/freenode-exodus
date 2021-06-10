@@ -312,6 +312,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Kronosnet](https://github.com/kronosnet/kronosnet/commit/83db59ac82bd2d50431334d74d943ad7f0edea56)
 - [Kvazaar](https://github.com/ultravideo/kvazaar/commit/28595ed1cf32f89f23fc7692bdceafb3e0e42ec4)
 - [KVIrc](https://github.com/kvirc/kvirc-www/commit/1cdfbacc5d2f06f9120478cf7440be729b4c9d66)
+- [L2-zoology](https://github.com/ariard/L2-zoology/issues/10)
 - [Lab::Measurement](https://github.com/lab-measurement/Lab-Measurement/commit/8ba5ff69b4642b630b83d49cbde3e54c75154b9b)
 - [Launchpad](https://twitter.com/launchpadstatus/status/1398249939340304390)
 - [Leapp](https://github.com/oamg/leapp/commit/572626df9763abeb57d9c828e7c9b2f1c340c0e6)
