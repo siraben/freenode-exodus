@@ -187,6 +187,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [FOSDEM](https://fosdem.org/2021/news/2021-05-26-libera/)
 - [FOSSHOST](https://fosshost.org/news/libera-chat)
 - [Free Pascal](https://twitter.com/freepascaldev/status/1397492296866832384)
+- [Free Software Foundation](https://www.fsf.org/news/fsf-and-gnu-move-official-irc-channels-to-libera-chat-network)
 - [FreeBSD](https://wiki.freebsd.org/IRC/Official-FreeBSD-IRC-channels-now-on-Libera-Chat)
 - [freedesktop](https://www.freedesktop.org/wiki/GettingInvolved/) (to OFTC)
 - [FreedroidRPG](https://www.freedroid.org/2021/05/20/moving-to-libera-chat/)
