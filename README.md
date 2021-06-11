@@ -560,6 +560,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [RTL-SDR](https://www.rtl-sdr.com/freenode-rtlsdr-irc-channel-moving-to-libera/)
 - [RUA](https://github.com/vn971/rua/commit/3d4cce57ee69f4939b80c7e9ba8ce81b9204d0bd)
 - [Rust Bitcoin Community](https://github.com/rust-bitcoin/rust-bitcoin/commit/dc3d9eebaaed9c572a8fbc7ff65225e241401528)
+- [rust-libp2p](https://github.com/libp2p/rust-libp2p/pull/2096) (to forums)
 - [s6](https://github.com/skarnet/s6/commit/4101e5666234497c18cafd4de5959e44c5950b8b) (to OFTC)
 - [Salix-OS](https://github.com/Salix-OS/www.salixos.org/commit/411c54e0db46ca85543b31894d943986da7c31d9)
 - [Salt Project](https://github.com/saltstack/salt-enhancement-proposals/pull/46)
