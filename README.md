@@ -500,6 +500,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Podman](https://github.com/containers/podman/pull/10499)
 - [PonyMail](https://github.com/apache/incubator-ponymail-foal/commit/1752e2daab703f6caf5034818a9cfa21e459d3b2)
 - [Porteus](https://forum.porteus.org/viewtopic.php?f=48&p=82428&sid=fd768d3cbbacf4fc4b1be36456d31328)
+- [Portland Common Data Model (pcdm)](https://github.com/duraspace/pcdm/pull/76/files) (to Slack)
 - [PostgreSQL](https://www.postgresql.org/about/news/migration-of-postgresql-irc-channels-2216/)
 - [postmarketOS](https://wiki.postmarketos.org/wiki/Matrix_and_IRC) (to OFTC)
 - [PowerShell](https://github.com/PowerShell/PowerShell/pull/15505)
