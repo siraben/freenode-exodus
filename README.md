@@ -680,6 +680,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Wikimedia](https://meta.wikimedia.org/wiki/IRC/Migrating_to_Libera_Chat)
 - [wilug](https://github.com/wilug/wilug.github.com/commit/e2bdc7f54236c9ed44ccc1021e07098832759e87)
 - [Window Maker](https://github.com/window-maker/window-maker.github.io/pull/15/files)
+- [##windows](https://www.freenode-windows.org/about/channel-history)
 - [Wine](https://www.winehq.org/pipermail/wine-devel/2021-May/187836.html)
 - [WireGuard](https://lists.zx2c4.com/pipermail/wireguard/2021-May/006772.html)
 - [wolfy 1339](https://github.com/wolfy1339/wolfy1339.github.io/commit/59ce8f31af311494a8c5b21155403bc93f442912)
