@@ -617,6 +617,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior/discussions/2489)
 - [TASVideos](http://tasvideos.org/forum/viewtopic.php?t=22647)
 - [Team Fortress Wiki](https://wiki.teamfortress.com/w/index.php?title=Team_Fortress_Wiki:IRC&diff=2980701&oldid=2970773)
+- [Termux](https://github.com/termux/termux-packages/commit/0f9c536c1ac8d33963249512cb4b28dcb6036c1a)
 - [The Foreman Project](https://twitter.com/ForemanProject/status/1397528127094538246)
 - [The Lounge](https://twitter.com/TheLoungeChat/status/1395809924383330308)
 - [The Mana World](https://www.themanaworld.org/news#94-news-2021-05-28)
