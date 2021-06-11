@@ -701,6 +701,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [##yamahasynths](https://mastodon.social/@cr1901/106301729167887474)
 - [Yancy](https://github.com/preaction/Yancy/commit/9a70e3e2bedea5d21ea514e243920e0ca9b4017f)
 - [yaydl](https://github.com/dertuxmalwieder/yaydl/commit/25a81643635052d971949cd430542c76c523bf8b) (to OFTC)
+- [yiiframework](https://github.com/yiisoft-contrib/yiiframework.com/pull/815/files)
 - [Yocto Project](https://lists.yoctoproject.org/g/yocto/message/53737)
 - [Zapp](https://github.com/preaction/Zapp/commit/b4923d4a0596f22ea7ddbfcacf857973e31b9bf7)
 - [zbus](https://github.com/zeenix/zbus/commit/57c3328f35693b6e6cb55e810203a9b047b759b8) (to Matrix)
