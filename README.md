@@ -275,6 +275,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Inkscape](https://wiki.inkscape.org/wiki/index.php?title=Social_media&curid=25616&diff=120087&oldid=106376)
 - [inspectrum](https://github.com/miek/inspectrum/commit/054f686906969e87e5542196cbaa2fa03a1d4461)
 - [interchange commerce](https://www.interchangecommerce.org/i/dev/news?mv_arg=00066)
+- [Interim OS](https://github.com/mntmn/interim/commit/5841afb73e8b5b5f0fbbbe273fb4554b8582ad0a)
 - [invidious (moved to Matrix)](https://github.com/iv-org/invidious/commit/9b6c5c08d82742d94a2615a91a0134dc6df79dc8)
 - [ioquake3](https://ioquake3.org/ioquake3/ioquake3-irc-moved-to-libera/)
 - [IPFS](https://github.com/ipfs/website/pull/427) (to Matrix and Discord)
