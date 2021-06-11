@@ -602,6 +602,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Stacken](https://github.com/stacken/w3/commit/5c089d0558960655e0ac888c5adc814da3abce29)
 - [StarlingX](https://twitter.com/starlingx/status/1402657120999424009) (to OFTC)
 - [steam (python module)](https://github.com/ValvePython/steam/commit/f00e7b86cd8c70a9ea2cf867c840014f64ffc0b2)
+- [Stendhal](https://github.com/siraben/freenode-exodus/issues/96#issue-918169506)
 - STM32 Peripheral Access Crates (##stm32-rs) (to Matrix)
 - [strace](https://mobile.twitter.com/evgsyr/status/1397495752029523970) (to OFTC)
 - [StumpWM](https://github.com/stumpwm/stumpwm/commit/079f06c1d96526cf4a06580f95d69e3f2a35c1e2)
