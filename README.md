@@ -141,6 +141,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Distrap](https://github.com/distrap/website/commit/3da1568e752aaf296f1eee9a1ddd5e82ae468160)
 - [Django](https://www.djangoproject.com/weblog/2021/may/26/django-irc-channels-migration-liberachat/)
 - [#dns](https://github.com/dns-channel/dns-channel.github.io/commit/15529d84294106931a569f89911cc0a9efe63340)
+- [docker-hs](https://github.com/denibertovic/docker-hs/commit/ec5e73f4945cb0b12af00fc352b9b4232ed34513) (to Github)
 - [Dokku](https://twitter.com/dokku/status/1397653350913564676)
 - [Dolphin](https://dolphin-emu.org/docs/faq/#ive-got-idea-make-dolphin-better-how-should-i-tell)
 - [doof.net](https://twitter.com/doofnet/status/1396889463276511233)
