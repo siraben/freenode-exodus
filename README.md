@@ -735,6 +735,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [ZNC](https://wiki.znc.in/index.php?title=FAQ&curid=116&diff=2806&oldid=2771)
 - [zrepl - ZFS Replication](https://twitter.com/problame/status/1395297201530810374) (to Matrix)
 - [Zsh](https://www.zsh.org/mla/users/2021/msg00455.html)
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/commit/894127b221ab73847847bf7cf31eeb709bc16dc5)
 - [zynaddsubfx](https://github.com/zynaddsubfx/zyn-website/commit/e9074ab31e8d0681f017ac860fb80a781a971238)
 
 ## Projects and channels that have decided to stay on Freenode
