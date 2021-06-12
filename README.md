@@ -44,6 +44,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Asterisk](https://www.asterisk.org/irc-channels-moved-to-libera-chat/)
 - [AsteroidOS](https://twitter.com/AsteroidOS/status/1398645863988273158)
 - [ASUSWRT](https://twitter.com/RMerlinDev/status/1398703845161701377)
+- [Atheme](https://github.com/atheme/atheme/commit/737aece1c9e2f656ecb70fa0ad6198800db3300c)
 - [#atu](https://www.dslreports.com/forum/r33122321-IRC-channel-has-moved-to-Libera-Chat-and-has-a-matrix-bridge)
 - [Aurutils](https://github.com/AladW/aurutils/commit/659c464aa90862260915f966bc3394678ed84f42)
 - [Austin Hackers](https://twitter.com/AustinHackers/status/1395773170649608193)
