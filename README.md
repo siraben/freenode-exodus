@@ -27,7 +27,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Anthon Open Source Community (AOSC)](https://aosc.io/news/posts/2021-06-08-libera-project-registration/)
 - [Apache CouchDB](https://twitter.com/CouchDB/status/1395389989345800201)
 - [Apache HTTPD](https://cwiki.apache.org/confluence/pages/diffpagesbyversion.action?pageId=115522340&selectedPageVersions=54&selectedPageVersions=53)
-- [Apache OpenOffice](https://wiki.openoffice.org/w/index.php?title=IRC_Communication&diff=248454&oldid=234683)
+- [Apache OpenOffice](https://wiki.openoffice.org/w/index.php?title=IRC_Communication&action=historysubmit&diff=248455&oldid=234683)
 - [Apache Subversion](https://github.com/apache/subversion/commit/63f9ded5eb26f03a3d490aea98c500439179452b)
 - [Apertium](https://www.reddit.com/r/Apertium/comments/nm1p7k/apertium_is_now_on_oftc/) (to OFTC)
 - [Apertus](https://twitter.com/ApertusOSCinema/status/1397819526734094343)
