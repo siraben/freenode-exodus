@@ -234,7 +234,6 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Guix China](https://github.com/guixcn/guixcn.github.io/commit/8eced0c3583f74f4ba1f3d9746e00e284ad1780f)
 - [hackeriet.no](https://twitter.com/hackeriet/status/1397480914981167104)
 - ##hackers
-- [hackerspace.pl](https://twitter.com/hackerspacepl/status/1397543122415067143)
 - [hackerspaces.org](https://wiki.hackerspaces.org/Communication#IRC)
 - [HackSoc](https://www.hacksoc.org/news/2021-05-25-moving-to-libera.html)
 - [Haiku](https://www.haiku-os.org/news/2021-05-19_haiku_is_moving_to_oftc/) (to OFTC)
@@ -669,6 +668,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Vouch](https://github.com/vouch/vouch-proxy/commit/1a3c67a7f1cfdd5fe3739fbcb6d6f78b3bf64002)
 - [WA7VC](https://github.com/wa7vc/wa7vc.org/commit/57ee00dd4143d02ac002009e22164db86d76943f)
 - [Warpzone](https://www.warpzone.ms/perma/bye-bye-freenode/2529/) (to hackint)
+- [Warsaw Hackerspace](https://twitter.com/hackerspacepl/status/1397543122415067143)
 - [wayvnc](https://github.com/any1/wayvnc/commit/3b6a07a3b6fe1e6ce3d5505fed09263bb6557019)
 - [Wazo Platform](https://github.com/wazo-platform/wazo-platform.org/commit/0f3601ab5b152d35fd56842566ee301f03b781ba) (to Mattermost)
 - #web
