@@ -148,6 +148,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Dungeon Crawl: Stone Soup](https://github.com/crawl/dcss-website/commit/ec916df2e7b7274b0c1002aa48193b3ab101c539)
 - [dynasm-rs](https://github.com/CensoredUsername/dynasm-rs/commit/e10fb11e47e028422eb54fd55cea30af8fa7e0ad)
 - [EasyRPG](https://twitter.com/EasyRPG/status/1397624147249860616)
+- [ECMA TC39](https://github.com/tc39/notes/blob/master/meetings/2021-05/may-26.md#admin-realtime-chat-networks) (to Matrix, with presence on Libera)
 - [Edinburgh Hacklab](https://twitter.com/edinhacklab/status/1397483473707933697)
 - [eduVPN](https://github.com/eduvpn/documentation/commit/2158742e5d5c73df02a011dd5a62661926a41e5a)
 - [eev](https://github.com/edrx/eev/commit/615e83260a14eed914cc31f34364cc05527c7efc)
