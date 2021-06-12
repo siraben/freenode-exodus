@@ -651,6 +651,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Tuna](https://github.com/tuna/tuna.moe/commit/dbc0f106417945c26c67968528a72ba9518bd5ea)
 - [Tuner](https://github.com/louis77/tuner/commit/ca1b93630229f8710551665e78d2d88f3f4adcab)
 - [TurrisTech](https://mobile.twitter.com/turris_cz/status/1397474712914104323) (to OFTC)
+- [Tvheadend](https://github.com/tvheadend/tvheadend/commit/eb59284b8527e3c51eadfeca94ec1e9174cdbdb0)
 - [TVL](https://cl.tvl.fyi/c/depot/+/3134) (to hackint)
 - [Twisted Matrix Labs](https://twitter.com/glyph/status/1395125137674960896)
 - [Typhoon](https://github.com/poseidon/typhoon/pull/995) (to GitHub)
