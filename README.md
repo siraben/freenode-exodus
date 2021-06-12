@@ -529,6 +529,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [PyPy](https://www.pypy.org/posts/2021/05/pypy-irc-moves-to-libera-chat.html)
 - [pytest](https://twitter.com/pytestdotorg/status/1399754170530467841)
 - [Python](https://www.python.org/community/irc/)
+- [Python Argentina](https://twitter.com/gilgamezh/status/1403711727766851590)
 - [Python Cryptographic Authority](https://github.com/pyca/cryptography/pull/6054)
 - [Python-GSSAPI](https://github.com/pythongssapi/python-gssapi/pull/247)
 - [Qt](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
