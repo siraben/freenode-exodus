@@ -51,6 +51,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [backspace e.V (Hackerspace Bamberg)](https://www.hackerspace-bamberg.de/index.php?title=Kontakt&diff=11270&oldid=11251)
 - [basspistol.com](https://github.com/Basspistol/basspistol.com/commit/55ea973a3055dcf0f9f70258670bcca6b4ff6312)
 - [BastilleBSD](https://twitter.com/BastilleBSD/status/1395536864673599491)
+- [batman-adv](https://lists.open-mesh.org/mailman3/hyperkitty/list/b.a.t.m.a.n@lists.open-mesh.org/thread/TGRTFW6OD2WGXUZL42ZDPXRCGNVJ2GML/) (to hackint)
 - [Battle for Wesnoth](https://forums.wesnoth.org/viewtopic.php?t=54341)
 - [beagleboard.org](https://beagleboard.org/chat)
 - [Bedrock Linux](https://github.com/bedrocklinux/bedrocklinux-website/commit/1cb8db46d0c9e7784594a13fc11edfb0b15c883a)
