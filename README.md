@@ -710,6 +710,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [WHATWG](https://github.com/whatwg/whatwg.org/pull/369) (to Matrix)
 - [Whim](https://github.com/jmacdotorg/whim/commit/ec6df95e814e64d62b677e0ee4948a3ead2fec46)
 - [Whipper](https://github.com/whipper-team/whipper/pull/541)
+- [Widelands](https://github.com/widelands/widelands-website/pull/354)
 - [Wikimedia](https://meta.wikimedia.org/wiki/IRC/Migrating_to_Libera_Chat)
 - [wilug](https://github.com/wilug/wilug.github.com/commit/e2bdc7f54236c9ed44ccc1021e07098832759e87)
 - [Window Maker](https://github.com/window-maker/window-maker.github.io/pull/15/files)
