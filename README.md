@@ -222,6 +222,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow/commit/5d9dd242cb8109350cadbd6c8b8354f5a889eba5)
 - [Glewlwyd](https://github.com/babelouest/glewlwyd/commit/3c70cedb11c2f6eda9ac88822ba366af06ea727b)
 - [Glowing Bear](https://github.com/glowing-bear/glowing-bear/commit/68d44cf669aafe968a786b5d33d6903be540fa81)
+- [GNU Health](https://twitter.com/gnuhealth/status/1404099825591799808)
 - [GNU Radio](https://twitter.com/gnuradio/status/1397474348659875840)
 - [go-imap](https://github.com/emersion/go-imap/commit/0e5bf8b8c24d2bb1481e94a44c18d3fa2dfbb630)
 - [go-smtp](https://github.com/emersion/go-smtp/commit/c11900fc3ed1bc6c9d68cd816592b26e20901b7e)
