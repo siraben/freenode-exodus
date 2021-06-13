@@ -261,6 +261,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [haskell.nix](https://github.com/input-output-hk/haskell.nix/commit/85245c56f1517942f15542bd347e2f148c452ac5)
 - [Haveno](https://github.com/haveno-dex/haveno-meta/issues/10)
 - [HearthSim](https://github.com/HearthSim/hearthsim.info/commit/b9736c8638a18c1daf3d082032ae18e846ef23d6) (to Discord)
+- [Hellomouse](https://github.com/siraben/freenode-exodus/issues/102)
 - [helloSystem](https://github.com/helloSystem/docs/commit/2bb0f6a26b1e08705c6025fade70e7a775f86882)
 - [Helsinki Finite-State Technology](https://github.com/hfst/hfst/commit/3977c5c1ace1fc77fcc374fae8836c71b35bcb19) (to OFTC)
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm/commit/5b519afb22b932bb45debd7cb23c745465014c47)
