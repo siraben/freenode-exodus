@@ -241,6 +241,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - ##hackers
 - [hackerspaces.org](https://wiki.hackerspaces.org/Communication#IRC)
 - [HackSoc](https://www.hacksoc.org/news/2021-05-25-moving-to-libera.html)
+- [Hagrid](https://gitlab.com/hagrid-keyserver/hagrid/-/commit/c85a7e2c14586ebca701f9018a9fc11d1a505c89) (to OFTC)
 - [Haiku](https://www.haiku-os.org/news/2021-05-19_haiku_is_moving_to_oftc/) (to OFTC)
 - [Hakierspejs Łódź](https://github.com/hakierspejs/homepage/pull/33)
 - [hakyll](https://github.com/jaspervdj/hakyll/commit/8980133284d7d5f0d7cd71580796150c74b22f2d)
@@ -458,6 +459,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#openhab](https://twitter.com/penguinponics/status/1395084712880660486)
 - [OpenIKED](https://github.com/openiked/openiked-portable/commit/28ecc4031b73939aa0ce69ae28f917100c5d8c1d)
 - [openITCOCKPIT](https://openitcockpit.io/2021/2021/05/31/irc-announcement-migrating-to-libera-chat/)
+- [OpenKeychain](https://github.com/open-keychain/openkeychain.org/commit/927b3c7676b0bdd834463a72ecb8578834ea39c4)
 - [OpenLab Augsburg](https://github.com/openlab-aux/wikidata/commit/26d43ae546436d4f5653ac35a63bf07000f0b5d3)
 - [OpenLDAP](https://twitter.com/openldaporg/status/1397563699255255041)
 - [OpenMPTL](https://github.com/digint/openmptl/commit/017807807e1fed41040af200afa4046740135939)
@@ -583,6 +585,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Selenium](https://www.selenium.dev/blog/2021/moving-to-libera-chat/)
 - [SerenityOS](https://github.com/SerenityOS/serenity/commit/675b0aee2471d63b436577ccdec3a7d23a527014)
 - [serious-bg](https://github.com/Binaergewitter/serious-bg/commit/50469265a916c48ec23d46dc1557c250b0e1e45d)
+- [Sequoia-PGP](https://gitlab.com/sequoia-pgp/sequoia-web/-/commit/2eb580518459365f1bafeccd74c281dde6e37ad2) (to OFTC)
 - [SFZ Format](https://github.com/sfzformat/sfzformat.github.io/commit/19c91f4cac4a2d7963fe45981a0e9b7591dcc285)
 - [SFZ Tools](https://github.com/sfztools/sfztools.github.io/commit/7e2bca6f723b41364dbbc4dbe2fabb34ee102b68)
 - [Shadytel](https://twitter.com/shadytel/status/1397394351274164225)
