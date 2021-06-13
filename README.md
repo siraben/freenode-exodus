@@ -163,6 +163,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Embeddable Common-Lisp](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
 - [Erbium](https://github.com/isomer/erbium/commit/41328e695cfe7b5cfd2d3f19641d5a0d828601a4)
 - ERC
+- [Ergo IRCd (formerly Oragono)](https://github.com/oragono/oragono-site/commit/8e9fe2653e08819078bff8ae45157c9481e60886)
 - [Esolangs](https://esolangs.org/w/index.php?title=Esolang:Community_portal&diff=83615&oldid=83522)
 - [ET: Legacy](https://github.com/etlegacy/etlegacy/issues/1655)
 - [ETS2 Job Logger](https://github.com/Lihis/ets2-job-logger/commit/b8369a21c0ae5a4aaf43e6ccdeef0342bf3e4e25)
