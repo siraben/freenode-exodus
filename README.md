@@ -348,6 +348,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Limnoria](https://github.com/ProgVal/Limnoria/commit/04facade82b778482d4173a86b753945a1b72632)
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
 - [Linu.X-lab](https://github.com/LinuX-lab/LinuX-lab.github.io/commit/6ea5caf5d6b900a7b32753eca7442a1dc03d96cc)
+- [##linux](https://linux.chat/linux-on-freenode/)
 - [Linux From Scratch](https://lists.linuxfromscratch.org/sympa/arc/lfs-admin/2021-05/msg00032.html)
 - [Linux System Roles](https://github.com/linux-system-roles/linux-system-roles.github.io/commit/857b3c5a7e048914b6576d37c1f64ccc6e7b2cf7)
 - [Linux Terminal Server Project](https://github.com/ltsp/irclogs/commit/258c2caa8f20371ca294249ffbcc6c5f89eda88b)
