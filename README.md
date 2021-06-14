@@ -261,6 +261,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Haskell](https://old.reddit.com/r/haskell/comments/nhkrfc/a_robust_haskell_ecosystem_is_now_active_on/)
 - [haskell.nix](https://github.com/input-output-hk/haskell.nix/commit/85245c56f1517942f15542bd347e2f148c452ac5)
 - [Haveno](https://github.com/haveno-dex/haveno-meta/issues/10)
+- [HCoop](https://wiki.hcoop.net/IrcChannel)
 - [HearthSim](https://github.com/HearthSim/hearthsim.info/commit/b9736c8638a18c1daf3d082032ae18e846ef23d6) (to Discord)
 - [Hellomouse](https://github.com/siraben/freenode-exodus/issues/102)
 - [helloSystem](https://github.com/helloSystem/docs/commit/2bb0f6a26b1e08705c6025fade70e7a775f86882)
