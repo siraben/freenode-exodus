@@ -356,6 +356,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - #linux-exynos
 - [LinuxCNC](https://linuxcnc.org/2021/06/02/IRC-Server-Change/)
 - [LinuxGameCast](https://twitter.com/VennStone/status/1397280409080238085)
+- [Linuxkompis](https://linuxkompis.se/2021/05/26/linuxkompis_irc-kanal_flyttar_till_libera_chat.html)
 - [LinuxTV](https://lore.kernel.org/linux-media/20210529105037.5d424f6c@coco.lan/T/) (to OFTC)
 - [#lisp](https://cliki.net/site/compare-revisions?article=IRC&old=3830760967&diff=3826120582)
 - [#lispgames Community](https://twitter.com/lispgames/status/1397909216283725825)
