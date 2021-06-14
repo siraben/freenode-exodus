@@ -109,6 +109,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Code4Lib](https://lists.clir.org/cgi-bin/wa?A2=ind2105&L=CODE4LIB&P=81656)
 - [Code::Stats](https://twitter.com/code_stats/status/1397467735941058560)
 - [Coffee House Coders](https://github.com/coffeehousecoders/royaloak.coffeehousecoders.com/commit/5b89adac777f7723f5da242ec1027c7ad1e14c8c)
+- [Collabora Online](https://github.com/CollaboraOnline/online/commit/f1c796bd2908b6755a9bc42c3da58224cb1d3b5b)
 - [Composr CMS](https://compo.sr/news/view/announcements/irc-channel-moving-to.htm)
 - [ConnectBot](https://github.com/connectbot/connectbot.github.io/commit/6756b0041bbfb9a3f29b1a472c57a83716880c93)
 - [Convos](https://convos.chat/blog/2021/5/20/moving-from-freenode-to-libera)
