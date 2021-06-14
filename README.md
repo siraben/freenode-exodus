@@ -76,6 +76,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [btrfs](https://btrfs.wiki.kernel.org/index.php?title=Main_Page&curid=1&diff=33413&oldid=33412)
 - [Bucardo](https://github.com/bucardo/bucardo/commit/76e6c29c3b4d469ba642215b03afa955b5deb7d7)
 - [Bugzilla](https://twitter.com/bugzilla/status/1404465855996461063)
+- [Buildbot](https://github.com/buildbot/buildbot-website/commit/d4af5e139c5aa1f1e8e79a28227d882a1a00a40d)
 - [Buildroot](http://lists.busybox.net/pipermail/buildroot/2021-May/311170.html) (to OFTC)
 - [BundleWrap](https://github.com/bundlewrap/bundlewrap/commit/476bc2e8c83ed791bbaeff8d3d8310c54ee790e5)
 - [BunsenLabs](https://forums.bunsenlabs.org/viewtopic.php?id=7627)
