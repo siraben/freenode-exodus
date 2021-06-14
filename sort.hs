@@ -1,10 +1,8 @@
 {-# LANGUAGE TupleSections #-}
 
 import Control.Arrow (Arrow ((***)))
-import Control.Exception ()
 import Control.Monad (unless)
 import Data.Char (toLower)
-import Data.Function ()
 import Data.List (isPrefixOf)
 import Data.Map (Map)
 import qualified Data.Map as M
