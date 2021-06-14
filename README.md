@@ -80,6 +80,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [BunsenLabs](https://forums.bunsenlabs.org/viewtopic.php?id=7627)
 - [BZFlag](https://forums.bzflag.org/viewtopic.php?f=8&t=20503)
 - [#c64friends](https://twitter.com/gholmer/status/1397570829437882368)
+- [c:geo](https://github.com/cgeo/cgeo.github.io/commit/aa6bf3a94d3d46fa71d6fd92635cc456dfaf085e) (to Github)
 - [cabal](https://github.com/cabal-club/cabal-club.github.io/commit/c86cf62e1ce6e90396435d4814edba1081d23273)
 - [Calamares](https://euroquis.nl//calamares/2021/05/26/calamares-communications.html)
 - [calendar-cli](https://github.com/tobixen/calendar-cli/commit/301138ff8c7e76569b4f81d1f6cb94458328d41f) (to OFTC)
