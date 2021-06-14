@@ -619,6 +619,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Solanum](https://github.com/solanum-ircd/solanum.chat/pull/7)
 - [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
 - [SopelIRC](https://twitter.com/SopelIRC/status/1397409117380153348)
+- [Source Mage GNU/Linux](https://sourcemage.org/News/leaving-freenode/)
 - [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
 - [SouthEast LinuxFest](https://twitter.com/SELinuxFest/status/1397941939345969157)
 - [SPIP](https://blog.spip.net/L-IRC-spip-demenage-de-freenode-net-a-libera-chat.html)
