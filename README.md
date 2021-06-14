@@ -440,6 +440,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Netfilter](https://www.spinics.net/lists/netfilter/msg60216.html)
 - [Nethack](https://nethackwiki.com/mediawiki/index.php?title=Freenode&action=history)
 - [NetworkManager](https://github.com/NetworkManager/NetworkManager/commit/95085acec3a2d5887fc4411408e986c9b34339e6)
+- [New Delhi BSD User Group](https://lists.ndbug.in/pipermail/talk/2021-June/000114.html)
 - [New York City BSD User Group](http://lists.nycbug.org:8080/pipermail/talk/2021-May/018324.html)
 - [NewPipe](https://newpipe.net/blog/pinned/irc-move/)
 - [Newsboat](https://github.com/newsboat/newsboat/commit/c3f6e6e5ebfda77e842dc0becf8386d357b5bcb5)
