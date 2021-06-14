@@ -703,6 +703,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Weechat-Android](https://github.com/ubergeek42/weechat-android/commit/0c53c00aa88881a68663c277604d683dd88ae576)
 - [Werewolf](https://werewolf.chat/)
 - [Weston](https://github.com/wayland-project/weston/commit/eaa5ecf8b28b72e890aed89e1797213fb31efd10) (to OFTC)
+- [WHATWG](https://github.com/whatwg/whatwg.org/pull/369) (to Matrix)
 - [Whim](https://github.com/jmacdotorg/whim/commit/ec6df95e814e64d62b677e0ee4948a3ead2fec46)
 - [Whipper](https://github.com/whipper-team/whipper/pull/541)
 - [Wikimedia](https://meta.wikimedia.org/wiki/IRC/Migrating_to_Libera_Chat)
