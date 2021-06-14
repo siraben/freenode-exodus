@@ -108,6 +108,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Cockpit](https://github.com/cockpit-project/cockpit/commit/84507b9d3adb584280a6db53302d6fdea4b8b950)
 - [Code4Lib](https://lists.clir.org/cgi-bin/wa?A2=ind2105&L=CODE4LIB&P=81656)
 - [Code::Stats](https://twitter.com/code_stats/status/1397467735941058560)
+- [codybot](https://github.com/esselfe/codybot/commit/16f51b84b676aa7eb30fa32bb2d5585db4d5f7f1)
 - [Coffee House Coders](https://github.com/coffeehousecoders/royaloak.coffeehousecoders.com/commit/5b89adac777f7723f5da242ec1027c7ad1e14c8c)
 - [Collabora Online](https://github.com/CollaboraOnline/online/commit/f1c796bd2908b6755a9bc42c3da58224cb1d3b5b)
 - [Composr CMS](https://compo.sr/news/view/announcements/irc-channel-moving-to.htm)
