@@ -128,6 +128,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Curl](https://daniel.haxx.se/blog/2021/05/26/curl-7-77-0-200-ok/)
 - [D-Lang](https://www.mail-archive.com/digitalmars-d-announce@puremagic.com/msg46050.html)
 - [Dale Harris Cash Register (DHPOS)](https://www.facebook.com/daleharrispos/posts/1411772939203845)
+- [darktable](https://github.com/darktable-org/dtorg/pull/141) (to OFTC)
 - [Das U-Boot](https://lists.denx.de/pipermail/u-boot/2021-May/450829.html)
 - [Dataverse](https://groups.google.com/g/dataverse-community/c/KU0FDNb8ckM/m/bO8ZXv2WAQAJ) (to Matrix)
 - [dav1d](https://github.com/videolan/dav1d/commit/41be890ddd8e58f938aa74a689e4a457da3a87b0)
