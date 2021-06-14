@@ -165,6 +165,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Emacs](https://www.reddit.com/r/emacs/comments/nl70vo/emacs_is_on_liberachat/)
 - [Emacs User Group Berlin](https://github.com/emacs-berlin/emacs-berlin.org/commit/920b7d30ddd5f2a2283f85316d5c557cd696acaf)
 - [Embeddable Common-Lisp](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
+- [ENet](https://github.com/lsalzman/enet/commit/74cea7abf52ddd355146aeb0a4077d2b95368122)
 - [Erbium](https://github.com/isomer/erbium/commit/41328e695cfe7b5cfd2d3f19641d5a0d828601a4)
 - ERC
 - [Ergo IRCd (formerly Oragono)](https://github.com/oragono/oragono-site/commit/8e9fe2653e08819078bff8ae45157c9481e60886)
