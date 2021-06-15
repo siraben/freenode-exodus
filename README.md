@@ -56,6 +56,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [batman-adv](https://lists.open-mesh.org/mailman3/hyperkitty/list/b.a.t.m.a.n@lists.open-mesh.org/thread/TGRTFW6OD2WGXUZL42ZDPXRCGNVJ2GML/) (to hackint)
 - [Battle for Wesnoth](https://forums.wesnoth.org/viewtopic.php?t=54341)
 - [beagleboard.org](https://beagleboard.org/chat)
+- [Beaker](https://github.com/beaker-project/beaker/commit/d8789d6d2144c16e6cc91f667013ea53d8ad3c49)
 - [Bedrock Linux](https://github.com/bedrocklinux/bedrocklinux-website/commit/1cb8db46d0c9e7784594a13fc11edfb0b15c883a)
 - [Beets](https://github.com/beetbox/beets/pull/3957/files)
 - [bitbot](https://github.com/jesopo/bitbot/commit/5f895544a80e47a32a07cfd6f4a06897f26cca4d)
