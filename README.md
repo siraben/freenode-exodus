@@ -383,6 +383,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Linux System Roles](https://github.com/linux-system-roles/linux-system-roles.github.io/commit/857b3c5a7e048914b6576d37c1f64ccc6e7b2cf7)
 - [Linux Terminal Server Project](https://github.com/ltsp/irclogs/commit/258c2caa8f20371ca294249ffbcc6c5f89eda88b)
 - [Linux Test project](https://lists.linux.it/pipermail/ltp/2021-June/023197.html)
+- [Linux User Group, University of Science and Technology of China (LUG @ USTC)](https://github.com/ustclug/website/pull/22) (to OFTC)
 - [Linux Users' Group Of Durgapur (DGPLUG)](https://github.com/kushaldas/summertraining/commit/ee59401760ae89b8ae5a143fbfe8fe005527f765)
 - [#linux-amlogic](https://lore.kernel.org/linux-amlogic/d522cbb8-af11-a835-27f2-5c13fcaa4a4d@baylibre.com/T/#u)
 - #linux-exynos
