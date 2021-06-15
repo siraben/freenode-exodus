@@ -213,7 +213,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Fedora Zhongwen User Group](https://github.com/FZUG/fzug.github.io/pull/67)
 - [#feminism](https://github.com/feminism-chat/feminism-chat.github.io/commit/b637b0de65a8518d16e7c1a34bd19005b64d953f)
 - [Fennel](https://github.com/bakpakin/Fennel/commit/afebcb22999fe2a2f2174299f9c63b7e0f25022f)
-- [Ffmpeg](https://git.ffmpeg.org/gitweb/ffmpeg-web.git/commit/8ccd75e40f7366d17a2bc6787cc4e86c79a242ab)
+- [Ffmpeg](https://twitter.com/FFmpeg/status/1404935398535487491)
 - [FileWiki](https://github.com/digint/filewiki/commit/36606dfc5a909878eeb2d54cdec1e4e5c227c9af)
 - [Fink Project](https://github.com/fink/website/commit/3f9dfae3dca338b8ccd9454f9ac428ae136a8e1f)
 - [firestr.com](https://twitter.com/mempko/status/1397619360752029696)
