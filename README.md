@@ -595,6 +595,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Radeon and #ROCm](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/) (to OFTC)
 - [Raku](https://www.tyil.nl/post/2021/05/22/raku-on-libera-chat/)
 - [ranger](https://ranger.github.io/news/2021-05-19-libera)
+- [Ratpoison](https://git.savannah.nongnu.org/cgit/ratpoison.git/commit/?id=db94d4971d8dcae736cf5246ef7d0454aa345ac0)
 - [##rbxdev](https://twitter.com/SignorOmbra/status/1399086366475051010)
 - [RDO](https://lists.rdoproject.org/pipermail/dev/2021-May/009568.html) (to OFTC)
 - [re:Web](https://github.com/apparentorder/reweb/commit/9a1dd5abcb9cefffef05bf8ce3eca096a44ec27b)
