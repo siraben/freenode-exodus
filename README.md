@@ -150,6 +150,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [DFeed](https://github.com/CyberShadow/DFeed/commit/33c3bedfc8a45141884a0242df344a260b1bb169)
 - [Diakonos](https://github.com/Pistos/diakonos/commit/3ea11330e76c81b76d85a7dc4755a0cf1cc285dc)
 - [diaspora](https://blog.diasporafoundation.org/69-our-irc-channels-have-moved-to-libera-chat)
+- [DIGImend](https://github.com/DIGImend/digimend-kernel-drivers/pull/541)
 - [Dim Sum Labs](https://github.com/dimsumlabs/dsl-meta/wiki/IRC/_compare/9e0972cef1b9f1ece7c2ee0d860f9f4243cfd468...bd8e444cc770bb62114c5ed352f60ce72019a63c)
 - [dircproxy](https://github.com/w8tvi/dircproxy/wiki/Dircproxy-IRC-Channel/_compare/e978da216e89082ab9d88d0c4aee371f7b532b37...bb5e26de7880822a48e0e33c560e60fa57338b6f)
 - [Directord](https://twitter.com/peznauts/status/1396330864842321920)
