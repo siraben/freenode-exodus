@@ -702,6 +702,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Toybox](https://github.com/landley/toybox/commit/6ce11972ecdf798872b0236b4921cb3ff35f7d29)
 - [Tridactyl](https://github.com/tridactyl/tridactyl/pull/3778)
 - [TroLUG](https://github.com/TroLUG/trolug-nikola/commit/e843ecbd4f8ca773858d7659c029190f7d05ca28)
+- [Tryton](https://briefly.co/anchor/Python/story/trytons-irc-channels-are-moving-to-liberachat?twitterHighlight=true)
 - [Tuna](https://github.com/tuna/tuna.moe/commit/dbc0f106417945c26c67968528a72ba9518bd5ea)
 - [Tuner](https://github.com/louis77/tuner/commit/ca1b93630229f8710551665e78d2d88f3f4adcab)
 - [TurrisTech](https://mobile.twitter.com/turris_cz/status/1397474712914104323) (to OFTC)
