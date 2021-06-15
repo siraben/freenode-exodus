@@ -140,6 +140,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Crystal Lang](https://crystal-lang.org/2021/06/04/irc-channel-moved-to-libera-chat.html)
 - [ctjb](https://github.com/ctjb/ctjb.net/commit/d01b2006eb952930137d1bc2ca5add68b9348fb9)
 - [Cura](https://github.com/Ultimaker/Cura/commit/4d5894d0c5108d0053e5c1751142008241febd57)
+- [Curitiba Livre](https://twitter.com/curitibalivre/status/1404886238348419076)
 - [Curl](https://daniel.haxx.se/blog/2021/05/26/curl-7-77-0-200-ok/)
 - [D-Lang](https://www.mail-archive.com/digitalmars-d-announce@puremagic.com/msg46050.html)
 - [Dale Harris Cash Register (DHPOS)](https://www.facebook.com/daleharrispos/posts/1411772939203845)
