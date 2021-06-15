@@ -24,6 +24,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Alpine](https://alpinelinux.org/posts/Switching-to-OFTC.html) (to OFTC)
 - [alwaysdata](https://changelog.alwaysdata.com/212/detail/)
 - [Anbox](https://github.com/anbox/anbox/pull/1818)
+- [##anime](https://github.com/anime-libera/stuff/commit/ce0e2c7b3af538645867f1a9ddbf77c7f6eac1c8#diff-51d4741b1e1a167db122b0338eb90751358768a1698194d4a36902bdf0e77fdc)
 - [Anklang](https://github.com/tim-janik/anklang/commit/074e7b9b53a2cb9c0e5a064182383aa3a25b9095)
 - [Ansible](https://github.com/ansible/community/pull/614)
 - [Ansible AWX](https://github.com/ansible/awx-logos/commit/b2766df4b3235857f0ba14a5d837533d293bfa3e)
