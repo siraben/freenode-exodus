@@ -763,7 +763,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Wazo Platform](https://github.com/wazo-platform/wazo-platform.org/commit/0f3601ab5b152d35fd56842566ee301f03b781ba) (to Mattermost)
 - #web
 - [Webarchitects Co-op](https://twitter.com/webarchcoop/status/1395071291066142724)
-- [WeeChat](https://twitter.com/WeeChatClient/status/1396932241951973383)
+- [WeeChat](https://blog.weechat.org/post/2021/05/29/IRC-channels-moved-to-libera.chat)
 - [Weechat-Android](https://github.com/ubergeek42/weechat-android/commit/0c53c00aa88881a68663c277604d683dd88ae576)
 - [Werewolf](https://werewolf.chat/)
 - [Weston](https://github.com/wayland-project/weston/commit/eaa5ecf8b28b72e890aed89e1797213fb31efd10) (to OFTC)
