@@ -250,6 +250,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [GPUSPH](https://github.com/GPUSPH/gpusph/commit/08ffd94ddc4a076361f0e5f6e2bfde7874ba087f)
 - Grafana
 - [GrapheneOS](https://twitter.com/GrapheneOS/status/1395040938645508097)
+- [Great Scott Gadgets](https://twitter.com/GSGlabs/status/1404665247068196866)
 - [Grml](https://blog.grml.org/archives/405-Grml-IRC-channel-moving-to-OFTC.html) (to OFTC)
 - [Grunndev](https://github.com/grunndev/wiki/commit/b1b5d4b12019f7570f44180f2055c1acb045a7d1) (to DALnet)
 - [Guile](https://www.gnu.org/software/guile/learn/)
