@@ -348,6 +348,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Kiss Linux](https://k1sslinux.org/news/20210519a)
 - [Known](https://twitter.com/withknown/status/1397602409342406667)
 - [kpatch](https://github.com/dynup/kpatch/commit/87ca62d8de27dcec9429e879284e948e68dcd02d)
+- [Kresus](https://github.com/kresusapp/kresus/commit/441ddf0b0c56773bd55ca4bc9b7f6791163e1485)
 - [Krita](https://twitter.com/Krita_Painting/status/1404705993527861250)
 - [Kronosnet](https://github.com/kronosnet/kronosnet/commit/83db59ac82bd2d50431334d74d943ad7f0edea56)
 - [Kvazaar](https://github.com/ultravideo/kvazaar/commit/28595ed1cf32f89f23fc7692bdceafb3e0e42ec4)
