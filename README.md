@@ -149,6 +149,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#design](https://twitter.com/aeriflame/status/1395320753831260160)
 - [Desmume](https://wiki.desmume.org/index.php?title=Faq&oldid=8930)
 - [#developerslv](https://github.com/daGrevis/developerslv/pull/2/files)
+- [Devon and Cornwall GNU/Linux Users Group (DCGLUG)](https://www.dcglug.org.uk/moving-to-libera-chat-irc-network/)
 - [Devuan](https://lists.dyne.org/lurker/message/20210521.130524.7ce9e65d.en.html)
 - [DFeed](https://github.com/CyberShadow/DFeed/commit/33c3bedfc8a45141884a0242df344a260b1bb169)
 - [Diakonos](https://github.com/Pistos/diakonos/commit/3ea11330e76c81b76d85a7dc4755a0cf1cc285dc)
