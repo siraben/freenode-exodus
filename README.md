@@ -652,6 +652,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Stendhal](https://github.com/siraben/freenode-exodus/issues/96#issue-918169506)
 - STM32 Peripheral Access Crates (##stm32-rs) (to Matrix)
 - [strace](https://mobile.twitter.com/evgsyr/status/1397495752029523970) (to OFTC)
+- [strongSwan](https://strongswan.org/support.html)
 - [StumpWM](https://github.com/stumpwm/stumpwm/commit/079f06c1d96526cf4a06580f95d69e3f2a35c1e2)
 - [Subcarpathian BSD User Group](https://github.com/sbug/www.sbug.org/commit/ff678ec33c26dd305775a21075e1af19a1bfcf3e) (to Matrix)
 - [Sudo Room](https://sudoroom.org/mediawiki/index.php?title=IRC&type=revision&diff=11787&oldid=11762)
