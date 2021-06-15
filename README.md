@@ -95,6 +95,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [caronade](https://github.com/decke/caronade/commit/20ecb13f11b746e43b9c920733badeacd2b69700) (to GitHub)
 - [#cat-v](http://cat-v.org/about) (to OFTC)
 - [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/commit/ba504651dd5a1169a2c297f44af82878c85781e0)
+- [#cde](https://twitter.com/PeterHowkins/status/1404829030680043526)
 - [Celery](https://github.com/celery/celery/issues/6811)
 - [CentOS](https://blog.centos.org/2021/05/centos-irc-channels-moving-to-irc-libera-chat/)
 - [cgit](https://lists.zx2c4.com/pipermail/cgit/2021-May/004637.html)
