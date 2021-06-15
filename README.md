@@ -122,6 +122,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [coreboot](https://doc.coreboot.org/community/forums.html)
 - [Coredump Hackerspace](https://github.com/coredump-ch/status/pull/139)
 - [CoreRAD](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
+- [Countervandalism Network](https://github.com/countervandalism/infrastructure/issues/29)
 - [Cozy Cloud](https://twitter.com/cozycloud/status/1399266831244869635)
 - [Critter](https://github.com/oprypin/critter/commit/0ad3f3913d49ecb1ec7aea5d5b4bd220eb759a72)
 - [Crosstool-NG](https://github.com/crosstool-ng/crosstool-ng.github.io/pull/34)
