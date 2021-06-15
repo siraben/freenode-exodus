@@ -680,7 +680,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Sparky Linux](https://twitter.com/SparkyLinux/status/1404815477474463752)
 - [SPIP](https://blog.spip.net/L-IRC-spip-demenage-de-freenode-net-a-libera-chat.html)
 - [SQLAlchemy](https://twitter.com/sqlalchemy/status/1397667050722676738)
-- [SquirrelJME](https://github.com/SquirrelJME/SquirrelJME/commit/9826476f8a694ba237298a975bbe10802e2be856)
+- [SquirrelJME](https://twitter.com/MultiPhasicApps/status/1404872915011702785)
 - [Stacken](https://github.com/stacken/w3/commit/5c089d0558960655e0ac888c5adc814da3abce29)
 - [StarlingX](https://twitter.com/starlingx/status/1402657120999424009) (to OFTC)
 - [steam (python module)](https://github.com/ValvePython/steam/commit/f00e7b86cd8c70a9ea2cf867c840014f64ffc0b2)
