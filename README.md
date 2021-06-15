@@ -480,6 +480,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [NewtonScript](https://twitter.com/newtonscript/status/1397964060331757572)
 - [Nicotine+](https://github.com/Nicotine-Plus/nicotine-plus/commit/0dc369989065f681400cce8676f9a0dfef3e4a0d)
 - [Nikola Generator](https://twitter.com/GetNikola/status/1404093764344352770)
+- [Nix User Repository (NUR)](https://github.com/nix-community/NUR/commit/14e2122b8b1a82c149b93a97fcbb7a68bdd052ba) (to Matrix)
 - [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin/pull/361/files)
 - [NixOS](https://github.com/NixOS/rfcs/pull/94/) (to Matrix), [IRC channels to Libera](https://github.com/nix-community/awesome-nix/commit/6216bf4817ea2c97840673683d8be6e780cd6902)
 - [nMigen](https://github.com/nmigen/nmigen/commit/e974a31022d8ba1ee67bd49c82a11fa7a0a71145)
