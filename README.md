@@ -670,6 +670,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Source Mage GNU/Linux](https://sourcemage.org/News/leaving-freenode/)
 - [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
 - [SouthEast LinuxFest](https://twitter.com/SELinuxFest/status/1397941939345969157)
+- [Sparky Linux](https://twitter.com/SparkyLinux/status/1404815477474463752)
 - [SPIP](https://blog.spip.net/L-IRC-spip-demenage-de-freenode-net-a-libera-chat.html)
 - [SQLAlchemy](https://twitter.com/sqlalchemy/status/1397667050722676738)
 - [SquirrelJME](https://github.com/SquirrelJME/SquirrelJME/commit/9826476f8a694ba237298a975bbe10802e2be856)
