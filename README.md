@@ -100,6 +100,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [cgit](https://lists.zx2c4.com/pipermail/cgit/2021-May/004637.html)
 - [Chaos Computer Club Cologne (CCCC)](https://twitter.com/ccc_koeln/status/1397283526953799682)
 - [Chaos Computer Club Stuttgart (CCCS)](https://github.com/cccs/cccs-website/commit/d1486d20bb83fa035c8f4dd1959892867cb45658)
+- [Chaos Space Operation Centre (CSOC)](https://twitter.com/C3SpaceCentre/status/1404774140008140802)
 - [Chaskis](https://github.com/xforever1313/Chaskis/commit/8a738f6aef1e832a4a1bc4b49725bb4251d32f21)
 - [ChiBUG: The Chicago Area BSD Users Group](https://github.com/jcs/chibug.org/commit/6a80c11a1e2c9c5f6c346ef79dface90e0029147)
 - [CHICKEN scheme](https://www.mail-archive.com/chicken-hackers@nongnu.org/msg07917.html)
