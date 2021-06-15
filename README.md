@@ -1,6 +1,8 @@
 # Projects and channels that have decided to leave Freenode
 [![Check](https://github.com/siraben/freenode-exodus/actions/workflows/check.yml/badge.svg)](https://github.com/siraben/freenode-exodus/actions/workflows/check.yml)
 
+[Freenode is dead](https://www.devever.net/~hl/freenode_suicide). Long live Libera!
+
 This is an ongoing list of projects and channels that have decided to permanently move out of Freenode to https://libera.chat (unless stated otherwise). Please open an issue, PR or PM me on IRC (siraben) if there's additions or corrections, such as adding citation links.
 
 **Note:** I can only accept additional projects and channels to the list accompanied with a citation, which can be (but is not limited to): an official announcement, wiki page, git commit, IRC log, social media post by project lead/official account, etc.
@@ -202,6 +204,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [fog](https://github.com/fog/fog.github.com/commit/682c4f8a8732cc0cd4122990b221e7470e97f95f) (to GitHub)
 - [Fontforge](https://twitter.com/FontForge/status/1403466801472811018)
 - [foot](https://codeberg.org/dnkl/foot/commit/18364fd547119809db83ecab32e65b590dbdc615)
+- #forth
 - [FOSDEM](https://fosdem.org/2021/news/2021-05-26-libera/)
 - [FOSSHOST](https://fosshost.org/news/libera-chat)
 - [Free Pascal](https://twitter.com/freepascaldev/status/1397492296866832384)
@@ -767,10 +770,3 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/commit/894127b221ab73847847bf7cf31eeb709bc16dc5)
 - [zynaddsubfx](https://github.com/zynaddsubfx/zyn-website/commit/e9074ab31e8d0681f017ac860fb80a781a971238)
 
-## Projects and channels that have decided to stay on Freenode
-
-More difficult to find are projects that have decided to stay, please let me know.
-
-- [#forth (bridged to Libera)](https://gist.github.com/siraben/df534c378de7adc8e5dca05956f0ca95#gistcomment-3763303)
-- #freenode (duh)
-- [#techrights](http://techrights.org/irc-archives/irc-log-social-290521.html)
