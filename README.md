@@ -589,6 +589,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [qutebrowser](https://lists.schokokeks.org/pipermail/qutebrowser-announce/2021-May/000102.html)
 - r/linux
 - [r/sysadmin](https://www.reddit.com/r/sysadmin/comments/nlw6iz/on_freenode_libera_and_the_rsysadmin_irc_channel/)
+- [r/weakpots](https://www.reddit.com/r/Weakpots/comments/nzmm2o/new_irc_still_not_a_safespace/)
 - [Racket](https://github.com/racket/racket-lang-org/commit/56a31fcefaf85fe9a810ea65291dc827ad6c492a)
 - [radare](https://twitter.com/radareorg/status/1397838505775075329)
 - [Radeon and #ROCm](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/) (to OFTC)
