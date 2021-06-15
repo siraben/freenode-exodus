@@ -673,6 +673,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [SmartOS](https://twitter.com/JoyentSmartOS/status/1398689698344706050)
 - [SNES Central](https://twitter.com/snescentral/status/1396441180947288064) (to Discord)
 - [sngrep](https://github.com/irontec/sngrep/commit/5df40383182b4e3d350451addec0594f1447a7e1)
+- [Software Freedom Law Center (SFLC)](https://github.com/siraben/freenode-exodus/issues/126)
 - [Software Heritage](https://hedgedoc.softwareheritage.org/s/Z0lo4_cCF#)
 - [Solanum](https://github.com/solanum-ircd/solanum.chat/pull/7)
 - [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
