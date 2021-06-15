@@ -238,6 +238,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [FrOSCon](https://twitter.com/froscon/status/1397622678387843083)
 - [FSFE](https://fsfe.org/news/2021/news-20210525-01.de.html)
 - #fuchsia (to OFTC)
+- [Fusion Directory](https://twitter.com/fusiondirectory/status/1404912571774275584)
 - [FVWM-crystal](https://github.com/fvwm-crystal/fvwm-crystal/commit/9e69daf5d58d903d0ae3d3c3e6b8e9fd5490247c)
 - [FVWM3](https://github.com/fvwmorg/fvwmorg.github.io/commit/eed5315a5a1aa9653e17aa19ac591a050c944fa1)
 - [Gamingonlinux](https://www.gamingonlinux.com/2021/05/gamingonlinux-moves-on-from-freenode-to-liberachat-for-irc/)
