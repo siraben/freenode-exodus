@@ -106,6 +106,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [chimper](https://github.com/pedrocr/chimper/commit/be65f779918bc82c0472f8027bdcc27bf01cc3ec)
 - [circe](https://github.com/jorgenschaefer/circe/commit/4778675e0c3bde1c028085b7d96693fe033d2c72)
 - [Citra Emulator](https://github.com/citra-emu/citra-web/commit/564588a2aaa0ce03aa4cf48f4d531562108d6945)
+- [cjdns](https://twitter.com/cjdelisle/status/1404765675080540161)
 - [ckb-next](https://github.com/ckb-next/ckb-next/commit/da6a5d664201b74081e1e0520c6d8b6a3718aae8)
 - [Clash](https://github.com/clash-lang/clash-lang.org/commit/0be4c023485f0160824e3b0bb2f0295497474709)
 - [Clojure](https://clojure.org/community/resources)
