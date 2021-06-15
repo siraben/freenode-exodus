@@ -602,6 +602,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [##rbxdev](https://twitter.com/SignorOmbra/status/1399086366475051010)
 - [RDO](https://lists.rdoproject.org/pipermail/dev/2021-May/009568.html) (to OFTC)
 - [re:Web](https://github.com/apparentorder/reweb/commit/9a1dd5abcb9cefffef05bf8ce3eca096a44ec27b)
+- [Real Liberty Media](https://twitter.com/BarMan_RLM/status/1404801531342462976)
 - [Remi's RPM repository](https://blog.remirepo.net/post/2021/05/20/remirepo-IRC-channel-on-Libera-network)
 - [RenderDoc](https://github.com/baldurk/renderdoc/commit/9db41e0a5ee94cf138b00f1ba4650323b93c46bf) (to OFTC)
 - [Reprap](https://reprap.org/mediawiki/index.php?title=IRC&diff=189073&oldid=186761)
