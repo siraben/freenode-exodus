@@ -208,6 +208,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [FileWiki](https://github.com/digint/filewiki/commit/36606dfc5a909878eeb2d54cdec1e4e5c227c9af)
 - [Fink Project](https://github.com/fink/website/commit/3f9dfae3dca338b8ccd9454f9ac428ae136a8e1f)
 - [firestr.com](https://twitter.com/mempko/status/1397619360752029696)
+- [Flatcar Container Linux](https://github.com/kinvolk/Flatcar/commit/8be84189560eb2c7a90f846d3d8fce4291501a25) (to [Matrix](https://app.element.io/#/room/#flatcar:matrix.org))
 - [Flathub](https://github.com/flathub/flathub/pull/2367) (to Matrix)
 - [Fluid](https://github.com/fluid-project/.github/pull/6/files) (to Matrix)
 - [fog](https://github.com/fog/fog.github.com/commit/682c4f8a8732cc0cd4122990b221e7470e97f95f) (to GitHub)
