@@ -472,6 +472,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Musl](https://twitter.com/musllibc/status/1395773725409165313)
 - [Mutt](http://lists.mutt.org/pipermail/mutt-announce/Week-of-Mon-20210517/000037.html)
 - [MyBrowse](https://gist.github.com/shadowcat-mst/998cea12794768bdb3da2daeff31baad#gistcomment-3744483)
+- [Mylar3](https://github.com/mylar3/mylar3/pull/784)
 - [#mysql](https://hashmysql.net/w/index.php?title=Main_Page&diff=3194&oldid=3168)
 - [naemon](https://www.naemon.org/project/2021/05/27/irc.html)
 - [Narwhal](https://github.com/narwhalirc/narwhal/commits/master/README.md)
