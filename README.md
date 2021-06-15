@@ -382,6 +382,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [London Hackspace](https://github.com/londonhackspace/hackspace-foundation-sites/commit/0a90a58372abb20ebdeb0525786fd0ecd4cfa500)
 - [Looking Glass](https://github.com/gnif/LookingGlass/pull/543)
 - [lorri](https://github.com/nix-community/lorri/commit/dd45c1f0ebea90102a0fe9b5fcc701302e71f1f6)
+- [lowtech.io](https://github.com/davidpirogov/lowtech.io/commit/18209e0ea2c92fd64207e818af49aa958054b2e3) (to OFTC)
 - [Lua Fr](https://github.com/lua-fr/lua-fr.github.io/commit/7a277c7b7096892725a6b3e84c4b63dc93d8ac88)
 - [LundLinuxCon](https://github.com/pomac303/llc-webpage/commit/0f8f46fb0b91b6890c2817ffa80b5fca53e54c7f)
 - [Lutris](https://github.com/lutris/website/commit/dc9adc0786d0e2050ed0ac964ac931060d0d4f2a)
