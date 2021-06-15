@@ -527,6 +527,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OSUOSL](https://github.com/osuosl/osuosl-pelican/pull/365)
 - [OTFBot](https://github.com/allo-/otfbot/commit/5b9baadc881805070800a8ffb8d1a5862a55c106)
 - [Otter Browser](https://github.com/OtterBrowser/otter-browser/commit/623203887066d0e925b93dafd4778b0ff62f21c7)
+- [ovhnas](https://github.com/kotc/ovhnas/commit/2e2c18865b2a6c04ea75f86c362e3f81b400c33c)
 - Packetframe
 - [Packit](https://github.com/packit/packit.dev/pull/286)
 - [Palaver](https://palaverapp.com/blog/ergo-chat) (to irc.ergo.chat, bridged to Libera.chat)
