@@ -242,6 +242,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [GCC](https://gcc.gnu.org/wiki/GCConIRC)
 - [GDB](https://sourceware.org/pipermail/gdb/2021-May/049466.html)
 - [GDC](https://github.com/D-Programming-GDC/gdcproject/commit/22a4d64cd1419f79893b5eabe9df1d2f0760d6e9)
+- [GemRB](https://gemrb.org/2021/06/15/irc-channel-moved-to-libera-chat.html)
 - [Gentoo](https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html)
 - [Gentoo e.V.](https://github.com/gentoo-ev/www.gentoo.de/commit/cefa707affab2f60c5e6cfc1556c46c092de489d)
 - [geOrchestra](https://github.com/georchestra/georchestra.github.io/pull/102)
