@@ -45,7 +45,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Armbian](https://forum.armbian.com/topic/18203-irc-channels-moved-to-liberachat/)
 - [Arx Libertatis](https://arx-libertatis.org/news/chat)
 - [Asahi Linux](https://twitter.com/AsahiLinux/status/1395226914315407362) (to OFTC)
-- [Asterisk](https://www.asterisk.org/irc-channels-moved-to-libera-chat/)
+- [Asterisk](https://www.asterisk.org/irc-channels-moved-to-libera-chat/) [SECURITY WARNING](https://community.freepbx.org/t/security-warning-freenode/76211/1)
 - [AsteroidOS](https://twitter.com/AsteroidOS/status/1398645863988273158)
 - [ASUSWRT](https://twitter.com/RMerlinDev/status/1398703845161701377)
 - [Atheme](https://github.com/atheme/atheme/commit/737aece1c9e2f656ecb70fa0ad6198800db3300c)
