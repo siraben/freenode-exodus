@@ -611,6 +611,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [quick-lint-js](https://github.com/quick-lint/quick-lint-js/commit/2c92710784e13e27bf82463f0dc225e66d4f1371)
 - [qutebrowser](https://lists.schokokeks.org/pipermail/qutebrowser-announce/2021-May/000102.html)
 - r/linux
+- [r/nfl](https://www.reddit.com/r/nfl/comments/o0sn8i/rnfl_irc_channel_has_moved/)
 - [r/sysadmin](https://www.reddit.com/r/sysadmin/comments/nlw6iz/on_freenode_libera_and_the_rsysadmin_irc_channel/)
 - [r/weakpots](https://www.reddit.com/r/Weakpots/comments/nzmm2o/new_irc_still_not_a_safespace/)
 - [Racket](https://github.com/racket/racket-lang-org/commit/56a31fcefaf85fe9a810ea65291dc827ad6c492a)
