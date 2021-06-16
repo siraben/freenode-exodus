@@ -283,6 +283,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Guile](https://www.gnu.org/software/guile/learn/)
 - [Guix](https://github.com/guix-mirror/guix/commit/c0087d33705f53cc3619a1a43a33602aaecc3a8b)
 - [Guix China](https://github.com/guixcn/guixcn.github.io/commit/8eced0c3583f74f4ba1f3d9746e00e284ad1780f)
+- [HAB-Documentation](https://github.com/daveake/HAB-Documentation/commit/b99d3be924b83a5606a144c2c2d673b1612d444a)
 - [hackeriet.no](https://twitter.com/hackeriet/status/1397480914981167104)
 - ##hackers
 - [Hackerspace AU Mans (HAUM)](https://github.com/haum/website/commit/cd5ccfe99e7588332e441a5b622fd6ead394c3ac)
