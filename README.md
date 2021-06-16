@@ -237,6 +237,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [FreeHL](https://github.com/eukara/freehl/commit/8dd9fad77164554adc2023eab6b8a21d15429f00)
 - [FreeIPA](https://github.com/freeipa/freeipa/commit/338f0bcecf3d5a36068d32ee8877aeba72096d52)
 - [freenode-windows.org](https://www.freenode-windows.org/)
+- [FreeRDP](https://mastodon.social/@akallabeth/106370105032015388) (to OFTC)
 - [Freifunk Vogtland](https://github.com/FreifunkVogtland/ffv-api-generator/commit/a82ba2e2ae2962984453edfeaab0bbd4635a1043) (to hackint)
 - [FrOSCon](https://twitter.com/froscon/status/1397622678387843083)
 - [Froxlor](https://github.com/Froxlor/Froxlor/commit/3df3261ac0351d7b19fb0478ceaa67b5878cc381)
