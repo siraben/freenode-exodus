@@ -127,6 +127,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Collabora Online](https://github.com/CollaboraOnline/online/commit/f1c796bd2908b6755a9bc42c3da58224cb1d3b5b)
 - [Composr CMS](https://compo.sr/news/view/announcements/irc-channel-moving-to.htm)
 - [ConnectBot](https://github.com/connectbot/connectbot.github.io/commit/6756b0041bbfb9a3f29b1a472c57a83716880c93)
+- [Conquest](https://github.com/jtrulson/conquest/commit/8984c4726108e35adba8c8f971dc3a4f6c6ff4db)
 - [Convos](https://convos.chat/blog/2021/5/20/moving-from-freenode-to-libera)
 - [Coq](https://github.com/coq/www/pull/171/commits/be676ac59620cde52b16562024c951c9149d23a2)
 - [coreboot](https://doc.coreboot.org/community/forums.html)
