@@ -297,6 +297,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [HamBSD](https://twitter.com/hambsdorg/status/1397943204843036674)
 - [Hammerspoon](https://twitter.com/_hammerspoon/status/1397647962851926023)
 - [HandBrake](https://forum.handbrake.fr/viewtopic.php?p=196519#p196519)
+- [HAProxy](https://github.com/haproxy/wiki/wiki/Organization/_compare/2740733967ff23d94b5a14e2f6f6e8c2758044ec)
 - [Hardened GNU/Linux](https://github.com/hardenedlinux/hardenedlinux.github.io/commit/3967d8f421a25585f43e79721af69a884298a910) (to OFTC)
 - [HardenedBSD](https://hardenedbsd.org/article/shawn-webb/2021-05-26/hardenedbsd-switching-irc-servers)
 - [Hardfought](https://www.hardfought.org/libera-irc/)
