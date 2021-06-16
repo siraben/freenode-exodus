@@ -589,7 +589,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Prometheus](https://twitter.com/PrometheusIO/status/1396132359037149189)
 - [Pubstandards London](https://github.com/pubstandards/pubstandards-london/commit/c2ebac5dc8e4c03078cf4410ff66940fabc4e19a)
 - [Pulp Project](https://twitter.com/pulpproj/status/1397532195594645509)
-- [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/Community/#ircandmatrix)
+- [PulseAudio](https://twitter.com/pulseaudio/status/1404984909299654656)
 - [purdueLUG](https://github.com/purdueLUG/purduelug.github.io/commit/69a35a274ebef30610fff5756d689d81305c53e9)
 - [py3status](https://github.com/ultrabug/py3status/commit/cacc0b823d4d9a6292eb47f0ede34abba547e3a0) (to OFTC)
 - [pydle](https://github.com/Shizmob/pydle/commit/baa7070309906f6a58d4b29bad6f1efff90baf16)
