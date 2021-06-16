@@ -589,6 +589,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Pleroma](https://pleroma.social/announcements/2021/05/31/moving-away-from-freenode/)
 - [PLUG](https://github.com/phillylinux/phillylinux.github.io/commit/0ffb76e33922c67aeaa7cbd48e6156ad94a54838)
 - [Podman](https://github.com/containers/podman/pull/10499)
+- [polybar](https://polybar.github.io/2021/06/16/freenode-is-dead.html)
 - [PonyMail](https://github.com/apache/incubator-ponymail-foal/commit/1752e2daab703f6caf5034818a9cfa21e459d3b2)
 - [Porteus](https://forum.porteus.org/viewtopic.php?f=48&p=82428&sid=fd768d3cbbacf4fc4b1be36456d31328)
 - [Portland Common Data Model (pcdm)](https://github.com/duraspace/pcdm/pull/76/files) (to Slack)
