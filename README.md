@@ -364,7 +364,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Kata Containers](https://twitter.com/katacontainers/status/1402687305828212741) (to OFTC)
 - [KeePassXC](https://twitter.com/KeePassXC/status/1398426279133814785)
 - [#kerberos](https://github.com/krb5/krb5/commit/dbdde71a924777f271288f64012c6f2fa08fdda9)
-- [Kiali](https://github.com/kiali/kiali.io/pull/382)
+- [Kiali](https://twitter.com/KialiProject/status/1405102855611166720)
 - [KiCad](https://www.kicad.org/community/chat/)
 - [killer](https://github.com/Lvl4Sword/Killer/commit/d1ed629036d5c62a8169e83acbd396a9d2843f44)
 - [Kirikiri SDL2](https://github.com/krkrsdl2/krkrsdl2/commit/55691a1345e4319af6dab8911fa9d0a795a6c392)
