@@ -768,6 +768,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Ulfius](https://github.com/babelouest/ulfius/commit/adac160a9f7be6858e645befeccfe6683d38ec7f)
 - [Ultimate Hacking Keyboard](https://twitter.com/AmNicd/status/1397950492333035535)
 - [Unknown Horizons](https://twitter.com/uhorizons/status/1397152583475679234)
+- [Unreal Engine](https://forums.unrealengine.com/t/fyi-irc-ue4linux-has-moved-to-irc-libera-chat/235618/1)
 - [Vabal](https://github.com/vabal/vabal/pull/25)
 - [vallumd](https://github.com/stintel/vallumd/commit/97eae4a3d9588725211c5437fa3e23fc2066d0a7) (to OFTC)
 - [VARCem](https://github.com/VARCem/VARCem/commit/12eb6bfdc7ec8c60ca0d5a24c847b612b65088f0) (to irc.varcem.com)
