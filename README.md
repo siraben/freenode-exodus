@@ -650,6 +650,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [RTL-SDR](https://www.rtl-sdr.com/freenode-rtlsdr-irc-channel-moving-to-libera/)
 - [RUA](https://github.com/vn971/rua/commit/3d4cce57ee69f4939b80c7e9ba8ce81b9204d0bd)
 - [Rust Bitcoin Community](https://github.com/rust-bitcoin/rust-bitcoin/commit/dc3d9eebaaed9c572a8fbc7ff65225e241401528)
+- [Rust Embedded](https://github.com/rust-embedded/wg/pull/561)
 - [rust-libp2p](https://github.com/libp2p/rust-libp2p/pull/2096) (to forums)
 - [Ryzom Core](https://mobile.twitter.com/kaetemi/status/1404161357696565252)
 - [s6](https://github.com/skarnet/s6/commit/4101e5666234497c18cafd4de5959e44c5950b8b) (to OFTC)
