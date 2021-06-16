@@ -457,6 +457,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [matterbridge](https://github.com/42wim/matterbridge/commit/c7897cca5d61bbe3579403fbbef62c0d70779876)
 - [mblaze](https://github.com/leahneukirchen/mblaze/commit/6684f74f0719be15fad22df73723380b91c3b71e)
 - [McCLIM](https://twitter.com/dk_jackdaniel/status/1396475329770831877)
+- [#mcdevs](https://twitter.com/TkTech/status/1405158516080398337)
 - [MCF Gthread](https://github.com/lhmouse/mcfgthread/commit/6af54658f403bda7b66f49d9ae3ea8229614b98c)
 - [Mednafen](https://github.com/mednafen/mednafen.github.io/commit/f20664e6c24be8c1c6a7ad76b7c31c67c209d370) (to OFTC)
 - [MegaGlest](https://github.com/MegaGlest/megaglest-source/commit/d1ed68ef00add7561a16c5c51146e7e68b0cf736)
