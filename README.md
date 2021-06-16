@@ -625,6 +625,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Reproducibility:NixOS (r13y.com)](https://github.com/grahamc/r13y.com/commit/a88c45e9b56bf82728ff9aa3021d359c3486091b) (to Matrix)
 - [restic](https://twitter.com/resticbackup/status/1399049594672136193)
 - [Retro Forth](https://www.patreon.com/posts/51959256)
+- [Revolution IRC](https://github.com/siraben/freenode-exodus/issues/132)
 - [#revspace](https://twitter.com/revspace/status/1395050989514862593)
 - #riscv
 - [riseup.net](https://github.com/riseupnet/riseup_help/pull/751)
