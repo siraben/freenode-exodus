@@ -315,6 +315,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [HexChat](https://hexchat.github.io/news/hexchat-channel.html)
 - [High Altitude Ballooning](https://twitter.com/daveake/status/1405139691066859529)
 - [HipHopVM](https://github.com/hhvm/hhvm.com/pull/132) (to Slack)
+- [hl://Dig](https://github.com/solbu/hldig/commit/ddbe3c88ecd883ff21f3985c1c892bb7e7a5284c)
 - [hledger](https://groups.google.com/g/hledger/c/9NQ_1_ng1XM/m/OeRFIMbxBQAJ)
 - [Holarse](https://twitter.com/holarse/status/1405065836637962242)
 - [Home Manager](https://discourse.nixos.org/t/home-manager-irc-move-to-oftc/13352) (to OFTC)
