@@ -200,7 +200,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Exaile](https://github.com/exaile/exaile/commit/3af997812948c2ef0cc042b5372aa58ee0f7380b) (to Mailing List and GitHub)
 - [Exherbo](https://lists.exherbo.org/pipermail/exherbo-dev/2021-June/001573.html)
 - [Exim](https://www.mail-archive.com/exim-users@exim.org/msg55962.html)
-- [Exodus Privacy](https://github.com/Exodus-Privacy/website/pull/127)
+- [Exodus Privacy](https://twitter.com/ExodusPrivacy/status/1405076566036652033)
 - [exult](https://github.com/exult/exult/commit/e4ccd759be207939764528949dd877a5be826b02)
 - [EyeInTheSky IRC Bot](https://github.com/stwalkerster/eyeinthesky/commit/846cd238497027d7541df21944aac352ad7ffb90)
 - [F-Droid](https://f-droid.org/en/2021/06/10/important-community-update.html) (to OFTC)
