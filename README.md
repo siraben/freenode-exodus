@@ -728,6 +728,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [SuperTux](https://github.com/SuperTux/SuperTux.github.io/commit/5c6cbf201344deddd98bacd43c7e7d37418bacef)
 - [SuperTuxKart](https://github.com/supertuxkart/stk-code/commit/5fed067b9c0814e861930ebeefa93750947ed574)
 - [supybot-github](https://github.com/kongr45gpen/supybot-github/commit/ca4cc80119533c4ed5c0f46c8a6d9885be9eefed)
+- [Surface System Aggregator Linux Subsystem](https://www.spinics.net/lists/platform-driver-x86/msg26139.html)
 - [Sway](https://github.com/swaywm/sway/commit/1651f2106152b40abd8c1dcef2ddcbbca36c7b47)
 - [SWI-Prolog](https://twitter.com/SwiProlog_/status/1396539991963148291)
 - [Syncthing](https://github.com/syncthing/syncthing/commit/fbaf69682170aaf036a4be35f16c750d9e62117f) (to Forums)
