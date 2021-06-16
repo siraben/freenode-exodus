@@ -138,6 +138,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Cozy Cloud](https://twitter.com/cozycloud/status/1399266831244869635)
 - [Critter](https://github.com/oprypin/critter/commit/0ad3f3913d49ecb1ec7aea5d5b4bd220eb759a72)
 - [Crosstool-NG](https://github.com/crosstool-ng/crosstool-ng.github.io/pull/34)
+- [cryptmypi](https://github.com/unixabg/cryptmypi/commit/90e3d36d51d9da91273a85ae5a569c5339ebafef) (to OFTC)
 - [Crystal Lang](https://crystal-lang.org/2021/06/04/irc-channel-moved-to-libera-chat.html)
 - [#csharp](https://github.com/siraben/freenode-exodus/issues/136)
 - [ctjb](https://github.com/ctjb/ctjb.net/commit/d01b2006eb952930137d1bc2ca5add68b9348fb9)
