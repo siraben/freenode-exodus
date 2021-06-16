@@ -244,6 +244,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [FVWM-crystal](https://github.com/fvwm-crystal/fvwm-crystal/commit/9e69daf5d58d903d0ae3d3c3e6b8e9fd5490247c)
 - [FVWM3](https://github.com/fvwmorg/fvwmorg.github.io/commit/eed5315a5a1aa9653e17aa19ac591a050c944fa1)
 - [Gamingonlinux](https://www.gamingonlinux.com/2021/05/gamingonlinux-moves-on-from-freenode-to-liberachat-for-irc/)
+- [Gandi](https://twitter.com/gandinoc/status/1405088537628786688)
 - [Ganeti Project](https://github.com/ganeti/ganeti.org/commit/55884ca14d058bfea89727f7fff13b6b1380afad) (to OFTC)
 - [GCC](https://gcc.gnu.org/wiki/GCConIRC)
 - [GDB](https://sourceware.org/pipermail/gdb/2021-May/049466.html)
