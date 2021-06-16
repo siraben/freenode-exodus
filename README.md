@@ -385,6 +385,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [libguestfs](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
 - [libopencm3](https://github.com/libopencm3/libopencm3/commit/3b89fc5999874c49f6f5be65bbd5e75f7d77469c)
 - [Libreboot](https://libreboot.org/news/freenode.html) (to self-hosted server)
+- [LibreCAD](https://github.com/LibreCAD/website/commit/3f8b5232fa0bd6862732638ffe344f21d348ff5f)
 - [librecast](https://twitter.com/librecast/status/1395021348116783106)
 - [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
 - [LibreOffice](https://blog.documentfoundation.org/blog/2021/05/31/libreoffice-irc-channels-moving-to-libera-chat/)
