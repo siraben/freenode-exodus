@@ -308,6 +308,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [HexChat](https://hexchat.github.io/news/hexchat-channel.html)
 - [HipHopVM](https://github.com/hhvm/hhvm.com/pull/132) (to Slack)
 - [hledger](https://groups.google.com/g/hledger/c/9NQ_1_ng1XM/m/OeRFIMbxBQAJ)
+- [Holarse](https://twitter.com/holarse/status/1405065836637962242)
 - [Home Manager](https://discourse.nixos.org/t/home-manager-irc-move-to-oftc/13352) (to OFTC)
 - [##homebrewcpu](https://twitter.com/sarahemm/status/1397564338865639424)
 - [Horizon EDA](https://github.com/horizon-eda/horizon/commit/c1a1c7e3968944da15e878a485e50266a258fa57)
