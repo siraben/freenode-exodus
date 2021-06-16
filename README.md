@@ -238,6 +238,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [freenode-windows.org](https://www.freenode-windows.org/)
 - [Freifunk Vogtland](https://github.com/FreifunkVogtland/ffv-api-generator/commit/a82ba2e2ae2962984453edfeaab0bbd4635a1043) (to hackint)
 - [FrOSCon](https://twitter.com/froscon/status/1397622678387843083)
+- [Froxlor](https://github.com/Froxlor/Froxlor/commit/3df3261ac0351d7b19fb0478ceaa67b5878cc381)
 - [FSFE](https://fsfe.org/news/2021/news-20210525-01.de.html)
 - #fuchsia (to OFTC)
 - [Fusion Directory](https://twitter.com/fusiondirectory/status/1404912571774275584)
