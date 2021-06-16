@@ -325,7 +325,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Horizon EDA](https://github.com/horizon-eda/horizon/commit/c1a1c7e3968944da15e878a485e50266a258fa57)
 - [Hplusroadmap](https://diyhpl.us/wiki/hplusroadmap/)
 - [HPy](https://hpyproject.org/blog/posts/2021/05/hpy-irc-moves-to-libera-chat/)
-- [htop](https://github.com/htop-dev/htop/commit/78793c55847eb59ac7409a71612468660efc8e3f)
+- [htop](https://twitter.com/htopdev/status/1405152465859788801)
 - [Huggle 3](https://github.com/huggle/huggle3-qt-lx/commit/e31876b4f645a39d2b1636a98f3edadee0162746)
 - [Hundred Rabbits](https://github.com/hundredrabbits/100r.co/commit/9fdd9d4cf4957d2d894e2f05c87b7ec806f90995) (to irc.esper.net)
 - [HydraBus](https://twitter.com/hydrabus/status/1397654991087849482)
