@@ -386,6 +386,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [KVIrc](https://github.com/kvirc/kvirc-www/commit/1cdfbacc5d2f06f9120478cf7440be729b4c9d66)
 - [L2-zoology](https://github.com/ariard/L2-zoology/issues/10)
 - [Lab::Measurement](https://github.com/lab-measurement/Lab-Measurement/commit/8ba5ff69b4642b630b83d49cbde3e54c75154b9b)
+- [Labgrid](https://github.com/labgrid-project/labgrid/commit/2b47bec57eb50c6d6949c23d5cd8a6d76f3b7f20)
 - [Launchpad](https://twitter.com/launchpadstatus/status/1398249939340304390)
 - [Leapp](https://github.com/oamg/leapp/commit/572626df9763abeb57d9c828e7c9b2f1c340c0e6)
 - [ledger](https://github.com/ledger/ledger-website/commit/b48c1dce5ecd181c91a78d9e7a876afa1056da4f)
