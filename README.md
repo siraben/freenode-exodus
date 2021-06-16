@@ -685,6 +685,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Slackware](http://www.slackware.com/~rworkman/slackware-irc/)
 - [SLASH'EM Extended](https://github.com/SLASHEM-Extended/SLASHEM-Extended/commit/a36ccd381c3bf7b2f6e679c23acbb7f469f48b7b)
 - [SmartOS](https://twitter.com/JoyentSmartOS/status/1398689698344706050)
+- [snapd](https://github.com/snapcore/snapd/commit/a955819efcc373a43214c4542cc9cb179224a18f)
 - [SNES Central](https://twitter.com/snescentral/status/1396441180947288064) (to Discord)
 - [sngrep](https://github.com/irontec/sngrep/commit/5df40383182b4e3d350451addec0594f1447a7e1)
 - [Software Freedom Law Center (SFLC)](https://github.com/siraben/freenode-exodus/issues/126)
