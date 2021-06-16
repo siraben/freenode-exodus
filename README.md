@@ -101,7 +101,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Celery](https://github.com/celery/celery/issues/6811)
 - [CentOS](https://blog.centos.org/2021/05/centos-irc-channels-moving-to-irc-libera-chat/)
 - [cgit](https://lists.zx2c4.com/pipermail/cgit/2021-May/004637.html)
-- [Chaos Computer Club Cologne (CCCC)](https://twitter.com/ccc_koeln/status/1397283526953799682)
+- [Chaos Computer Club Cologne (CCCC)](https://twitter.com/ccc_koeln/status/1397283526953799682) (to hackint)
 - [Chaos Computer Club Stuttgart (CCCS)](https://github.com/cccs/cccs-website/commit/d1486d20bb83fa035c8f4dd1959892867cb45658)
 - [Chaos Space Operation Centre (CSOC)](https://twitter.com/C3SpaceCentre/status/1404774140008140802)
 - [Chaskis](https://github.com/xforever1313/Chaskis/commit/8a738f6aef1e832a4a1bc4b49725bb4251d32f21)
