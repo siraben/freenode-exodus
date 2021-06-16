@@ -185,6 +185,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [eev](https://github.com/edrx/eev/commit/615e83260a14eed914cc31f34364cc05527c7efc)
 - [Eggdrop](https://eggheads.org/news#news69)
 - [Electromagnetic Field](https://twitter.com/emfcamp/status/1398348629635633152)
+- [Electrum](https://github.com/spesmilo/electrum-web/pull/14)
 - [eLinux](https://twitter.com/elinux/status/1397204424053907458)
 - [Elixir](https://twitter.com/AmNicd/status/1397448111291879424)
 - [Elvish](https://github.com/elves/elvish/commit/e44b677e79cc52998e3c85e7b01ae14cf7f6f735)
