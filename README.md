@@ -682,6 +682,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Scottish Linux User Group (ScotLUG)](https://github.com/ScotLUG/scotlug.github.io/commit/250fb986fcfccbec9331cb58a71120907586874e)
 - [ScummVM](https://twitter.com/ScummVM/status/1397664213124980737)
 - [Scuttlebutt](https://github.com/ssbc/ssb-server/commit/2ba6d6dc465e9812cbe05a3d045b183853397850)
+- [SDAPS](https://github.com/sdaps/website/commit/bf860cc8a90ba432e528877ce3642dd6a3a9a6d8)
 - [Seamonkey Internet Suite](https://seamonkeyde.wordpress.com/2021/06/16/irc-support-ist-nach-libera-chat-umgezogen/)
 - [Seattle GNU/Linux Conference ](https://github.com/SeaGL/seagl.github.io/commit/ca65a364735e45f8ffd68373c0a855e9cd590c70)
 - [Selenium](https://www.selenium.dev/blog/2021/moving-to-libera-chat/)
