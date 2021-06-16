@@ -738,6 +738,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Tox Reference Implementation for Android](https://github.com/zoff99/ToxAndroidRefImpl/commit/49a409287d546e489a415741d73e4a2235aa4314)
 - [Toxic](https://github.com/JFreegman/toxic/commit/556a522637e9a83993b8fe850d600268d8e01b18)
 - [Toybox](https://github.com/landley/toybox/commit/6ce11972ecdf798872b0236b4921cb3ff35f7d29)
+- [Tracks](https://github.com/TracksApp/tracksapp.github.io/commit/0535f0259832cd710c85e9623e922f3deeff0543)
 - [Tridactyl](https://github.com/tridactyl/tridactyl/pull/3778)
 - [Trinity Desktop Environment](https://mail.trinitydesktop.org/mailman3/hyperkitty/list/announcements@trinitydesktop.org/thread/BSBOANHIBI35CSWYNQA5TB5W2O4C53SE/)
 - [TroLUG](https://github.com/TroLUG/trolug-nikola/commit/e843ecbd4f8ca773858d7659c029190f7d05ca28)
