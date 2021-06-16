@@ -781,6 +781,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [WA7VC](https://github.com/wa7vc/wa7vc.org/commit/57ee00dd4143d02ac002009e22164db86d76943f)
 - [Warpzone](https://www.warpzone.ms/perma/bye-bye-freenode/2529/) (to hackint)
 - [Warsaw Hackerspace](https://twitter.com/hackerspacepl/status/1397543122415067143)
+- [Wayfire](https://github.com/WayfireWM/wayfire/commit/ffa02dbcce3a1607956102597ebb925aae4ee6d4)
 - [wayvnc](https://github.com/any1/wayvnc/commit/3b6a07a3b6fe1e6ce3d5505fed09263bb6557019)
 - [Wazo Platform](https://github.com/wazo-platform/wazo-platform.org/commit/0f3601ab5b152d35fd56842566ee301f03b781ba) (to Mattermost)
 - #web
