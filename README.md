@@ -288,6 +288,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [hackeriet.no](https://twitter.com/hackeriet/status/1397480914981167104)
 - ##hackers
 - [Hackerspace AU Mans (HAUM)](https://github.com/haum/website/commit/cd5ccfe99e7588332e441a5b622fd6ead394c3ac)
+- [Hackerspace brmlab](https://github.com/brmlab/web/commit/37e2f835b67b9774558ffe7dc96a7c53eef9dc74)
 - [hackerspaces.org](https://wiki.hackerspaces.org/Communication#IRC)
 - [HackSoc](https://www.hacksoc.org/news/2021-05-25-moving-to-libera.html)
 - [Hagrid](https://gitlab.com/hagrid-keyserver/hagrid/-/commit/c85a7e2c14586ebca701f9018a9fc11d1a505c89) (to OFTC)
