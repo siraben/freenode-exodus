@@ -726,6 +726,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Software Heritage](https://hedgedoc.softwareheritage.org/s/Z0lo4_cCF#)
 - [Solanum](https://github.com/solanum-ircd/solanum.chat/pull/7)
 - [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
+- [Sonarr](https://github.com/Sonarr/sonarr.github.io/commit/7d0c4adcbac6441469b7cf12f3cdc4c5a9096acd)
 - [SopelIRC](https://twitter.com/SopelIRC/status/1397409117380153348)
 - [Sound Open Firmware (SOF)](https://github.com/thesofproject/sof/commit/fdcf636530f572b62b0208f75ec6f97c81986914) (to Gitter)
 - [Source Mage GNU/Linux](https://sourcemage.org/News/leaving-freenode/)
