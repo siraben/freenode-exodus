@@ -749,6 +749,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Sudo Room](https://sudoroom.org/mediawiki/index.php?title=IRC&type=revision&diff=11787&oldid=11762)
 - [Sugar Labs](https://github.com/sugarlabs/sugar-docs/commit/36365a4c6630936a60309503da7499bc00574a8c) (to Matrix)
 - [SundayMoaning](https://twitter.com/SundayMoanin/status/1396391596946608128)
+- [Sunflower](https://github.com/MeanEYE/Sunflower/commit/dda9dcfc102188ffd11c0fa288d0fc26d1d63cc6)
 - [SuperTux](https://github.com/SuperTux/SuperTux.github.io/commit/5c6cbf201344deddd98bacd43c7e7d37418bacef)
 - [SuperTuxKart](https://github.com/supertuxkart/stk-code/commit/5fed067b9c0814e861930ebeefa93750947ed574)
 - [supybot-github](https://github.com/kongr45gpen/supybot-github/commit/ca4cc80119533c4ed5c0f46c8a6d9885be9eefed)
