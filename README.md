@@ -299,6 +299,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Haiku](https://www.haiku-os.org/news/2021-05-19_haiku_is_moving_to_oftc/) (to OFTC)
 - [Hakierspejs Łódź](https://github.com/hakierspejs/homepage/pull/33)
 - [hakyll](https://github.com/jaspervdj/hakyll/commit/8980133284d7d5f0d7cd71580796150c74b22f2d)
+- [Halium](https://github.com/Halium/docs/commit/ac3907da1bfc66084d80d96ee67dfd5d7bccd2bf) (to Matrix)
 - [HamBSD](https://twitter.com/hambsdorg/status/1397943204843036674)
 - [Hammerspoon](https://twitter.com/_hammerspoon/status/1397647962851926023)
 - [HandBrake](https://forum.handbrake.fr/viewtopic.php?p=196519#p196519)
