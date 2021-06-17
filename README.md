@@ -809,6 +809,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Veil2](https://github.com/marcmunro/veil2/commit/bcd7701494b2c1554aae5f05f7eddb97612203ac)
 - [VICE](https://github.com/VICE-Team/svn-mirror/commit/cdde9576b76d9b0f332af4eab85d48d43896c305)
 - [Vim](https://old.reddit.com/r/vim/comments/nlwwg4/vim_has_a_new_irc_home/)
+- [Virtualbox](https://www.virtualbox.org/wiki/IRC) (to OFTC)
 - [Visidata](https://twitter.com/saulfp/status/1397390668440379392)
 - [Void Linux](https://voidlinux.org/news/2021/05/libera.html)
 - [Vouch](https://github.com/vouch/vouch-proxy/commit/1a3c67a7f1cfdd5fe3739fbcb6d6f78b3bf64002)
