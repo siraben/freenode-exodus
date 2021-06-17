@@ -819,6 +819,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Void Linux](https://voidlinux.org/news/2021/05/libera.html)
 - [Vouch](https://github.com/vouch/vouch-proxy/commit/1a3c67a7f1cfdd5fe3739fbcb6d6f78b3bf64002)
 - [Vox Populi](https://voxpupuli.org/blog/2021/06/12/voxpupuli-migrating-from-freenode-to-libera/)
+- [vpsAdminOS](https://github.com/vpsfreecz/vpsadminos/commit/28b5f0e1e3e919dc01ae0615335055f0a4c0faee)
 - [vpsFree](https://twitter.com/vpsfree_cz/status/1404521321703346176)
 - [WA7VC](https://github.com/wa7vc/wa7vc.org/commit/57ee00dd4143d02ac002009e22164db86d76943f)
 - [Warpzone](https://www.warpzone.ms/perma/bye-bye-freenode/2529/) (to hackint)
