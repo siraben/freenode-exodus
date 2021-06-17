@@ -13,6 +13,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Aaru Data Preservation Suite](https://twitter.com/aaru_dps/status/1395179602574782471)
 - [abcde](https://abcde.einval.com/wiki/)
 - [Accidental Tech Podcast](https://twitter.com/atpfm/status/1400226064350199808)
+- [AcroBot](https://twitter.com/_acrobot/status/1405357390631882752)
 - [ADAM](https://github.com/bigdatagenomics/adam/commit/1f5c36c75959fd13fc5536db837432eca3c1e11b)
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
 - [afew](https://github.com/afewmail/afew/commit/8ef9a5b73e5d1063cf912c70027c655fb19d1109)
