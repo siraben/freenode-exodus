@@ -367,7 +367,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [##java.de](https://twitter.com/Koschmic/status/1397457533288189952)
 - [Jazzband](https://github.com/jazzband/website/commit/77325a3a2c13213b4c35873ff13e26ab6ac290bb)
 - [Jellyfin](https://github.com/jellyfin/jellyfin-blog/commit/90c2e350d2f47e24e385574aa6f97ef622e4444e)
-- [Jenkins](https://groups.google.com/g/jenkinsci-dev/c/pEcun5ZSfgo/m/ztRg03VNAgAJ)
+- [Jenkins](https://www.jenkins.io/blog/2021/06/17/libera-chat/)
 - [jenkins-debian-glue](https://github.com/mika/jenkins-debian-glue.org/commit/0c89d839078a7c7c486890a5b85f06f2ac42624d) (to OFTC)
 - [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver/pull/884)
 - [JRuby](https://github.com/jruby/jruby.github.io/commit/b87124c37b17b409f867bc3f59cf4349361db714)
