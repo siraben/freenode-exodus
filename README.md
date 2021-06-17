@@ -482,6 +482,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [minible](https://github.com/mooltipass/minible/commit/e0651309c92ccec0e36b59b951544b22152fbf71)
 - [Miraheze](https://meta.miraheze.org/wiki/IRC/RfC)
 - [mksh](https://github.com/MirBSD/mksh/commit/66f97b1a3efea2fdcf870afebaaca1287482a6ae) (to OFTC, for now)
+- [#mobitopia](https://github.com/siraben/freenode-exodus/issues/143)
 - [MoinMoinChat](https://twitter.com/ThomasJWaldmann/status/1398608773594423301)
 - [Mojolicious](https://twitter.com/mojolicious_org/status/1396925921249083399)
 - [Monasca](https://github.com/monasca/monasca.github.io/commit/b0a4a677a81c875103edf27374f0479186924caf) (to OFTC)
