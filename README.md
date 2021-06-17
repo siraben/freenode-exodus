@@ -262,6 +262,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [GemRB](https://gemrb.org/2021/06/15/irc-channel-moved-to-libera-chat.html)
 - [Gentoo](https://www.gentoo.org/news/2021/05/23/Moving-to-Libera.html)
 - [Gentoo e.V.](https://github.com/gentoo-ev/www.gentoo.de/commit/cefa707affab2f60c5e6cfc1556c46c092de489d)
+- [GeoMoose](https://github.com/geomoose/gm3/pull/666)
 - [geOrchestra](https://github.com/georchestra/georchestra.github.io/pull/102)
 - [GHC](https://twitter.com/bgamari/status/1395065974496317442)
 - [GhettoForge](http://ghettoforge.org/index.php?title=News&curid=8&diff=201&oldid=181)
