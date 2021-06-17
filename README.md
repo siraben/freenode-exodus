@@ -768,7 +768,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [The Lounge](https://twitter.com/TheLoungeChat/status/1395809924383330308)
 - [The Mana World](https://www.themanaworld.org/news#94-news-2021-05-28)
 - [The Museum of Art and Digital Entertainment](https://twitter.com/TheMADE/status/1397574825539899397)
-- [The Offbeat Computation Club](https://twitter.com/offbeatcc/status/1404893563729575941)
+- [The Offbeat Computation Club](https://twitter.com/offbeatcc/status/1405535065405235215)
 - [The Powder Toy](https://powdertoy.co.uk/Wiki/index.php?title=Irc_setup&diff=prev&oldid=8083)
 - [The Secret Chronicles of Dr. M.](https://secretchronicles.org/en/news/2021/05/26/liberachat/)
 - [The TenDRA Project](https://github.com/tendra/tendra/commit/fc85a510fc0bf5fa0ffa7c55289eab943b787b92)
