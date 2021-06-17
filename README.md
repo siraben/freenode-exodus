@@ -25,6 +25,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Allegro](https://liballeg.org/irc.html)
 - [Alpine](https://alpinelinux.org/posts/Switching-to-OFTC.html) (to OFTC)
 - [alwaysdata](https://changelog.alwaysdata.com/212/detail/)
+- [Amarok](https://github.com/KDE/amarok/commit/5a0832e60fc2ab7717be0d6f74fe525b09a3a876)
 - [Anbox](https://github.com/anbox/anbox/pull/1818)
 - [##anime](https://github.com/anime-libera/stuff/commit/ce0e2c7b3af538645867f1a9ddbf77c7f6eac1c8#diff-51d4741b1e1a167db122b0338eb90751358768a1698194d4a36902bdf0e77fdc)
 - [Anklang](https://github.com/tim-janik/anklang/commit/074e7b9b53a2cb9c0e5a064182383aa3a25b9095)
