@@ -458,6 +458,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [MAME](https://www.mamedev.org/?p=500)
 - [Managarm](https://github.com/managarm/managarm/commit/faf56a3face2c8bbfcbabc30672ca475233256d7)
 - [Manatools](https://github.com/manatools/dnfdragora/commit/c1de58a99b2f359697c8dfd2f1670727d6a76fe3)
+- [MapServer](https://github.com/MapServer/MapServer-documentation/pull/560/files)
 - [Marathon Speedrun Developers](https://github.com/marathon-speedrun-developers/devel/commit/aec5c4e958cfea8139440a59442ffecd23ca2490)
 - [MariaDB](https://mariadb.com/kb/en/meta/irc-chat-servers-and-zulip-instance/)
 - [Mass Open Cloud](https://github.com/CCI-MOC/ops-issues/issues/273#issuecomment-861527508) (to OFTC)
