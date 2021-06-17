@@ -504,6 +504,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [MyBrowse](https://gist.github.com/shadowcat-mst/998cea12794768bdb3da2daeff31baad#gistcomment-3744483)
 - [Mylar3](https://github.com/mylar3/mylar3/pull/784)
 - [#mysql](https://hashmysql.net/w/index.php?title=Main_Page&diff=3194&oldid=3168)
+- [MythTV](https://www.mythtv.org/news/171/IRC%20Network%20Change)
 - [naemon](https://www.naemon.org/project/2021/05/27/irc.html)
 - [Narwhal](https://github.com/narwhalirc/narwhal/commits/master/README.md)
 - [Neomutt](https://github.com/neomutt/docbook/commit/d382fb45b915b20ef7becf39b4bb5106870566fa)
