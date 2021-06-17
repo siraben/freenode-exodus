@@ -473,6 +473,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [MegaGlest](https://github.com/MegaGlest/megaglest-source/commit/d1ed68ef00add7561a16c5c51146e7e68b0cf736)
 - [meli](https://github.com/meli/meli/commit/eea9ac2b58666f0157558c7afe42a2346126c711) (to OFTC)
 - [Memory Pool System Kit](https://github.com/Ravenbrook/mps/commit/34a2ad77140666532e5f00a19cc0896efe0b1254) (to email)
+- [Mender](https://github.com/mendersoftware/mender/pull/803/files)
 - [Mesa](https://lists.freedesktop.org/archives/mesa-dev/2021-May/225271.html) (to OFTC)
 - [Meson](https://mesonbuild.com/index.html#community) (to OFTC)
 - [Meson Build](https://twitter.com/mesonbuild/status/1397531239033278465) (to OFTC)
