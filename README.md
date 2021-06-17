@@ -644,6 +644,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - r/linux
 - [r/nfl](https://www.reddit.com/r/nfl/comments/o0sn8i/rnfl_irc_channel_has_moved/)
 - [r/sysadmin](https://www.reddit.com/r/sysadmin/comments/nlw6iz/on_freenode_libera_and_the_rsysadmin_irc_channel/)
+- [r/tennis](https://www.reddit.com/r/tennis/comments/o1v8r7/where_has_reddittennis_irc_channel_moved_to/h22vagn/)
 - [r/weakpots](https://www.reddit.com/r/Weakpots/comments/nzmm2o/new_irc_still_not_a_safespace/)
 - [Racket](https://github.com/racket/racket-lang-org/commit/56a31fcefaf85fe9a810ea65291dc827ad6c492a)
 - [radare](https://twitter.com/radareorg/status/1397838505775075329)
