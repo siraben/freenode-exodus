@@ -66,6 +66,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Beaker](https://github.com/beaker-project/beaker/commit/d8789d6d2144c16e6cc91f667013ea53d8ad3c49)
 - [Bedrock Linux](https://github.com/bedrocklinux/bedrocklinux-website/commit/1cb8db46d0c9e7784594a13fc11edfb0b15c883a)
 - [Beets](https://github.com/beetbox/beets/pull/3957/files)
+- [Bioinfo-fr.net](https://bioinfo-fr.net/migration-de-notre-irc-de-freenode-vers-libera)
 - [bitbot](https://github.com/jesopo/bitbot/commit/5f895544a80e47a32a07cfd6f4a06897f26cca4d)
 - [Bitcoin Core](http://www.erisian.com.au/bitcoin-core-dev/log-2021-05-20.html#l-582)
 - [BizHawk](https://github.com/TASVideos/BizHawk/commit/be575c96f0d1c441df2c48243c7c50015bdcc582#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
