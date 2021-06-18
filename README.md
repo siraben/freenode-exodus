@@ -587,7 +587,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenZFS on OS X](https://twitter.com/openzfsonosx/status/1397724943433961476)
 - [OPNsense](https://forum.opnsense.org/index.php?topic=23400.0)
 - [Opus project at Xiph](https://github.com/xiph/libopusenc/commit/63ba465a1fd9df109f0cd25d244db4030305e51f)
-- [Org mode](https://github.com/tecosaur/orgmode.org/commit/0944f5f7b5d28104fdb9fed73f1e362b5de052a2)
+- [Org mode](https://code.orgmode.org/bzg/orgweb/commit/0944f5f7b5d28104fdb9fed73f1e362b5de052a2)
 - [organice](https://github.com/200ok-ch/organice/pull/693)
 - [OSDev.org](https://wiki.osdev.org/index.php?title=Chat&diff=25945&oldid=24997)
 - [#ostc](https://twitter.com/zygoon/status/1397643651275280389)
