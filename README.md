@@ -346,6 +346,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#IdleRPG](https://idlerpg.lolhosting.net/restart.php)
 - [Illumos](https://github.com/illumos/docs/commit/702f0c666da3cd720c7dec5bccfff7129fb53262)
 - [Indian Linux User's Group - Chennai](https://ilugc.in/moving-from-freenode-to-liberachat/)
+- [Indico](https://github.com/indico/indico.github.io/commit/ea7ce82be7b2aec90f474a363fbba3927ab4bd35)
 - [IndieWeb](https://github.com/indieweb/wiki/commit/1b208927dde6b7d12b242acdaa7a15be43eddbf9)
 - [infer](https://github.com/facebook/infer/commit/f624fc119726b69b30c4e71a79806b4843a97248)
 - [Inkscape](https://wiki.inkscape.org/wiki/index.php?title=Social_media&curid=25616&diff=120087&oldid=106376)
