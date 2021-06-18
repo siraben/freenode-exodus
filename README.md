@@ -702,6 +702,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [rust-libp2p](https://github.com/libp2p/rust-libp2p/pull/2096) (to forums)
 - [Ryzom Core](https://mobile.twitter.com/kaetemi/status/1404161357696565252)
 - [s6](https://github.com/skarnet/s6/commit/4101e5666234497c18cafd4de5959e44c5950b8b) (to OFTC)
+- [Sailfish OS](https://forum.sailfishos.org/t/sailfish-os-irc-channels-moved-to-oftc-net/6980) (to OFTC)
 - [Salix-OS](https://github.com/Salix-OS/www.salixos.org/commit/411c54e0db46ca85543b31894d943986da7c31d9)
 - [Salt Project](https://github.com/saltstack/salt-enhancement-proposals/pull/46)
 - [San Diego BSD Users Group](https://lists.sdbug.org/pipermail/sdbug/2021-May/000177.html)
