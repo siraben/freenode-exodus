@@ -756,6 +756,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [steam (python module)](https://github.com/ValvePython/steam/commit/f00e7b86cd8c70a9ea2cf867c840014f64ffc0b2)
 - [SteamKit2](https://github.com/SteamRE/SteamKit/pull/991)
 - [Stendhal](https://github.com/siraben/freenode-exodus/issues/96#issue-918169506)
+- [Stevenarella](https://github.com/iceiix/stevenarella/commit/a7b093c93d25c255d8704d91d715a1902ef19a63) (to esper.net)
 - [STE||AR Group](https://github.com/STEllAR-GROUP/hpx/commit/334563aed4240501b18bc47cd4cfe68cf7648150)
 - STM32 Peripheral Access Crates (##stm32-rs) (to Matrix)
 - [strace](https://mobile.twitter.com/evgsyr/status/1397495752029523970) (to OFTC)
