@@ -58,6 +58,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Austin Hackers](https://twitter.com/AustinHackers/status/1395773170649608193)
 - [AutoForme](https://github.com/jeremyevans/autoforme/commit/9251d085dc500f755815873ffb5355c5adad42ea) (to Forums)
 - [backspace e.V (Hackerspace Bamberg)](https://www.hackerspace-bamberg.de/index.php?title=Kontakt&diff=11270&oldid=11251)
+- [Base48, z.s.](https://twitter.com/base48_cz/status/1405874402118545416)
 - [basspistol.com](https://github.com/Basspistol/basspistol.com/commit/55ea973a3055dcf0f9f70258670bcca6b4ff6312)
 - [BastilleBSD](https://twitter.com/BastilleBSD/status/1395536864673599491)
 - [batman-adv](https://lists.open-mesh.org/mailman3/hyperkitty/list/b.a.t.m.a.n@lists.open-mesh.org/thread/TGRTFW6OD2WGXUZL42ZDPXRCGNVJ2GML/) (to hackint)
