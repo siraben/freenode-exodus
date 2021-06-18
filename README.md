@@ -380,6 +380,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [kannader](https://github.com/Ekleog/kannader/commit/515f50979caa1e080a7aab0d9cddef66ca6da5ab)
 - [Kanshi](https://github.com/emersion/kanshi/commit/c5fd774040a28e99ea6e738cd822fd538ff9c599)
 - [Kata Containers](https://twitter.com/katacontainers/status/1402687305828212741) (to OFTC)
+- [KDE](https://userbase.kde.org/index.php?title=IRC_Channels&diff=467998&oldid=462517)
 - [KeePassXC](https://twitter.com/KeePassXC/status/1398426279133814785)
 - [#kerberos](https://github.com/krb5/krb5/commit/dbdde71a924777f271288f64012c6f2fa08fdda9)
 - [Kiali](https://twitter.com/KialiProject/status/1405102855611166720)
