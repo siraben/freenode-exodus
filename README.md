@@ -676,6 +676,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Retro Forth](https://www.patreon.com/posts/51959256)
 - [Revolution IRC](https://github.com/siraben/freenode-exodus/issues/132)
 - [#revspace](https://twitter.com/revspace/status/1395050989514862593)
+- [RIOT OS](https://github.com/RIOT-OS/RIOT/commit/2cf0fd4125ff301dac7758de2765cfce7c8f20b3) (to Matrix)
 - [rirc](https://github.com/rcr/rcr.github.io/commit/121ab5821d914f9cb29efa4b6baf27f5ad472cfd)
 - #riscv
 - [riseup.net](https://github.com/riseupnet/riseup_help/pull/751)
