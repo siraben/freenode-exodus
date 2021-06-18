@@ -17,6 +17,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [ADAM](https://github.com/bigdatagenomics/adam/commit/1f5c36c75959fd13fc5536db837432eca3c1e11b)
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
 - [afew](https://github.com/afewmail/afew/commit/8ef9a5b73e5d1063cf912c70027c655fb19d1109)
+- [AFPy](https://github.com/AFPy/AfpyLogs/pull/5)
 - [Agda](https://wiki.portal.chalmers.se/agda/Main/Community?action=diff#diff1622023591)
 - [Airship](https://twitter.com/airshipproject/status/1402052776083984385) (to OFTC)
 - [Akaros](https://github.com/akaros/akaros.github.io/commit/72a7c39a04f6dffc82e6dc578fef3cac04a92dfd)
