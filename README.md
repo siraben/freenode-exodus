@@ -376,6 +376,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Kakoune](https://github.com/mawww/kakoune/pull/4226)
 - [Kallithea Project](https://twitter.com/KallitheaSCM/status/1398695300315942912)
 - [Kanboard](https://github.com/kanboard/website/commit/a13a950f0a73a155be704fcd6fc23473fba3e1b3) (to forums)
+- [kannader](https://github.com/Ekleog/kannader/commit/515f50979caa1e080a7aab0d9cddef66ca6da5ab)
 - [Kanshi](https://github.com/emersion/kanshi/commit/c5fd774040a28e99ea6e738cd822fd538ff9c599)
 - [Kata Containers](https://twitter.com/katacontainers/status/1402687305828212741) (to OFTC)
 - [KeePassXC](https://twitter.com/KeePassXC/status/1398426279133814785)
