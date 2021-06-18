@@ -44,6 +44,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Arcan Chat](https://arcan-fe.com/)
 - [Arch Hurd](https://github.com/z3ntu/archhurd_archweb/commit/222f3008a69fbe943debc127291bd7ac7f0f180d)
 - [Arch Linux](https://archlinux.org/news/move-of-official-irc-channels-to-liberachat/)
+- [ArchStrike](https://github.com/ArchStrike/ArchStrike/commit/b54d2b53e2cdac7822c05874baaea6c3173202a8)
 - [Ardour](https://discourse.ardour.org/t/ardour-org-irc-chat-channel-has-moved/105996)
 - [Arduino](https://forum.arduino.cc/t/arduino-irc-channel-moved-to-libera-chat/866788)
 - [Armbian](https://forum.armbian.com/topic/18203-irc-channels-moved-to-liberachat/)
