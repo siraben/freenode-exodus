@@ -882,7 +882,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Xapian](https://github.com/xapian/xapian/commit/7c993a621a5ff99689ac9f66e6f36199b8f98a8e)
 - [XCP-ng](https://github.com/xcp-ng/xcp-ng-org/commit/ed5c47521c84c5287a969ddc167d2d8a2bc6ff67) (to OFTC)
 - [Xdebug](https://mobile.twitter.com/derickr/status/1397456884903317504)
-- [Xen](https://xenproject.org/help/irc/) (to OFTC)
+- [Xen](https://xenproject.org/2021/06/17/xen-irc-channels-have-moved/) (to OFTC)
 - [XFCE](https://mail.xfce.org/pipermail/xfce/2021-June/037352.html)
 - [XFS](https://github.com/torvalds/linux/commit/9f5815315e0b93146d7b0be4d96ee2d74eeabb98) (to OFTC)
 - [XigmaNAS](https://twitter.com/XigmaNAS/status/1399497020398788611)
