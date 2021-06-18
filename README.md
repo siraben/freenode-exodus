@@ -782,6 +782,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [The Secret Chronicles of Dr. M.](https://secretchronicles.org/en/news/2021/05/26/liberachat/)
 - [The TenDRA Project](https://github.com/tendra/tendra/commit/fc85a510fc0bf5fa0ffa7c55289eab943b787b92)
 - [The YAML Project](https://github.com/yaml/yaml/issues/64)
+- [TheAirPortWiki](https://github.com/ipatch/theairportwiki/commit/38454a2212a3e09591eef26a890c7c5d1491456e)
 - [Tiled](https://github.com/siraben/freenode-exodus/issues/127) (to Discord)
 - #titandev
 - [TKKRLAB](https://twitter.com/tkkrlab/status/1398000477766291457)
