@@ -352,6 +352,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Interim OS](https://github.com/mntmn/interim/commit/5841afb73e8b5b5f0fbbbe273fb4554b8582ad0a)
 - [invidious (moved to Matrix)](https://github.com/iv-org/invidious/commit/9b6c5c08d82742d94a2615a91a0134dc6df79dc8)
 - [ioquake3](https://ioquake3.org/ioquake3/ioquake3-irc-moved-to-libera/)
+- [IPFire](https://blog.ipfire.org/post/relaunching-ipfire)
 - [IPFS](https://github.com/ipfs/website/pull/427) (to Matrix and Discord)
 - [#ipv6](https://wiki.debian.org/IPv6?action=diff&rev1=14&rev2=15)
 - [iPXE](https://twitter.com/ipxe/status/1398251984168402945)
