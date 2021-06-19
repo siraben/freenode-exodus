@@ -873,6 +873,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [WireGuard](https://lists.zx2c4.com/pipermail/wireguard/2021-May/006772.html)
 - [wolfy 1339](https://github.com/wolfy1339/wolfy1339.github.io/commit/59ce8f31af311494a8c5b21155403bc93f442912)
 - [WordPress](https://make.wordpress.org/support/2021/06/new-irc-server-for-support/)
+- [Wormser Linux User Stammtisch (WOLUST)](https://github.com/Wolust/wolust.github.io/commit/c6491c22df2958a506f8045aecca0807734cd896)
 - [WPE Webkit](https://twitter.com/WPEWebKit/status/1398285662206443523) (to OFTC)
 - [WSL Utilities](https://twitter.com/wslutilities/status/1396974355226128384)
 - [wxFormBuilder](https://github.com/redtide/wxformbuilder.github.io/commit/f2ba48e558aba8c08ebcb307ce857c688bc54025)
