@@ -42,7 +42,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Apertus](https://twitter.com/ApertusOSCinema/status/1397819526734094343)
 - [Apktool](https://github.com/iBotPeaches/Apktool/commit/de03c8b6893f499f4228f5047365dd27a3897da2)
 - [AppImage](https://twitter.com/azubieta90/status/1398514737118433280)
-- [Arcan Chat](https://arcan-fe.com/)
+- [Arcan Chat](https://github.com/letoram/arcan/commit/1c96338fce34946dca1a3590ae26be17844f65f8)
 - [Arch Hurd](https://github.com/z3ntu/archhurd_archweb/commit/222f3008a69fbe943debc127291bd7ac7f0f180d)
 - [Arch Linux](https://archlinux.org/news/move-of-official-irc-channels-to-liberachat/)
 - [ArchStrike](https://github.com/ArchStrike/ArchStrike/commit/b54d2b53e2cdac7822c05874baaea6c3173202a8)
