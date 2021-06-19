@@ -469,6 +469,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Maddy Mail Server](https://github.com/foxcpp/maddy/commit/c8659ad18aac206b6b9345926c20d6f49a4daab0) (to OFTC)
 - [Madeinfr](https://twitter.com/madeinfr/status/1397849981327925252)
 - [Maemo Leste](https://maemo-leste.github.io/maemo-leste-irc-channel-migration.html)
+- [Mageia Linux](https://blog.mageia.org/en/2021/06/19/irc-channels-migration/)
 - [Mageia Linux Online (Francophone Mageia Community)](https://ml.mageia.org/l/arc/board-public/2021-05/msg00035.html)
 - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole-protocols/issues/4#issuecomment-861401869)
 - [Magicjudges.org](https://github.com/dcollinsn/chat-magicjudges-org/commit/b80193b55166e2e46e6f7609d03dfe1a8b121ef7)
