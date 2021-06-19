@@ -387,6 +387,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [K-9 Mail](https://github.com/k9mail/k-9/wiki/Infrastructure/_compare/95b8b1aea4d6e192bc7c1889f08d2c63ace1e04f...a6a8c69951a61c4bcac78eb9c49be4bb79f55d9b)
 - [Kakoune](https://github.com/mawww/kakoune/pull/4226)
 - [Kallithea Project](https://twitter.com/KallitheaSCM/status/1398695300315942912)
+- [kameloso](https://github.com/zorael/kameloso/commit/f6dd1925da9b1f845573ff4acaec1aea46f09f5f)
 - [Kanboard](https://github.com/kanboard/website/commit/a13a950f0a73a155be704fcd6fc23473fba3e1b3) (to forums)
 - [kannader](https://github.com/Ekleog/kannader/commit/515f50979caa1e080a7aab0d9cddef66ca6da5ab)
 - [Kanshi](https://github.com/emersion/kanshi/commit/c5fd774040a28e99ea6e738cd822fd538ff9c599)
