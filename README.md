@@ -322,6 +322,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Hardfought](https://www.hardfought.org/libera-irc/)
 - [hashcat](https://hashcat.net/forum/thread-10134.html)
 - [Haskell](https://old.reddit.com/r/haskell/comments/nhkrfc/a_robust_haskell_ecosystem_is_now_active_on/)
+- [Haskell ITA](https://github.com/Haskell-ITA/www_haskell-ita_it_website/commit/6c7b459064f48b94a733fddd853273d15c3771a6)
 - [haskell.nix](https://github.com/input-output-hk/haskell.nix/commit/85245c56f1517942f15542bd347e2f148c452ac5)
 - [Haveno](https://github.com/haveno-dex/haveno-meta/issues/10)
 - [HCoop](https://wiki.hcoop.net/IrcChannel)
