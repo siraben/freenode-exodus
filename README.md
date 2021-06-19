@@ -618,6 +618,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Pioneer Space Sim](https://github.com/pioneerspacesim/pioneer-hugo/commit/d38ca4b762c02f1ca8c66df749c19a7f1f557b74)
 - [PipeWire](https://twitter.com/PipewireP/status/1403001856737959950) (to OFTC)
 - [Pistache](https://github.com/pistacheio/pistache/commit/eb57620cb4619cb69265eef54926f975cdefb12e)
+- [PiStorm](https://github.com/captain-amygdala/pistorm/commit/0548473f81d2ef052ef335152755e69576d6d9e4)
 - [Pithos](https://github.com/pithos/pithos.github.io/commit/eb2c20fccf460088451d771d9b267e6b03126249) (to GitHub)
 - [PiVPN](https://github.com/pivpn/pivpn/commit/5aa0de636f32fd674b77a2b3dd64d97b51680707)
 - [pkgconf](https://github.com/pkgconf/pkgconf/commit/1f319c2608040739285bedc39f9cfb3791839a57) (to OFTC)
