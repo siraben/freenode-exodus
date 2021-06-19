@@ -21,6 +21,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Agda](https://wiki.portal.chalmers.se/agda/Main/Community?action=diff#diff1622023591)
 - [Airship](https://twitter.com/airshipproject/status/1402052776083984385) (to OFTC)
 - [Akaros](https://github.com/akaros/akaros.github.io/commit/72a7c39a04f6dffc82e6dc578fef3cac04a92dfd)
+- [Alacritty](https://github.com/alacritty/alacritty/pull/5261/files)
 - [#algorithms](https://twitter.com/susam/status/1395738326364160009)
 - [All Hands Active](https://github.com/allhandsactive/site/commit/dd0d1fdd6803d1f229c87384ec87f0055b05c7e6) (to tilde.chat)
 - [Allegro](https://liballeg.org/irc.html)
