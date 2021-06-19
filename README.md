@@ -654,6 +654,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Python Argentina](https://twitter.com/gilgamezh/status/1403711727766851590)
 - [Python Cryptographic Authority](https://github.com/pyca/cryptography/pull/6054)
 - [Python-GSSAPI](https://github.com/pythongssapi/python-gssapi/pull/247)
+- [QGIS](https://github.com/qgis/QGIS-Website/pull/902)
 - [QOwnNotes](https://github.com/pbek/QOwnNotes/commit/3e8c56897d33d6ba03c6e15cb15a3ce938fee2ca)
 - [Qt](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
 - [QtPyVCP](https://github.com/kcjengr/qtpyvcp/commit/54949eaa2749f698d19380a00d18ea1604f1e3e9)
