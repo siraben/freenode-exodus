@@ -49,6 +49,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Arduino](https://forum.arduino.cc/t/arduino-irc-channel-moved-to-libera-chat/866788)
 - [Armbian](https://forum.armbian.com/topic/18203-irc-channels-moved-to-liberachat/)
 - [Arx Libertatis](https://arx-libertatis.org/news/chat)
+- [arxiv-ml-reviews](https://github.com/ml-feeds/arxiv-ml-reviews/commit/1c3716fcc2b5e40d0735e0606cf8afae2181eceb)
 - [Asahi Linux](https://twitter.com/AsahiLinux/status/1395226914315407362) (to OFTC)
 - [Asterisk](https://www.asterisk.org/irc-channels-moved-to-libera-chat/) [SECURITY WARNING](https://community.freepbx.org/t/security-warning-freenode/76211/1)
 - [AsteroidOS](https://twitter.com/AsteroidOS/status/1398645863988273158)
