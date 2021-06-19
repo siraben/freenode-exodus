@@ -242,6 +242,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Free Pascal](https://twitter.com/freepascaldev/status/1397492296866832384)
 - [Free Software Foundation](https://www.fsf.org/news/update-to-the-fsf-and-gnus-plan-to-move-irc-channels-to-libera.chat)
 - [FreeBSD](https://wiki.freebsd.org/IRC/Official-FreeBSD-IRC-channels-now-on-Libera-Chat)
+- [Freeciv](https://github.com/freeciv/freeciv/commit/a13aed21ed00aac21a6596a9a79a5de3de81b92e)
 - [freedesktop](https://www.freedesktop.org/wiki/GettingInvolved/) (to OFTC)
 - [FreedroidRPG](https://www.freedroid.org/2021/05/20/moving-to-libera-chat/)
 - [FreeGameDev](https://forum.freegamedev.net/viewtopic.php?f=20&t=17999) (to freegamedev.net IRC)
