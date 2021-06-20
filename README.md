@@ -60,6 +60,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Aurutils](https://github.com/AladW/aurutils/commit/659c464aa90862260915f966bc3394678ed84f42)
 - [Austin Hackers](https://twitter.com/AustinHackers/status/1395773170649608193)
 - [AutoForme](https://github.com/jeremyevans/autoforme/commit/9251d085dc500f755815873ffb5355c5adad42ea) (to Forums)
+- [#awk](https://twitter.com/gnomon/status/1406638450846150657)
 - [backspace e.V (Hackerspace Bamberg)](https://www.hackerspace-bamberg.de/index.php?title=Kontakt&diff=11270&oldid=11251)
 - [Base48, z.s.](https://twitter.com/base48_cz/status/1405874402118545416)
 - [basspistol.com](https://github.com/Basspistol/basspistol.com/commit/55ea973a3055dcf0f9f70258670bcca6b4ff6312)
