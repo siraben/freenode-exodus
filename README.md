@@ -600,6 +600,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Org mode](https://code.orgmode.org/bzg/orgweb/commit/0944f5f7b5d28104fdb9fed73f1e362b5de052a2)
 - [organice](https://github.com/200ok-ch/organice/pull/693)
 - [OSDev.org](https://wiki.osdev.org/index.php?title=Chat&diff=25945&oldid=24997)
+- [OSGeo](https://lists.osgeo.org/pipermail/sac/2021-June/013378.html)
 - [#ostc](https://twitter.com/zygoon/status/1397643651275280389)
 - [OSUOSL](https://github.com/osuosl/osuosl-pelican/pull/365)
 - [OTFBot](https://github.com/allo-/otfbot/commit/5b9baadc881805070800a8ffb8d1a5862a55c106)
