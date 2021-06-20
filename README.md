@@ -347,6 +347,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [htop](https://twitter.com/htopdev/status/1405152465859788801)
 - [Huggle 3](https://github.com/huggle/huggle3-qt-lx/commit/e31876b4f645a39d2b1636a98f3edadee0162746)
 - [Hundred Rabbits](https://github.com/hundredrabbits/100r.co/commit/9fdd9d4cf4957d2d894e2f05c87b7ec806f90995) (to irc.esper.net)
+- [hup.hu](https://hup.hu/treyblog/20210719/nosztalgia)
 - [HydraBus](https://twitter.com/hydrabus/status/1397654991087849482)
 - [i3](https://github.com/i3/i3.github.io/commit/46d93a31fb5cfe889f6446dceba028f81bf334b7) (to OFTC)
 - [IBus](https://github.com/ibus/ibus/wiki/Home/_compare/748855508c4af3051dec245e189add9813f0351d...bb997b79a0b610ead19d0123d1722826a026bced)
