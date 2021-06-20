@@ -832,6 +832,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [TurrisTech](https://mobile.twitter.com/turris_cz/status/1397474712914104323) (to OFTC)
 - [Tvheadend](https://github.com/tvheadend/tvheadend/commit/eb59284b8527e3c51eadfeca94ec1e9174cdbdb0)
 - [TVL](https://cl.tvl.fyi/c/depot/+/3134) (to hackint)
+- [Twin Cities Maker (tcmaker)](https://github.com/tcmaker/tcmaker-theme/commit/b1221c3ca898bf1a4f9eb8047457dbf7a14d3d7e)
 - [Twisted Matrix Labs](https://twitter.com/glyph/status/1395125137674960896)
 - [Typhoon](https://github.com/poseidon/typhoon/pull/995) (to GitHub)
 - [Tübix](https://github.com/tuebix/tuebixorg/pull/16)
