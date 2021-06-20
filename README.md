@@ -432,6 +432,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
 - [Linu.X-lab](https://github.com/LinuX-lab/LinuX-lab.github.io/commit/6ea5caf5d6b900a7b32753eca7442a1dc03d96cc)
 - [##linux](https://linux.chat/linux-on-freenode/)
+- [Linux Foundation](https://gerrit.linuxfoundation.org/infra/c/releng/docs/+/68025)
 - [Linux From Scratch](https://lists.linuxfromscratch.org/sympa/arc/lfs-admin/2021-05/msg00032.html)
 - [Linux Surface](https://github.com/linux-surface/linux-surface/commit/851280694769daa9dd9906216e0de7d8f2073808)
 - [Linux System Roles](https://github.com/linux-system-roles/linux-system-roles.github.io/commit/857b3c5a7e048914b6576d37c1f64ccc6e7b2cf7)
