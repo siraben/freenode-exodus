@@ -679,6 +679,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Radeon and #ROCm](https://www.reddit.com/r/Amd/comments/nljyvp/the_radeon_and_rocm_chat_rooms_for_open_source/) (to OFTC)
 - [Rainmeter](https://forum.rainmeter.net/viewtopic.php?t=37726)
 - [Raku](https://www.tyil.nl/post/2021/05/22/raku-on-libera-chat/)
+- [Rakudo](https://github.com/rakudo/rakudo/commit/1f0122efcda380d0fc81a05985621fbbdfa59f5a)
 - [ranger](https://ranger.github.io/news/2021-05-19-libera)
 - [Ratpoison](https://git.savannah.nongnu.org/cgit/ratpoison.git/commit/?id=db94d4971d8dcae736cf5246ef7d0454aa345ac0)
 - [RAUC](https://github.com/rauc/rauc/commit/a0705277e1f7a7bd60a6044694b008492380893c)
