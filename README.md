@@ -740,6 +740,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [sbctl](https://github.com/Foxboron/sbctl/commit/bca692f1e19ee0f0a2f9adf6c12f21427022efc7)
 - [Scalaz](https://github.com/scalaz/scalaz/commit/9813f4add8c52a485f805cbc4d57ca7df06e4099)
 - [#scheme](https://srfi-email.schemers.org/srfi-discuss/msg/16740382/)
+- [SCons](https://github.com/SCons/scons/pull/3961)
 - #scopehal
 - [Scottish Linux User Group (ScotLUG)](https://github.com/ScotLUG/scotlug.github.io/commit/250fb986fcfccbec9331cb58a71120907586874e)
 - [Scrapy](https://github.com/scrapy/scrapy.org/pull/199)
