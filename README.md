@@ -738,6 +738,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#scheme](https://srfi-email.schemers.org/srfi-discuss/msg/16740382/)
 - #scopehal
 - [Scottish Linux User Group (ScotLUG)](https://github.com/ScotLUG/scotlug.github.io/commit/250fb986fcfccbec9331cb58a71120907586874e)
+- [Scrapy](https://github.com/scrapy/scrapy.org/pull/199)
 - [ScummVM](https://twitter.com/ScummVM/status/1397664213124980737)
 - [Scuttlebutt](https://github.com/ssbc/ssb-server/commit/2ba6d6dc465e9812cbe05a3d045b183853397850)
 - [SDAPS](https://github.com/sdaps/website/commit/bf860cc8a90ba432e528877ce3642dd6a3a9a6d8)
