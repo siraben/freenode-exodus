@@ -97,6 +97,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [BundleWrap](https://github.com/bundlewrap/bundlewrap/commit/476bc2e8c83ed791bbaeff8d3d8310c54ee790e5)
 - [BunsenLabs](https://forums.bunsenlabs.org/viewtopic.php?id=7627)
 - [BZFlag](https://forums.bzflag.org/viewtopic.php?f=8&t=20503)
+- [c-lightning](https://github.com/ElementsProject/lightning/commit/262f90d115e2b5a9bbf491a38ba8491fb138bc2b)
 - [#c64friends](https://twitter.com/gholmer/status/1397570829437882368)
 - [c:geo](https://github.com/cgeo/cgeo.github.io/commit/aa6bf3a94d3d46fa71d6fd92635cc456dfaf085e) (to Github)
 - [cabal](https://github.com/cabal-club/cabal-club.github.io/commit/c86cf62e1ce6e90396435d4814edba1081d23273)
