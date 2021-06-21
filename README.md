@@ -285,6 +285,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Gitolite](https://github.com/sitaramc/gitolite-doc/commit/c5df34e05a509f687de5fce5de6d65df62fe3fa9)
 - [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow/commit/5d9dd242cb8109350cadbd6c8b8354f5a889eba5)
 - [Glewlwyd](https://github.com/babelouest/glewlwyd/commit/3c70cedb11c2f6eda9ac88822ba366af06ea727b)
+- [GLFW](https://github.com/glfw/glfw.github.io/commit/41f7e72937a45a06384f55795e0ca4d215e017dd)
 - [Glowing Bear](https://github.com/glowing-bear/glowing-bear/commit/68d44cf669aafe968a786b5d33d6903be540fa81)
 - [GNU Health](https://twitter.com/gnuhealth/status/1404099825591799808)
 - [GNU Poke](https://lists.gnu.org/archive/html/poke-devel/2021-06/msg00008.html)
