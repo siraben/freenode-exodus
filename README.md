@@ -746,6 +746,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Seattle GNU/Linux Conference ](https://github.com/SeaGL/seagl.github.io/commit/ca65a364735e45f8ffd68373c0a855e9cd590c70)
 - [Selenium](https://www.selenium.dev/blog/2021/moving-to-libera-chat/)
 - [selfhtml](https://twitter.com/cjk101010/status/1404740207438708741) (to Matrix)
+- [Sequel](https://github.com/jeremyevans/sequel/commit/6ccf57aed22e8f1a83cd2260c19566b9bb10bfcf) (to Google Groups)
 - [Sequoia-PGP](https://gitlab.com/sequoia-pgp/sequoia-web/-/commit/2eb580518459365f1bafeccd74c281dde6e37ad2) (to OFTC)
 - [SerenityOS](https://github.com/SerenityOS/serenity/commit/675b0aee2471d63b436577ccdec3a7d23a527014)
 - [serious-bg](https://github.com/Binaergewitter/serious-bg/commit/50469265a916c48ec23d46dc1557c250b0e1e45d)
