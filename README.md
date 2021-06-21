@@ -262,6 +262,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Fusion Directory](https://twitter.com/fusiondirectory/status/1404912571774275584)
 - [FVWM-crystal](https://github.com/fvwm-crystal/fvwm-crystal/commit/9e69daf5d58d903d0ae3d3c3e6b8e9fd5490247c)
 - [FVWM3](https://github.com/fvwmorg/fvwmorg.github.io/commit/eed5315a5a1aa9653e17aa19ac591a050c944fa1)
+- [Gabbi](https://github.com/cdent/gabbi/commit/733076d1994436f4782e09b82c24cc540a5b619f) (to OFTC)
 - [GalliumOS](https://github.com/GalliumOS/galliumos.org/commit/007d980713e5347e955812eb9aa42d2a83796544)
 - [Gamingonlinux](https://www.gamingonlinux.com/2021/05/gamingonlinux-moves-on-from-freenode-to-liberachat-for-irc/)
 - [Gandi](https://twitter.com/gandinoc/status/1405088537628786688)
