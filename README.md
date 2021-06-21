@@ -418,6 +418,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [L2-zoology](https://github.com/ariard/L2-zoology/issues/10)
 - [Lab::Measurement](https://github.com/lab-measurement/Lab-Measurement/commit/8ba5ff69b4642b630b83d49cbde3e54c75154b9b)
 - [Labgrid](https://github.com/labgrid-project/labgrid/commit/2b47bec57eb50c6d6949c23d5cd8a6d76f3b7f20)
+- [##latin](https://twitter.com/GodmyX/status/1407037654777073664)
 - [Launchpad](https://twitter.com/launchpadstatus/status/1398249939340304390)
 - [LAVA](https://github.com/Linaro/lava/commit/6b090079bc75ac2d3db6dd7c157952883273565f)
 - [Leapp](https://github.com/oamg/leapp/commit/572626df9763abeb57d9c828e7c9b2f1c340c0e6)
