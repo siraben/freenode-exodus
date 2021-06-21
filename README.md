@@ -436,6 +436,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
 - [LibreOffice](https://blog.documentfoundation.org/blog/2021/05/31/libreoffice-irc-channels-moving-to-libera-chat/)
 - [Libreswan](https://twitter.com/Libreswan/status/1397717922877935622)
+- [libuv](https://github.com/libuv/libuv.github.io/pull/4) (to Github)
 - [Liege Hackerspace](https://github.com/LgHS/site-web-front/commit/9409e7ee174d76946ae3d53d424e9d22de1d0d3e)
 - [LilyPond](https://git.savannah.gnu.org/gitweb/?p=lilypond.git;a=commitdiff;h=fcd89a9f4f3c48dd4d57f63b76cc4353df5203a1)
 - [Limnoria](https://github.com/ProgVal/Limnoria/commit/04facade82b778482d4173a86b753945a1b72632)
