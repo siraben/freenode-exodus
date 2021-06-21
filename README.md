@@ -429,7 +429,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [libopencm3](https://github.com/libopencm3/libopencm3/commit/3b89fc5999874c49f6f5be65bbd5e75f7d77469c)
 - [libp2p](https://github.com/libp2p/libp2p/pull/98) (to Matrix)
 - [Libre Space Foundation](https://twitter.com/LibreSpace_Fnd/status/1405566962965622796)
-- [Libreboot](https://libreboot.org/news/freenode.html) (to self-hosted server)
+- [Libreboot](https://twitter.com/n4of7/status/1407045867606056966)
 - [LibreCAD](https://github.com/LibreCAD/website/commit/3f8b5232fa0bd6862732638ffe344f21d348ff5f)
 - [librecast](https://twitter.com/librecast/status/1395021348116783106)
 - [Libreelec](https://libreelec.tv/2021/05/freenode-news/)
