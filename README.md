@@ -533,6 +533,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Mutt](http://lists.mutt.org/pipermail/mutt-announce/Week-of-Mon-20210517/000037.html)
 - [MyBrowse](https://gist.github.com/shadowcat-mst/998cea12794768bdb3da2daeff31baad#gistcomment-3744483)
 - [Mylar3](https://github.com/mylar3/mylar3/pull/784)
+- [Myriadcoin](https://www.reddit.com/r/myriadcoin/comments/o4ly4w/beware_of_users_on_freenode_irc_they_are_not_who/)
 - [#mysql](https://hashmysql.net/w/index.php?title=Main_Page&diff=3194&oldid=3168)
 - [MythTV](https://www.mythtv.org/news/171/IRC%20Network%20Change)
 - [naemon](https://www.naemon.org/project/2021/05/27/irc.html)
