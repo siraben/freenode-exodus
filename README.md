@@ -200,6 +200,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [eduVPN](https://github.com/eduvpn/documentation/commit/2158742e5d5c73df02a011dd5a62661926a41e5a)
 - [eev](https://github.com/edrx/eev/commit/615e83260a14eed914cc31f34364cc05527c7efc)
 - [Eggdrop](https://eggheads.org/news#news69)
+- [elastic](https://discuss.elastic.co/t/removal-of-official-freenode-irc-channels/276603/1) (to Slack)
 - [Electromagnetic Field](https://twitter.com/emfcamp/status/1398348629635633152)
 - [Electrum](https://github.com/spesmilo/electrum-web/pull/14)
 - [eLinux](https://twitter.com/elinux/status/1397204424053907458)
