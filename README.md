@@ -781,6 +781,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [snapd](https://github.com/snapcore/snapd/commit/a955819efcc373a43214c4542cc9cb179224a18f)
 - [SNES Central](https://twitter.com/snescentral/status/1396441180947288064) (to Discord)
 - [sngrep](https://github.com/irontec/sngrep/commit/5df40383182b4e3d350451addec0594f1447a7e1)
+- [Software Freedom Conservancy](https://sfconservancy.org/blog/2021/jun/21/xmpp-chat/) (to XMPP)
 - [Software Freedom Law Center (SFLC)](https://github.com/siraben/freenode-exodus/issues/126)
 - [Software Heritage](https://hedgedoc.softwareheritage.org/s/Z0lo4_cCF#)
 - [Solanum](https://github.com/solanum-ircd/solanum.chat/pull/7)
