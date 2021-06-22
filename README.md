@@ -583,6 +583,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [oidentd](https://github.com/janikrabe/oidentd/commit/d93a4a0c533bb2ef5537a35c85085751c169a8f7)
 - [Olimex Ltd.](https://twitter.com/Olimex/status/1397502165246173187)
 - [OmniOS](https://twitter.com/OmniOSce/status/1396770950406934531)
+- [Open Infrastructure Labs](https://github.com/open-infrastructure-labs/openinfralabs-website/commit/bc990f30c2e261c31a78d505e034c3cf3c7af60e) (to OFTC)
 - [Open Source Club at The Ohio State University ](https://github.com/OSUOSC/website/commit/efaaf4e14b5b5611d51eadab7a85cf484b80d32e)
 - [Open Source Lab at Oregon State University](https://lists.apache.org/thread.html/r09e4f6174f783fc89382f611f59d8933ec0802dd20ec87c5dddec061%40%3Cbuilds.apache.org%3E)
 - [OpenBSD](https://github.com/ligurio/awesome-openbsd/commit/a261ef37e6a9a2a039c55094e469749f9b32e250)
