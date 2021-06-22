@@ -602,6 +602,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenMPTL](https://github.com/digint/openmptl/commit/017807807e1fed41040af200afa4046740135939)
 - [openMSX](https://www.msx.org/news/en/openmsx-irc-channel-moves-to-liberachat)
 - [OpenMW](https://github.com/OpenMW/openmw/commit/b2791fd487d016754123bc6ce865c85ae2423f33)
+- [OpenNMS](https://opennms.discourse.group/t/irc-freenode-and-libera-chat/1951)
 - [OpenQBMM](https://twitter.com/OpenQBMM/status/1405746139236732942)
 - [OpenRW](https://github.com/rwengine/openrw/commit/30856790f11f0b4de1a6ac463b9d0fb80c5d9da4)
 - [OpenSCAD](https://github.com/openscad/openscad.github.com/commit/36ad15af10cf6c60e16a9242bc6860ffc133ae5a)
