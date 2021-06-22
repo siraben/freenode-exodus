@@ -144,7 +144,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Conquest](https://github.com/jtrulson/conquest/commit/8984c4726108e35adba8c8f971dc3a4f6c6ff4db)
 - [Convos](https://convos.chat/blog/2021/5/20/moving-from-freenode-to-libera)
 - [Coq](https://github.com/coq/www/pull/171/commits/be676ac59620cde52b16562024c951c9149d23a2)
-- [coreboot](https://doc.coreboot.org/community/forums.html)
+- [coreboot](https://review.coreboot.org/c/coreboot/+/55010)
 - [Coredump Hackerspace](https://github.com/coredump-ch/status/pull/139)
 - [CoreRAD](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH/pull/1936) (to Matrix)
