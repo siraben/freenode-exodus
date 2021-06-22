@@ -728,6 +728,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [ROS](https://discourse.ros.org/t/retiring-ros-on-freenode-irc/20925) (to Forums)
 - [Roundcube](https://github.com/roundcube/roundcube.github.com/commit/4adac0e755d4038c1c2b11f636ca577b85cbba74)
 - [rpi-img-builder](https://github.com/pyavitz/rpi-img-builder/commit/3919becda8663d82476ae6f55b1ccf6c41ba9a40)
+- [RPM](http://lists.rpm.org/pipermail/rpm-announce/2021-June/000089.html)
 - [rspamd](https://github.com/rspamd/rspamd.com/pull/505/files) (to OFTC)
 - [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge/issues/870)
 - Rsync
