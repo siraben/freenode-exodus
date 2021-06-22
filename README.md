@@ -783,6 +783,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Solus](https://discuss.getsol.us/d/6888-solus-now-available-on-liberachat)
 - [Sonarr](https://github.com/Sonarr/sonarr.github.io/commit/7d0c4adcbac6441469b7cf12f3cdc4c5a9096acd)
 - [SopelIRC](https://twitter.com/SopelIRC/status/1397409117380153348)
+- [SoS](https://github.com/sosreport/sos/commit/d69b6b946bc9137f91956ba429d5c681d33c6927)
 - [Sound Open Firmware (SOF)](https://github.com/thesofproject/sof/commit/fdcf636530f572b62b0208f75ec6f97c81986914) (to Gitter)
 - [Source Mage GNU/Linux](https://sourcemage.org/News/leaving-freenode/)
 - [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
