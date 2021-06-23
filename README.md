@@ -681,6 +681,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [QGIS](https://github.com/qgis/QGIS-Website/pull/902)
 - [QOwnNotes](https://github.com/pbek/QOwnNotes/commit/3e8c56897d33d6ba03c6e15cb15a3ce938fee2ca)
 - [Qt](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
+- [Qt Creator](https://github.com/qt-creator/qt-creator/commit/10af72100d1b405607fb9f8dfbe8c4deeadbbd51)
 - [QtPyVCP](https://github.com/kcjengr/qtpyvcp/commit/54949eaa2749f698d19380a00d18ea1604f1e3e9)
 - [Quassel](https://github.com/quassel/quassel/commit/322bec12418ab267d7b770ec90465a1a1034b17d)
 - [Quasseldroid](https://twitter.com/quasseldroid/status/1397824684813660164)
