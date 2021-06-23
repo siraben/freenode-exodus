@@ -795,6 +795,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
 - [SouthEast LinuxFest](https://twitter.com/SELinuxFest/status/1397941939345969157)
 - [Sparky Linux](https://twitter.com/SparkyLinux/status/1404815477474463752)
+- [Spidr](https://github.com/postmodern/spidr/commit/8632954e648923de6520f70fcb93ce55f6ecbb03) (to mailing lists)
 - [SPIP](https://blog.spip.net/L-IRC-spip-demenage-de-freenode-net-a-libera-chat.html)
 - [spline](http://git.spline.de/www/www/commit/?id=0748a42d917c97f53e7eeb6e773509288c9e359b)
 - [spodeli](https://kika.spodeli.org/en/2021/06/20/we-are-moving-our-channel-to-libera-chat/)
