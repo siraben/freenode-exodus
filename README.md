@@ -63,6 +63,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Automated Bug Reporting Tool (ABRT)](https://github.com/abrt/doc/commit/78438ddccd1ddb003554dcfd2bc4c30b75471229)
 - [#awk](https://twitter.com/gnomon/status/1406638450846150657)
 - [backspace e.V (Hackerspace Bamberg)](https://www.hackerspace-bamberg.de/index.php?title=Kontakt&diff=11270&oldid=11251)
+- [Barrier](https://github.com/debauchee/barrier/commit/5dc27b12013420a88957ea32bbc396dd996db426)
 - [Base48, z.s.](https://twitter.com/base48_cz/status/1405874402118545416)
 - [basspistol.com](https://github.com/Basspistol/basspistol.com/commit/55ea973a3055dcf0f9f70258670bcca6b4ff6312)
 - [BastilleBSD](https://twitter.com/BastilleBSD/status/1395536864673599491)
