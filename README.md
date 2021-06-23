@@ -624,6 +624,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OTFBot](https://github.com/allo-/otfbot/commit/5b9baadc881805070800a8ffb8d1a5862a55c106)
 - [Otter Browser](https://github.com/OtterBrowser/otter-browser/commit/623203887066d0e925b93dafd4778b0ff62f21c7)
 - [ovhnas](https://github.com/kotc/ovhnas/commit/2e2c18865b2a6c04ea75f86c362e3f81b400c33c)
+- [ownCloud](https://github.com/owncloud/core/commit/9cfb6c8f8494097ed28b30f293851d464de2b52a)
 - Packetframe
 - [Packit](https://github.com/packit/packit.dev/pull/286)
 - [Palaver](https://palaverapp.com/blog/ergo-chat) (to irc.ergo.chat, bridged to Libera.chat)
