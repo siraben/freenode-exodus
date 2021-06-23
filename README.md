@@ -123,6 +123,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Chaskis](https://github.com/xforever1313/Chaskis/commit/8a738f6aef1e832a4a1bc4b49725bb4251d32f21)
 - [ChiBUG: The Chicago Area BSD Users Group](https://github.com/jcs/chibug.org/commit/6a80c11a1e2c9c5f6c346ef79dface90e0029147)
 - [CHICKEN scheme](https://www.mail-archive.com/chicken-hackers@nongnu.org/msg07917.html)
+- [Chihaya](https://github.com/chihaya/chihaya/pull/537)
 - [chimper](https://github.com/pedrocr/chimper/commit/be65f779918bc82c0472f8027bdcc27bf01cc3ec)
 - [circe](https://github.com/jorgenschaefer/circe/commit/4778675e0c3bde1c028085b7d96693fe033d2c72)
 - [Citra Emulator](https://github.com/citra-emu/citra-web/commit/564588a2aaa0ce03aa4cf48f4d531562108d6945)
