@@ -742,6 +742,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Rust Bitcoin Community](https://github.com/rust-bitcoin/rust-bitcoin/commit/dc3d9eebaaed9c572a8fbc7ff65225e241401528)
 - [Rust Embedded](https://github.com/rust-embedded/wg/pull/561)
 - [rust-libp2p](https://github.com/libp2p/rust-libp2p/pull/2096) (to forums)
+- [rxvt-unicode](https://github.com/yusiwen/rxvt-unicode/commit/a5eb9a272a42593657bd722f644b8651b656202d)
 - [Ryzom Core](https://mobile.twitter.com/kaetemi/status/1404161357696565252)
 - [s6](https://github.com/skarnet/s6/commit/4101e5666234497c18cafd4de5959e44c5950b8b) (to OFTC)
 - [Sailfish OS](https://forum.sailfishos.org/t/sailfish-os-irc-channels-moved-to-oftc-net/6980) (to OFTC)
