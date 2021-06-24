@@ -221,6 +221,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Esolangs](https://esolangs.org/w/index.php?title=Esolang:Community_portal&diff=83615&oldid=83522)
 - [ET: Legacy](https://github.com/etlegacy/etlegacy/issues/1655)
 - [ETS2 Job Logger](https://github.com/Lihis/ets2-job-logger/commit/b8369a21c0ae5a4aaf43e6ccdeef0342bf3e4e25)
+- [Evolix](https://twitter.com/evolix/status/1408105254877532161)
 - [Exaile](https://github.com/exaile/exaile/commit/3af997812948c2ef0cc042b5372aa58ee0f7380b) (to Mailing List and GitHub)
 - [Exherbo](https://lists.exherbo.org/pipermail/exherbo-dev/2021-June/001573.html)
 - [Exim](https://www.mail-archive.com/exim-users@exim.org/msg55962.html)
