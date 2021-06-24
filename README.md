@@ -886,6 +886,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Ultimate Hacking Keyboard](https://twitter.com/AmNicd/status/1397950492333035535)
 - [Unknown Horizons](https://twitter.com/uhorizons/status/1397152583475679234)
 - [Unreal Engine](https://forums.unrealengine.com/t/fyi-irc-ue4linux-has-moved-to-irc-libera-chat/235618/1)
+- [Unshift](https://github.com/unshiftio/requires-port/commit/90d662b26aab81526e1c45613eb5de055685a5f2) (to Github)
 - [Unvanquished](https://unvanquished.net/unvanquished-in-the-freenode-storm-status-of-our-chat-service/)
 - [Vabal](https://github.com/vabal/vabal/pull/25)
 - [vallumd](https://github.com/stintel/vallumd/commit/97eae4a3d9588725211c5437fa3e23fc2066d0a7) (to OFTC)
