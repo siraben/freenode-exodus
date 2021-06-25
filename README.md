@@ -172,6 +172,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [dav1d](https://github.com/videolan/dav1d/commit/41be890ddd8e58f938aa74a689e4a457da3a87b0)
 - [DC801](https://twitter.com/dc801/status/1397391356553621510)
 - [Debian](https://lists.debian.org/debian-devel-announce/2021/06/msg00002.html)
+- [deegree](https://github.com/deegree/deegree.github.io/pull/3)
 - [Delta Chat](https://github.com/deltachat/deltachat-pages/commit/e5530f17db04ef18368fa1b77403580ed64c5167)
 - [Demosplash](https://twitter.com/demosplash/status/1396572084021694464)
 - [Denemo](https://github.com/denemo/denemo/commit/f0c99c448f22b4f8b2993db3c8936e7d138f0159)
