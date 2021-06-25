@@ -107,6 +107,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [c:geo](https://github.com/cgeo/cgeo.github.io/commit/aa6bf3a94d3d46fa71d6fd92635cc456dfaf085e) (to Github)
 - [cabal](https://github.com/cabal-club/cabal-club.github.io/commit/c86cf62e1ce6e90396435d4814edba1081d23273)
 - [Calamares](https://euroquis.nl//calamares/2021/05/26/calamares-communications.html)
+- [Calculate Linux](https://github.com/calculatelinux/calculate/commit/61a23c595c08fcadf8e52cf16662bbd47671db25) (to irc.calculate.social)
 - [calendar-cli](https://github.com/tobixen/calendar-cli/commit/301138ff8c7e76569b4f81d1f6cb94458328d41f) (to OFTC)
 - [Calyxos](https://calyxos.org/news/2021/05/27/community-update/)
 - [Canvas-LMS](https://github.com/instructure/canvas-lms/commit/e4b3ccc4b424d1b727a70efd29f04a4f181bddc1)
