@@ -675,6 +675,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Project Apollo - NASSP](https://twitter.com/Thymo_/status/1397807574754467841)
 - [Project Bureau](https://github.com/whitequark/prjbureau/commit/9a3f25da19dc42dab29865cbfef312dcc8f2e82a)
 - [Prometheus](https://twitter.com/PrometheusIO/status/1396132359037149189)
+- [Proxmark3](https://github.com/RfidResearchGroup/proxmark3/commit/cbc8d9144773b25d5459d2d9b47cdab5f4de57f5)
 - [Pubstandards London](https://github.com/pubstandards/pubstandards-london/commit/c2ebac5dc8e4c03078cf4410ff66940fabc4e19a)
 - [Pulp Project](https://twitter.com/pulpproj/status/1397532195594645509)
 - [PulseAudio](https://twitter.com/pulseaudio/status/1404984909299654656)
