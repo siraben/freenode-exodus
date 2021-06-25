@@ -811,6 +811,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [SPIP](https://blog.spip.net/L-IRC-spip-demenage-de-freenode-net-a-libera-chat.html)
 - [spline](http://git.spline.de/www/www/commit/?id=0748a42d917c97f53e7eeb6e773509288c9e359b)
 - [spodeli](https://kika.spodeli.org/en/2021/06/20/we-are-moving-our-channel-to-libera-chat/)
+- [Sqitch](https://github.com/sqitchers/sqitch.org/pull/9)
 - [SQLAlchemy](https://twitter.com/sqlalchemy/status/1397667050722676738)
 - [SquirrelJME](https://twitter.com/MultiPhasicApps/status/1404872915011702785)
 - [Stacken](https://github.com/stacken/w3/commit/5c089d0558960655e0ac888c5adc814da3abce29)
