@@ -749,6 +749,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [rsyscall](https://github.com/catern/rsyscall/commit/f5010824a6ab87db53b7b37961bebc4549716391) (to OFTC)
 - [RTL-SDR](https://www.rtl-sdr.com/freenode-rtlsdr-irc-channel-moving-to-libera/)
 - [RUA](https://github.com/vn971/rua/commit/3d4cce57ee69f4939b80c7e9ba8ce81b9204d0bd)
+- [Ruby](https://github.com/ruby/www.ruby-lang.org/pull/2663)
 - [Rust Bitcoin Community](https://github.com/rust-bitcoin/rust-bitcoin/commit/dc3d9eebaaed9c572a8fbc7ff65225e241401528)
 - [Rust Embedded](https://github.com/rust-embedded/wg/pull/561)
 - [rust-libp2p](https://github.com/libp2p/rust-libp2p/pull/2096) (to forums)
