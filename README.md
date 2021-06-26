@@ -176,6 +176,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Delta Chat](https://github.com/deltachat/deltachat-pages/commit/e5530f17db04ef18368fa1b77403580ed64c5167)
 - [Demosplash](https://twitter.com/demosplash/status/1396572084021694464)
 - [Denemo](https://github.com/denemo/denemo/commit/f0c99c448f22b4f8b2993db3c8936e7d138f0159)
+- [##dependent](https://github.com/dpndnt/library/commit/a33473deac4fd162af3fac7c9be713726f8ccc95)
 - [#design](https://twitter.com/aeriflame/status/1395320753831260160)
 - [Desmume](https://wiki.desmume.org/index.php?title=Faq&oldid=8930)
 - [#developerslv](https://github.com/daGrevis/developerslv/pull/2/files)
