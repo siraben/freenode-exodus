@@ -693,6 +693,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Python Cryptographic Authority](https://github.com/pyca/cryptography/pull/6054)
 - [Python Packaging Authority](https://github.com/pypa/pip/pull/10103)
 - [Python-GSSAPI](https://github.com/pythongssapi/python-gssapi/pull/247)
+- [PythonPune User Group](https://github.com/pythonpune/design/commit/14b0eb10b8429d8c3b180aaccef34261a478e008)
 - [QGIS](https://github.com/qgis/QGIS-Website/pull/902)
 - [QOwnNotes](https://github.com/pbek/QOwnNotes/commit/3e8c56897d33d6ba03c6e15cb15a3ce938fee2ca)
 - [Qt](https://lists.qt-project.org/pipermail/development/2021-May/041501.html)
