@@ -567,6 +567,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Narwhal](https://github.com/narwhalirc/narwhal/commits/master/README.md)
 - [NAV](https://github.com/Uninett/nav-landing-page/commit/ae6c58f721a6fae1cdcb251da250afe6f733bb07)
 - [Neomutt](https://github.com/neomutt/docbook/commit/d382fb45b915b20ef7becf39b4bb5106870566fa)
+- [neovim](https://github.com/neovim/neovim.github.io/pull/233)
 - [NetBSD](https://blog.netbsd.org/tnf/entry/public_netbsd_irc_channels_moved)
 - [Netdisco](https://github.com/netdisco/netdisco-docker/commit/60b38c2405685efe2b99b40d2d0aa8d9fc6fd452)
 - [Netfilter](https://www.spinics.net/lists/netfilter/msg60216.html)
