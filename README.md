@@ -444,6 +444,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Leiningen](https://github.com/technomancy/leiningen/commit/7369b6d6ce7476f667d4da3b2b031ec47644402b)
 - [libass](https://github.com/libass/libass/commit/96a920a76b9d16572329547c29f728b4436f741c)
 - [libcamera](https://github.com/libcamera-org/libcamera/commit/6b22a3657c615588ff489dbe16a0484530830823) (to OFTC)
+- [libgit2](https://github.com/libgit2/libgit2/commit/416ea5b46de01b86961d29911f6298c47d30714b)
 - [libguestfs](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
 - [libopencm3](https://github.com/libopencm3/libopencm3/commit/3b89fc5999874c49f6f5be65bbd5e75f7d77469c)
 - [libp2p](https://github.com/libp2p/libp2p/pull/98) (to Matrix)
