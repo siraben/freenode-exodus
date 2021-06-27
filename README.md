@@ -108,6 +108,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#c64friends](https://twitter.com/gholmer/status/1397570829437882368)
 - [c:geo](https://github.com/cgeo/cgeo.github.io/commit/aa6bf3a94d3d46fa71d6fd92635cc456dfaf085e) (to Github)
 - [cabal](https://github.com/cabal-club/cabal-club.github.io/commit/c86cf62e1ce6e90396435d4814edba1081d23273)
+- [Cadmium](https://github.com/Maccraft123/Cadmium/compare/3dd35c838196c6a956ddeb0b2f47fc161da71697...452940027384c4aaa9c77582e4a6f31b9060f096#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
 - [Calamares](https://euroquis.nl//calamares/2021/05/26/calamares-communications.html)
 - [Calculate Linux](https://github.com/calculatelinux/calculate/commit/61a23c595c08fcadf8e52cf16662bbd47671db25) (to irc.calculate.social)
 - [calendar-cli](https://github.com/tobixen/calendar-cli/commit/301138ff8c7e76569b4f81d1f6cb94458328d41f) (to OFTC)
