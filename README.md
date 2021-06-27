@@ -50,6 +50,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [ArchStrike](https://github.com/ArchStrike/ArchStrike/commit/b54d2b53e2cdac7822c05874baaea6c3173202a8)
 - [Ardour](https://discourse.ardour.org/t/ardour-org-irc-chat-channel-has-moved/105996)
 - [Arduino](https://forum.arduino.cc/t/arduino-irc-channel-moved-to-libera-chat/866788)
+- [Arianne Project](https://github.com/arianne/stendhal/commit/ff83a5028e28a001ee089e233dcaccb9b06c6b1b)
 - [Armbian](https://forum.armbian.com/topic/18203-irc-channels-moved-to-liberachat/)
 - [Arx Libertatis](https://arx-libertatis.org/news/chat)
 - [arxiv-ml-reviews](https://github.com/ml-feeds/arxiv-ml-reviews/commit/1c3716fcc2b5e40d0735e0606cf8afae2181eceb)
