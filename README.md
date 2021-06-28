@@ -395,6 +395,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [IPFS](https://github.com/ipfs/website/pull/427) (to Matrix and Discord)
 - [#ipv6](https://wiki.debian.org/IPv6?action=diff&rev1=14&rev2=15)
 - [iPXE](https://twitter.com/ipxe/status/1398251984168402945)
+- [IRCdns](https://github.com/purpleidea/ircdns/commit/fec12ed7ec2e9d81f967b4c67ea61ace8ffd8590)
 - [ircdocs.horse](https://github.com/ircdocs/ircdocs.horse/commit/e364ce9e75d9c92a1a6f08367ab5c2bc14ceb219)
 - [#ircpuzzles](https://twitter.com/ircpuzzles/status/1395776813532688401)
 - [irctokens](https://github.com/jesopo/irctokens/commit/2094648a51207aa2184b61af9462c870fdcc79b6)
