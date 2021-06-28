@@ -93,6 +93,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [BorgBackup](https://github.com/borgbackup/borgbackup.github.io/pull/67)
 - [borgmatic](https://github.com/witten/borgmatic/commit/f5c61c8013b5a2209da8c35d0cf34670b7c0e1c7)
 - #botters
+- [BoxMatrix](https://boxmatrix.info/w/index.php?title=IRC-Channels&type=revision&diff=100602&oldid=100295)
 - [bpython](https://github.com/bpython/bpython/commit/2240883457342242f3b7f08699e913ece7471ef6) (to OFTC)
 - [Brainstorm](https://twitter.com/BrainstormBot/status/1401735520733077505)
 - [Brogue CE](https://github.com/tmewett/BrogueCE/commit/404d1c1494f4059acaa2a9fb97b308a4c7001e51)
