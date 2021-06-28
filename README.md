@@ -519,6 +519,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Mass Open Cloud](https://github.com/CCI-MOC/ops-issues/issues/273#issuecomment-861527508) (to OFTC)
 - [Mastodon](https://github.com/tootsuite/mastodon/pull/16279)
 - [Mate SlackBuilds](https://github.com/mateslackbuilds/mateslackbuilds.github.io/commit/ed69853eaed2af9637c562c0fe2775fcc291ca82)
+- [Matrix](https://github.com/matrix-org/synapse/commit/717f73c41136c2cfbb6f4429a6e8358c163200f4)
 - [Matroska](https://github.com/Matroska-Org/infrastructure/commit/c2486933198ede1aba71e0c805404909566ff2b7)
 - [matterbridge](https://github.com/42wim/matterbridge/commit/c7897cca5d61bbe3579403fbbef62c0d70779876)
 - [mblaze](https://github.com/leahneukirchen/mblaze/commit/6684f74f0719be15fad22df73723380b91c3b71e)
