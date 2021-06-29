@@ -553,6 +553,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Mineserver](https://github.com/Mineserver/mineserver.js/commit/986db846cdea686b5c171ef1fb893b9a28f54fee)
 - [Minetest](https://wiki.minetest.net/index.php?title=IRC&diff=26329&oldid=23933)
 - [minible](https://github.com/mooltipass/minible/commit/e0651309c92ccec0e36b59b951544b22152fbf71)
+- [MirageOS](https://github.com/mirage/mirage-www/commit/681fbd499d962afecbee1fbfb7338ee75d58d42f)
 - [Miraheze](https://meta.miraheze.org/wiki/IRC/RfC)
 - [mksh](https://github.com/MirBSD/mksh/commit/66f97b1a3efea2fdcf870afebaaca1287482a6ae) (to OFTC, for now)
 - [#mobitopia](https://github.com/siraben/freenode-exodus/issues/143)
