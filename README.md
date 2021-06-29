@@ -693,6 +693,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [PrawnOS](https://github.com/SolidHal/PrawnOS/commit/0261ddbc82f54ca03ef34da2d3c4238d17d9e4a4)
 - [Priyom](https://priyom.org/blog/irc-chat-moving-to-libera,-and-extending-to-discord)
 - [proghq.org](https://proghq.org/wiki/index.php?title=Main_Page&diff=791&oldid=663)
+- [#proglangdesign](https://github.com/proglangdesign/proglangdesign.github.io/commit/29604ad7cf5134e6ecdb9b09ae8b48073ea9aba1)
 - [Project Apollo - NASSP](https://twitter.com/Thymo_/status/1397807574754467841)
 - [Project Bureau](https://github.com/whitequark/prjbureau/commit/9a3f25da19dc42dab29865cbfef312dcc8f2e82a)
 - [Prometheus](https://twitter.com/PrometheusIO/status/1396132359037149189)
