@@ -531,6 +531,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [#mcdevs](https://twitter.com/TkTech/status/1405158516080398337)
 - [MCF Gthread](https://github.com/lhmouse/mcfgthread/commit/6af54658f403bda7b66f49d9ae3ea8229614b98c)
 - [Mednafen](https://github.com/mednafen/mednafen.github.io/commit/f20664e6c24be8c1c6a7ad76b7c31c67c209d370) (to OFTC)
+- [MeerK40t](https://github.com/meerk40t/meerk40t/pull/451)
 - [MegaGlest](https://github.com/MegaGlest/megaglest-source/commit/d1ed68ef00add7561a16c5c51146e7e68b0cf736)
 - [meli](https://github.com/meli/meli/commit/eea9ac2b58666f0157558c7afe42a2346126c711) (to OFTC)
 - [Memory Pool System Kit](https://github.com/Ravenbrook/mps/commit/34a2ad77140666532e5f00a19cc0896efe0b1254) (to email)
