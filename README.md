@@ -13,6 +13,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Aaru Data Preservation Suite](https://twitter.com/aaru_dps/status/1395179602574782471)
 - [abcde](https://abcde.einval.com/wiki/)
 - [Accidental Tech Podcast](https://twitter.com/atpfm/status/1400226064350199808)
+- [ACK.space](https://ackspace.nl/w/index.php?title=Hackerspace_ACKspace:Communication&curid=21&diff=8884&oldid=8869)
 - [AcroBot](https://twitter.com/_acrobot/status/1405357390631882752)
 - [#ada](https://github.com/ohenley/awesome-ada/commit/c1b7c889d3249aec40dfceb439f725d523de985f)
 - [ADAM](https://github.com/bigdatagenomics/adam/commit/1f5c36c75959fd13fc5536db837432eca3c1e11b)
