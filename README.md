@@ -265,6 +265,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - #forth
 - [FOSDEM](https://fosdem.org/2021/news/2021-05-26-libera/)
 - [FOSSHOST](https://fosshost.org/news/libera-chat)
+- [fossjobs.net](https://github.com/fossjobs/fossjobs/commit/4da8b82b182c55cd4b4443ca3d4e48bdea7b9812)
 - [Free Pascal](https://twitter.com/freepascaldev/status/1397492296866832384)
 - [Free Software Foundation](https://www.fsf.org/news/update-to-the-fsf-and-gnus-plan-to-move-irc-channels-to-libera.chat)
 - [FreeBSD](https://wiki.freebsd.org/IRC/Official-FreeBSD-IRC-channels-now-on-Libera-Chat)
