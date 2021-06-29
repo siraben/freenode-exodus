@@ -469,6 +469,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Liege Hackerspace](https://github.com/LgHS/site-web-front/commit/9409e7ee174d76946ae3d53d424e9d22de1d0d3e)
 - [LilyPond](https://git.savannah.gnu.org/gitweb/?p=lilypond.git;a=commitdiff;h=fcd89a9f4f3c48dd4d57f63b76cc4353df5203a1)
 - [Limnoria](https://github.com/ProgVal/Limnoria/commit/04facade82b778482d4173a86b753945a1b72632)
+- [Linaro](https://github.com/Linaro/website/pull/1550) (to mailing lists)
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
 - [Linu.X-lab](https://github.com/LinuX-lab/LinuX-lab.github.io/commit/6ea5caf5d6b900a7b32753eca7442a1dc03d96cc)
 - [##linux](https://linux.chat/linux-on-freenode/)
