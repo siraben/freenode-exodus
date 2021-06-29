@@ -977,6 +977,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [xNetHack](https://github.com/copperwater/xNetHack/commit/d7ddc8df4c3a07b4c0975c2c3f21630e681ea5a0)
 - [xoreos](https://github.com/xoreos/xoreos/commit/cf0ff54463918ca5bfec7724a04c7f19c7057a1f)
 - [xpra](https://github.com/mjharkin/Xpra/commit/b45078ed37d051cd7fdceca67fa3a17028cafd9d)
+- [Xross Entity Map (XEM)](https://github.com/thezoggy/xem/commit/f58d4c73ad2b2b60858449c399dcc6dc60315097)
 - [XTools](https://github.com/x-tools/xtools/commit/96a372aa49dc0ea616f73bc4b68e63ca47849f26)
 - [Xubuntu](https://xubuntu-devel.narkive.com/ptEHzj6U/irc-move-to-libera-chat)
 - [##yamahasynths](https://mastodon.social/@cr1901/106301729167887474)
