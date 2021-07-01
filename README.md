@@ -311,6 +311,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Glewlwyd](https://github.com/babelouest/glewlwyd/commit/3c70cedb11c2f6eda9ac88822ba366af06ea727b)
 - [GLFW](https://github.com/glfw/glfw.github.io/commit/41f7e72937a45a06384f55795e0ca4d215e017dd)
 - [Glowing Bear](https://github.com/glowing-bear/glowing-bear/commit/68d44cf669aafe968a786b5d33d6903be540fa81)
+- [Gnocchi](https://github.com/gnocchixyz/gnocchi/commit/4566e41255bc2d17b5f30ed3aeda96b65da2e065) (to OFTC)
 - [GNU Health](https://twitter.com/gnuhealth/status/1404099825591799808)
 - [GNU Poke](https://lists.gnu.org/archive/html/poke-devel/2021-06/msg00008.html)
 - [GNU Radio](https://twitter.com/gnuradio/status/1397474348659875840)
