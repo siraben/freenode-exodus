@@ -606,6 +606,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [nMigen](https://github.com/nmigen/nmigen/commit/e974a31022d8ba1ee67bd49c82a11fa7a0a71145)
 - [NMState](https://github.com/nmstate/nmstate.github.io/commit/4c5e0e63b52e912d6b5b9d0b7c68611eaff7d815)
 - [node-dmx](https://github.com/node-dmx/dmx/commit/27964fa77dc6c70f0a5ea3d632910cf8543cd65e)
+- [Node.js](https://github.com/nodejs/nodejs.org/pull/3942/files)
 - [Noncesense Research Lab](https://github.com/noncesense-research-lab/noncesense-research-lab.github.io/commit/128f420c85f7bba94862d933478199a852c49508)
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
 - [Notmuch](https://github.com/notmuch/notmuch-wiki/commit/14bd0939d030873725ced673ab2c86fa3b1e6e7f)
