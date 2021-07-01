@@ -243,6 +243,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [F-Droid](https://f-droid.org/en/2021/06/10/important-community-update.html) (to OFTC)
 - [Fabric](https://github.com/fabric/fabric/commit/e99faffa1c7056533d36408606f12c29726fd242) (to personal blog)
 - [Fantasya](https://github.com/fantasya-pbem/website/pull/74)
+- [farmOS](https://github.com/farmOS/farmOS.org/commit/266a00fca6009bd0036a6abfad3370baf452a5de)
 - [fceux](https://github.com/TASVideos/fceux/commit/f5668dbf8b0946b1b3c79fd7fa4aeb101507b015)
 - [Fcitx](https://groups.google.com/g/fcitx-announce/c/_OTy4QRpT2E/m/RS_0DTMLAQAJ)
 - [Fedora](https://communityblog.fedoraproject.org/irc-announcement/)
