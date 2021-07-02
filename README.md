@@ -119,6 +119,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Calyxos](https://calyxos.org/news/2021/05/27/community-update/)
 - [Canvas-LMS](https://github.com/instructure/canvas-lms/commit/e4b3ccc4b424d1b727a70efd29f04a4f181bddc1)
 - [Cardiffrb](https://github.com/cardiffrb/cardiffrb/commit/eb96b7e4a9666fe2c824eaf0a5ce5c605995f5b5)
+- [Carnap](https://github.com/Carnap/Carnap/commit/d858360b671939d5353bdf2a16bbf3338873cb54)
 - [caronade](https://github.com/decke/caronade/commit/20ecb13f11b746e43b9c920733badeacd2b69700) (to GitHub)
 - [#cat-v](http://cat-v.org/about) (to OFTC)
 - [Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA/commit/ba504651dd5a1169a2c297f44af82878c85781e0)
