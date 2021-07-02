@@ -709,6 +709,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Pulp Project](https://twitter.com/pulpproj/status/1397532195594645509)
 - [PulseAudio](https://twitter.com/pulseaudio/status/1404984909299654656)
 - [purdueLUG](https://github.com/purdueLUG/purduelug.github.io/commit/69a35a274ebef30610fff5756d689d81305c53e9)
+- [PureScript](https://github.com/purescript/purescript.github.io/pull/149) (to Slack)
 - [py3status](https://github.com/ultrabug/py3status/commit/cacc0b823d4d9a6292eb47f0ede34abba547e3a0) (to OFTC)
 - [pydle](https://github.com/Shizmob/pydle/commit/baa7070309906f6a58d4b29bad6f1efff90baf16)
 - [PyLink](https://github.com/jlu5/PyLink/commit/ba5f89d03cb0e674a1c1bd07aee3497d56d342d6)
