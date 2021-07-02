@@ -923,6 +923,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [UIUCLUG](https://github.com/gnulug/gnulug.github.io/commit/43aab08d8df8e64d79e87a35c9547786290bc719)
 - [Ulfius](https://github.com/babelouest/ulfius/commit/adac160a9f7be6858e645befeccfe6683d38ec7f)
 - [Ultimate Hacking Keyboard](https://twitter.com/AmNicd/status/1397950492333035535)
+- [unity-gentoo](https://github.com/shiznix/unity-gentoo/commit/80a9464cf65888ac3c03e308929e1ebbcabf6efe)
 - [Unknown Horizons](https://twitter.com/uhorizons/status/1397152583475679234)
 - [Unreal Engine](https://forums.unrealengine.com/t/fyi-irc-ue4linux-has-moved-to-irc-libera-chat/235618/1)
 - [Unshift](https://github.com/unshiftio/requires-port/commit/90d662b26aab81526e1c45613eb5de055685a5f2) (to Github)
