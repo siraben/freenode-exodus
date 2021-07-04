@@ -671,6 +671,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [pass (password-store)](https://lists.zx2c4.com/pipermail/password-store/2021-May/004437.html)
 - [Patagonia Libre](https://twitter.com/flisolpatagonia/status/1396155847651299328)
 - [PBUI Project](https://github.com/pbui-project/pbui-main/commit/70ee305cc8c1293d775c3a5c7acc3deb8b0cef32)
+- [PCLinuxOS magazine](https://pclosmag.com/html/Issues/202107/page08.html) (to XMPP)
 - [#PDP-10](https://twitter.com/larsbrinkhoff/status/1397805807761334272)
 - [PE Resource Kit](https://github.com/midipix-project/perk/commit/daf7994ca1bee9b4c1b2966ff0ece64b252d58bb)
 - [PeerTube](https://github.com/Chocobozzz/PeerTube/commit/462271edd693cffb9242ca1e33d64cb0423e4b29)
