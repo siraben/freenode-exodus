@@ -636,6 +636,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenGameArt](https://github.com/OpenGameArt/OGABot_IRC/commit/aab531c4c4610ecb9a09972efd07b8ff69c55ca5) (to freegamedev.net IRC)
 - [#openhab](https://twitter.com/penguinponics/status/1395084712880660486)
 - [OpenIKED](https://github.com/openiked/openiked-portable/commit/28ecc4031b73939aa0ce69ae28f917100c5d8c1d)
+- [OpenIndiana](https://github.com/OpenIndiana/oi-docs/commit/55d11c359b0ddbdad41b1c75f9a8459950789ebf)
 - [openITCOCKPIT](https://openitcockpit.io/2021/2021/05/31/irc-announcement-migrating-to-libera-chat/)
 - [OpenKeychain](https://github.com/open-keychain/openkeychain.org/commit/927b3c7676b0bdd834463a72ecb8578834ea39c4)
 - [OpenLab Augsburg](https://github.com/openlab-aux/wikidata/commit/26d43ae546436d4f5653ac35a63bf07000f0b5d3)
