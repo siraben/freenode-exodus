@@ -897,6 +897,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Tiled](https://github.com/siraben/freenode-exodus/issues/127) (to Discord)
 - #titandev
 - [TKKRLAB](https://twitter.com/tkkrlab/status/1398000477766291457)
+- [TomeNET](https://github.com/TomenetGame/tomenet/commit/bcbb9d3df8c5b36ef4839b598606649049d09f6d)
 - [Toot](https://github.com/ihabunek/toot/commit/8f0bf27e5ebb06a9bad972b815b09f0939026f1c)
 - [Townforge](https://twitter.com/townforge/status/1397595704252588044)
 - [Tox Reference Implementation for Android](https://github.com/zoff99/ToxAndroidRefImpl/commit/49a409287d546e489a415741d73e4a2235aa4314)
