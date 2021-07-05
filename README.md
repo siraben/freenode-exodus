@@ -511,6 +511,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Lwan](https://github.com/lpereira/lwan/commit/d52c07bc0ad26c9034dbd4f04828720e571ef6cd)
 - [LXC](https://discuss.linuxcontainers.org/t/lxc-now-using-libera-as-its-irc-network-live-chats/11178)
 - [lykos](https://github.com/lykoss/lykos/commit/3d7aab45066a1f12eb028dfcc80074cbee80b881)
+- [M-Labs](https://github.com/m-labs/artiq/commit/51d2861e6363827a18afa4e490614b77e852aed9) (to OFTC)
 - [M36](https://github.com/agentm/project-m36/commit/ac193558ded79101ac65e08668236bfea9e91a35)
 - [MaadiX](https://twitter.com/MaadiXnet/status/1395320568317194247)
 - [MacPorts](https://github.com/macports/macports-www/commit/7fc05e4011b6487e9ea21657f9277edfa19bea17)
