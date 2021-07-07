@@ -462,6 +462,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [libcamera](https://github.com/libcamera-org/libcamera/commit/6b22a3657c615588ff489dbe16a0484530830823) (to OFTC)
 - [libgit2](https://github.com/libgit2/libgit2/commit/416ea5b46de01b86961d29911f6298c47d30714b)
 - [libguestfs](https://github.com/mdlayher/corerad/commit/29d95293a1524c6a1f3ab8606bc9e4dd01b21e0f)
+- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice.org/commit/a1feb90ac6624b24ab21c8614b2d4cf18cc28c23)
 - [libopencm3](https://github.com/libopencm3/libopencm3/commit/3b89fc5999874c49f6f5be65bbd5e75f7d77469c)
 - [libp2p](https://github.com/libp2p/libp2p/pull/98) (to Matrix)
 - [Libre Space Foundation](https://twitter.com/LibreSpace_Fnd/status/1405566962965622796)
