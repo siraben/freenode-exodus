@@ -652,7 +652,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenRW](https://github.com/rwengine/openrw/commit/30856790f11f0b4de1a6ac463b9d0fb80c5d9da4)
 - [OpenSCAD](https://github.com/openscad/openscad.github.com/commit/36ad15af10cf6c60e16a9242bc6860ffc133ae5a)
 - [OpenStack](https://www.openstack.org/blog/the-openstack-community-irc-network-moved-to-oftc/) (to OFTC)
-- [openSUSE](https://lists.opensuse.org/archives/list/project@lists.opensuse.org/thread/LCFCHULXR6774YKWKX5ASKQG3ABN6B3P/)
+- [openSUSE](https://news.opensuse.org/2021/07/07/irc-matrix-announcement/)
 - [openvswitch](https://github.com/openvswitch/openvswitch.github.io/commit/34edc573c7e6282a8c74a8086b9636a67d89fc32)
 - [OpenWRT](https://github.com/openwrt/openwrt/commit/5a66165cb1863693ce7901d153f5e41c91a130e1) (to OFTC)
 - [OpenZFS](https://github.com/openzfs/openzfs-docs/pull/167)
