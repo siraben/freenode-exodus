@@ -681,6 +681,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [PeerTube](https://github.com/Chocobozzz/PeerTube/commit/462271edd693cffb9242ca1e33d64cb0423e4b29)
 - [pekwm](https://github.com/pekwm/pekwm.github.io/commit/cff075434d222633ebac0ac5a727e685399dd366)
 - [Pepper & Carrot](https://www.davidrevoy.com/article847/the-official-chat-room-moved)
+- [Performance Co-Pilot](https://github.com/performancecopilot/ansible-pcp/commit/317ae83bfbb2f506672975f52b5b9ba15e30c43d)
 - [Perl](https://github.com/Perl/perl5/commit/1b4abd7a1176bbccd4448de637474be7e72f8a57)
 - [PHP](https://github.com/php/web-php/pull/409)
 - [PicoLisp](https://www.mail-archive.com/picolisp@software-lab.de/msg10639.html)
