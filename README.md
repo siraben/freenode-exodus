@@ -233,6 +233,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Ergo IRCd (formerly Oragono)](https://github.com/oragono/oragono-site/commit/8e9fe2653e08819078bff8ae45157c9481e60886)
 - [Esolangs](https://esolangs.org/w/index.php?title=Esolang:Community_portal&diff=83615&oldid=83522)
 - [ET: Legacy](https://github.com/etlegacy/etlegacy/issues/1655)
+- [EteSync](https://www.etesync.com/about/)
 - [ETS2 Job Logger](https://github.com/Lihis/ets2-job-logger/commit/b8369a21c0ae5a4aaf43e6ccdeef0342bf3e4e25)
 - [Evolix](https://twitter.com/evolix/status/1408105254877532161)
 - [Exaile](https://github.com/exaile/exaile/commit/3af997812948c2ef0cc042b5372aa58ee0f7380b) (to Mailing List and GitHub)
