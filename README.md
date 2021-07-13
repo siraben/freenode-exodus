@@ -1022,6 +1022,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Zapp](https://github.com/preaction/Zapp/commit/b4923d4a0596f22ea7ddbfcacf857973e31b9bf7)
 - [zbus](https://github.com/zeenix/zbus/commit/57c3328f35693b6e6cb55e810203a9b047b759b8) (to Matrix)
 - [ZDaemon](https://doomwiki.org/w/index.php?title=Zdaemon_(IRC_channel)&diff=263870&oldid=76643)
+- [ZealDocs](https://github.com/zealdocs/zeal/commit/f3e5a7ebc9035756955d4027f4e4b90daf8e4d70)
 - [Zed Attack Proxy](https://twitter.com/zaproxy/status/1397509029996417032)
 - [ZeroMQ](https://github.com/zeromq/zeromq.org/commit/7f0e9d7a16484fc02dfee11af02e9d7ff4dbc055)
 - [Zig](https://twitter.com/andy_kelley/status/1397388932367601665)
