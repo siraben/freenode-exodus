@@ -317,6 +317,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Glowing Bear](https://github.com/glowing-bear/glowing-bear/commit/68d44cf669aafe968a786b5d33d6903be540fa81)
 - [Gnocchi](https://github.com/gnocchixyz/gnocchi/commit/4566e41255bc2d17b5f30ed3aeda96b65da2e065) (to OFTC)
 - [GNU Health](https://twitter.com/gnuhealth/status/1404099825591799808)
+- [GNU Octave](https://github.com/gnu-octave/gnu-octave.github.io/commit/089873e421e70cadf147706b5e55ca8346f1528d)
 - [GNU Poke](https://lists.gnu.org/archive/html/poke-devel/2021-06/msg00008.html)
 - [GNU Radio](https://twitter.com/gnuradio/status/1397474348659875840)
 - [#gnus](https://lists.gnu.org/archive/html/emacs-erc/2021-06/msg00015.html)
