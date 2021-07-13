@@ -479,6 +479,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Limnoria](https://github.com/ProgVal/Limnoria/commit/04facade82b778482d4173a86b753945a1b72632)
 - [Linaro](https://github.com/Linaro/website/pull/1550) (to mailing lists)
 - [LineageOS](https://github.com/LineageOS/lineage_wiki/commit/e84fb35884927e20f470739142be0c7e0a1c3867)
+- [LINKping hackerspace](https://github.com/LINKPing/docs/commit/4bea54136d14d6a771ec72679a06d84a30afc87e)
 - [Linu.X-lab](https://github.com/LinuX-lab/LinuX-lab.github.io/commit/6ea5caf5d6b900a7b32753eca7442a1dc03d96cc)
 - [##linux](https://linux.chat/linux-on-freenode/)
 - [Linux Foundation](https://gerrit.linuxfoundation.org/infra/c/releng/docs/+/68025)
