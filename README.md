@@ -906,6 +906,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [The YAML Project](https://github.com/yaml/yaml/issues/64)
 - [TheAirPortWiki](https://github.com/ipatch/theairportwiki/commit/38454a2212a3e09591eef26a890c7c5d1491456e)
 - [Tiled](https://github.com/siraben/freenode-exodus/issues/127) (to Discord)
+- [Tinc App](https://github.com/pacien/tincapp/commit/a03671a24cc3abd28861f253ffa9b82b84e5d775)
 - #titandev
 - [TKKRLAB](https://twitter.com/tkkrlab/status/1398000477766291457)
 - [TomeNET](https://github.com/TomenetGame/tomenet/commit/bcbb9d3df8c5b36ef4839b598606649049d09f6d)
