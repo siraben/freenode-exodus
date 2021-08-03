@@ -328,6 +328,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Golang](https://twitter.com/dave_universetf/status/1398130757931966464)
 - [Google Benchmark](https://twitter.com/runtime/status/1396044095446036482)
 - [gophernicus](https://github.com/gophernicus/gophernicus/pull/98/files)
+- [Gothenburg Hackerspace](https://gbghackerspace.se/)
 - [gPodder](https://github.com/gpodder/gpodder.github.io/commit/e0b93a2c84a92664ed89be9436eaff2688b87fbb)
 - [GPUSPH](https://github.com/GPUSPH/gpusph/commit/08ffd94ddc4a076361f0e5f6e2bfde7874ba087f)
 - Grafana
