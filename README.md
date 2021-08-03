@@ -7,6 +7,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 
 **Note:** I can only accept additional projects and channels to the list accompanied with a citation, which can be (but is not limited to): an official announcement, wiki page, git commit, IRC log, social media post by project lead/official account, etc.
 
+- [/tmp/lab](https://www.tmplab.org/contact/)
 - [2600Hz](https://twitter.com/2600hertz/status/1397666224121782279)
 - [389 Directory Server](https://lists.fedoraproject.org/archives/list/389-announce@lists.fedoraproject.org/thread/3YGORSLC4LSNR7NRCAWG6MATMPS2SF6Q/)
 - [801 Labs](https://github.com/801labs/website/pull/29)
