@@ -583,6 +583,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Mousepaw Media](https://twitter.com/mousepawmedia/status/1397727750069227524)
 - [MPTCP](https://lore.kernel.org/mptcp/71bceb9e-cfc8-4577-5828-237fc66b753f@tessares.net/T/#u)
 - [mpv](https://twitter.com/mpv_player/status/1399663401903734784)
+- [Mudlet](https://github.com/Mudlet/Mudlet/pull/5343)
 - [MUGS (Multi-User Gaming Services)](https://github.com/Raku-MUGS/MUGS-Core/commit/f018d134fcf79cf0116e5ffa288b7fb8b10ee09c)
 - [Mumble](https://github.com/mumble-voip/mumble/discussions/5041#discussioncomment-803304) (to Matrix)
 - [Music Player Daemon (MPD)](https://www.musicpd.org/news/2021/05/bye-freenode-hello-libera-dot-chat/)
