@@ -21,6 +21,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [ADIIRC](https://www.adiirc.com/posts.php?i=125)
 - [afew](https://github.com/afewmail/afew/commit/8ef9a5b73e5d1063cf912c70027c655fb19d1109)
 - [AFPy](https://www.afpy.org/posts/actualites/1622023152)
+- [AFRA](https://afra-berlin.de/)
 - [Agda](https://wiki.portal.chalmers.se/agda/Main/Community?action=diff#diff1622023591)
 - [Aircrack-ng](https://twitter.com/aircrackng/status/1412169157584601091)
 - [Airship](https://twitter.com/airshipproject/status/1402052776083984385) (to OFTC)
