@@ -901,6 +901,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior/discussions/2489)
 - [TASVideos](http://tasvideos.org/forum/viewtopic.php?t=22647)
 - [Team Fortress Wiki](https://wiki.teamfortress.com/w/index.php?title=Team_Fortress_Wiki:IRC&diff=2980701&oldid=2970773)
+- [Tenacity](https://twitter.com/TenacityAudio/status/1414975659324157954)
 - [Termux](https://github.com/termux/termux-packages/commit/0f9c536c1ac8d33963249512cb4b28dcb6036c1a)
 - [Textual](https://github.com/Codeux-Software/Textual/commit/5201afd6a1464d9379e3ea1a21f90d8fe7e01d4b)
 - [The Foreman Project](https://twitter.com/ForemanProject/status/1397528127094538246)
