@@ -862,6 +862,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Source Mage GNU/Linux](https://sourcemage.org/News/leaving-freenode/)
 - [Sourcehut](https://sourcehut.org/blog/2021-05-19-liberachat/)
 - [SouthEast LinuxFest](https://twitter.com/SELinuxFest/status/1397941939345969157)
+- [SpaceVim](https://twitter.com/SpaceVim/status/1423250728114561025)
 - [Sparky Linux](https://twitter.com/SparkyLinux/status/1404815477474463752)
 - [Spidr](https://github.com/postmodern/spidr/commit/8632954e648923de6520f70fcb93ce55f6ecbb03) (to mailing lists)
 - [SPIP](https://blog.spip.net/L-IRC-spip-demenage-de-freenode-net-a-libera-chat.html)
