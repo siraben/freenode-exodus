@@ -693,6 +693,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Performance Co-Pilot](https://github.com/performancecopilot/ansible-pcp/commit/317ae83bfbb2f506672975f52b5b9ba15e30c43d)
 - [Perl](https://github.com/Perl/perl5/commit/1b4abd7a1176bbccd4448de637474be7e72f8a57)
 - [PHP](https://github.com/php/web-php/pull/409)
+- [Pico CMS](https://github.com/picocms/Pico/commit/09fbaaaf3385ccb1326df519e3c84cb2c7d69992)
 - [PicoLisp](https://www.mail-archive.com/picolisp@software-lab.de/msg10639.html)
 - [pimutils](https://github.com/pimutils/meta/pull/11)
 - [Pioneer Space Sim](https://github.com/pioneerspacesim/pioneer-hugo/commit/d38ca4b762c02f1ca8c66df749c19a7f1f557b74)
