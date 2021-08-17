@@ -659,6 +659,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [OpenMW](https://github.com/OpenMW/openmw/commit/b2791fd487d016754123bc6ce865c85ae2423f33)
 - [OpenNMS](https://opennms.discourse.group/t/irc-freenode-and-libera-chat/1951)
 - [OpenQBMM](https://twitter.com/OpenQBMM/status/1405746139236732942)
+- [OpenRC](https://github.com/OpenRC/openrc/commit/1d282ddc80b2dcd9adbff7d662822fcd7e0c10e5)
 - [OpenRW](https://github.com/rwengine/openrw/commit/30856790f11f0b4de1a6ac463b9d0fb80c5d9da4)
 - [OpenSCAD](https://github.com/openscad/openscad.github.com/commit/36ad15af10cf6c60e16a9242bc6860ffc133ae5a)
 - [OpenStack](https://www.openstack.org/blog/the-openstack-community-irc-network-moved-to-oftc/) (to OFTC)
