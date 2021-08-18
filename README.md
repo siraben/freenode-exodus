@@ -294,6 +294,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [FSFE](https://fsfe.org/news/2021/news-20210525-01.de.html)
 - #fuchsia (to OFTC)
 - [Fusion Directory](https://twitter.com/fusiondirectory/status/1404912571774275584)
+- [FusionForge](https://fusionforge.org/plugins/mediawiki/wiki/fusionforge/index.php?title=Main_Page&diff=prev&oldid=3688)
 - [FVWM-crystal](https://github.com/fvwm-crystal/fvwm-crystal/commit/9e69daf5d58d903d0ae3d3c3e6b8e9fd5490247c)
 - [FVWM3](https://github.com/fvwmorg/fvwmorg.github.io/commit/eed5315a5a1aa9653e17aa19ac591a050c944fa1)
 - [Gabbi](https://github.com/cdent/gabbi/commit/733076d1994436f4782e09b82c24cc540a5b619f) (to OFTC)
