@@ -624,6 +624,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [NMState](https://github.com/nmstate/nmstate.github.io/commit/4c5e0e63b52e912d6b5b9d0b7c68611eaff7d815)
 - [node-dmx](https://github.com/node-dmx/dmx/commit/27964fa77dc6c70f0a5ea3d632910cf8543cd65e)
 - [Node.js](https://github.com/nodejs/nodejs.org/pull/3942/files)
+- [nom](https://github.com/Geal/nom/commit/3de831816cda69020224404b708c5fb02b63c072#diff-8bc1d650dd7ef1c1ada56406a23d57e2e73289edd1ec486ac82b60819d49d653R14-R16)
 - [Noncesense Research Lab](https://github.com/noncesense-research-lab/noncesense-research-lab.github.io/commit/128f420c85f7bba94862d933478199a852c49508)
 - [Nonguix](https://github.com/nonguix/nonguix/commit/46c1d8bcca674d3a71cd077c52dde9552a89873d)
 - [North Bay Linux Users' Group (NBLUG)](https://nblug.org/articles/2021/nblug-moved-to-liberachat.html)
