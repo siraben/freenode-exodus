@@ -924,6 +924,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [Tinc App](https://github.com/pacien/tincapp/commit/a03671a24cc3abd28861f253ffa9b82b84e5d775)
 - #titandev
 - [TKKRLAB](https://twitter.com/tkkrlab/status/1398000477766291457)
+- [ToaruOS](https://github.com/klange/toaruos/commit/2769081f71dcc53b901a194343fe2c3717e52700#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
 - [TomeNET](https://github.com/TomenetGame/tomenet/commit/bcbb9d3df8c5b36ef4839b598606649049d09f6d)
 - [Toot](https://github.com/ihabunek/toot/commit/8f0bf27e5ebb06a9bad972b815b09f0939026f1c)
 - [Townforge](https://twitter.com/townforge/status/1397595704252588044)
