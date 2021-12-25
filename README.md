@@ -145,6 +145,7 @@ This is an ongoing list of projects and channels that have decided to permanentl
 - [ckb-next](https://github.com/ckb-next/ckb-next/commit/da6a5d664201b74081e1e0520c6d8b6a3718aae8)
 - [ClamAV](https://blog.clamav.net/2021/06/join-clamav-on-discord.html) (to Discord)
 - [Clash](https://github.com/clash-lang/clash-lang.org/commit/0be4c023485f0160824e3b0bb2f0295497474709)
+- [Classic Blades of Exile](https://github.com/calref/cboe/commit/b364cc9bdb1f33ebcadef6b7488d06dbc6a218ea)
 - [Clojure](https://clojure.org/community/resources)
 - [cloud-init](https://github.com/canonical/cloud-init/commit/63f72380a70d9f846cac3b2cbbc6ed13c735c277)
 - [ClusterLabs](https://github.com/ClusterLabs/clusterlabs-www/pull/33)
