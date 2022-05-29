@@ -1,9 +1,9 @@
 # Projects and channels that have decided to leave Freenode
 [![Check](https://github.com/siraben/freenode-exodus/actions/workflows/check.yml/badge.svg)](https://github.com/siraben/freenode-exodus/actions/workflows/check.yml)
 
-[Freenode is dead](https://www.devever.net/~hl/freenode_suicide). Long live Libera!
+[Freenode is dead](https://www.devever.net/~hl/freenode_suicide). Long live Libera! This repository is no longer being updated.
 
-This is an ongoing list of projects and channels that have decided to permanently move out of Freenode (now Joseon) to https://libera.chat (unless stated otherwise). Please open an issue, PR or PM me on IRC (siraben) if there's additions or corrections, such as adding citation links.
+This is an ongoing list of projects and channels that have decided to permanently move out of Freenode to https://libera.chat (unless stated otherwise). Please open an issue, PR or PM me on IRC (siraben) if there's additions or corrections, such as adding citation links.
 
 **Note:** I can only accept additional projects and channels to the list accompanied with a citation, which can be (but is not limited to): an official announcement, wiki page, git commit, IRC log, social media post by project lead/official account, etc.
 
